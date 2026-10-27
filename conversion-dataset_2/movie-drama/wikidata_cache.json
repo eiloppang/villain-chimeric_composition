@@ -1,0 +1,1388 @@
+{
+  "Q1147326": {
+    "label": "Loki",
+    "description": "fictional character in Marvel Comics",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Hiddleston_by_Gage_Skidmore_%28cropped%29.jpg",
+    "instance_of": [
+      "Q4412856",
+      "Q1114461"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q14429969": {
+    "label": "Coriolanus Snow",
+    "description": "Hunger Games character",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q176132": {
+    "label": "Lord Voldemort",
+    "description": "main antagonist of J. K. Rowling's Harry Potter series",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lord_Voldemort%27s_Figure.jpg",
+    "instance_of": [
+      "Q15298259",
+      "Q3658341",
+      "Q15773347",
+      "Q66118879",
+      "Q33297169",
+      "Q3375722"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1977325": {
+    "label": "Scar",
+    "description": "fictional character and main antagonist from The Lion King",
+    "image_url": null,
+    "instance_of": [
+      "Q88594442",
+      "Q15711870"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q203927": {
+    "label": "Patrick Bateman",
+    "description": "fictional character and narrator of the novel American Psycho by Bret Easton Ellis, and its film adaptation",
+    "image_url": null,
+    "instance_of": [
+      "Q15773347",
+      "Q15632617",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q329466": {
+    "label": "Freddy Krueger",
+    "description": "the main antagonist of the A Nightmare on Elm Street film series",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q30061294"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q12206942": {
+    "label": "Darth Vader",
+    "description": "main villain of the Star Wars Trilogy",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q33125444",
+      "Q22074477",
+      "Q15773347",
+      "Q3658341",
+      "Q15773317",
+      "Q15711870",
+      "Q1569167",
+      "Q89050960"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2085488": {
+    "label": "Agent Smith",
+    "description": "Fictional character appearing in The Matrix",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Warner_Brothers_VIP_studio_tour_-_Matrix_mannequins_%282862323128%29.jpg",
+    "instance_of": [
+      "Q3658341",
+      "Q15773347",
+      "Q19657408",
+      "Q15711870",
+      "Q66481339"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3665163": {
+    "label": "Cersei Lannister",
+    "description": "character in A Song of Ice and Fire",
+    "image_url": null,
+    "instance_of": [
+      "Q20086263",
+      "Q20086260",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q283111": {
+    "label": "Professor Moriarty",
+    "description": "fictional character from Sherlock Holmes",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moriarty_-_Sidney_Paget.jpg",
+    "instance_of": [
+      "Q3658341",
+      "Q15773347",
+      "Q15773317",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1997439": {
+    "label": "White Witch",
+    "description": "fictional witch, sorceress, queen; antagonist in \"The Chronicles of Narnia\"",
+    "image_url": null,
+    "instance_of": [
+      "Q5641611",
+      "Q3658341",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2331578": {
+    "label": "Jafar",
+    "description": "Aladdin character",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aladdin_-_11884148073_%28cropped%29.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q15711870",
+      "Q15773347",
+      "Q130287298"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1628095": {
+    "label": "Annie Wilkes",
+    "description": "fictional character in the 1987 novel Misery",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2281": {
+    "label": "Sauron",
+    "description": "fictional character from J.R.R. Tolkien's legendarium",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sauron_replica.jpg",
+    "instance_of": [
+      "Q719506",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2260732": {
+    "label": "General Zod",
+    "description": "character from the Superman comics and related media",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_Comic_Con_2014_-_General_Zod_%2815519505971%29.jpg",
+    "instance_of": [
+      "Q6439708",
+      "Q15711870",
+      "Q15773317",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q217533": {
+    "label": "The Joker",
+    "description": "fictional character throughout the DC Universe",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q1114461",
+      "Q15773347",
+      "Q15773317",
+      "Q15711870",
+      "Q1569167",
+      "Q80447738"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2538485": {
+    "label": "Alex",
+    "description": "fictional character in A Clockwork Orange",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Malcolm_McDowell_Clockwork_Orange.png",
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q136796429": {
+    "label": "John Doe",
+    "description": "fictional character in the 1995 film Seven",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1660555": {
+    "label": "Maleficent",
+    "description": "Disney fairy character",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maleficent_-_Sleeping_Beauty_1970_Reissue_Trailer.png",
+    "instance_of": [
+      "Q15711870",
+      "Q30318131",
+      "Q15773347",
+      "Q130287298"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q295599": {
+    "label": "Two-Face",
+    "description": "villain in the DC Comics universe",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/C2E2_2013_-_Two_Face_%288683586201%29.jpg",
+    "instance_of": [
+      "Q1114461",
+      "Q15773347",
+      "Q15773317",
+      "Q15711870",
+      "Q15632617",
+      "Q1569167"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q4001141": {
+    "label": "Tyler Durden",
+    "description": "fictional character appearing as the protagonist of the 1996 Chuck Palahniuk novel Fight Club",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2604715": {
+    "label": "Eddie Brock",
+    "description": "fictional character in Marvel Comics",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Venom_Cosplay.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q1114461",
+      "Q15711870"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2742701": {
+    "label": "Catherine Tramell",
+    "description": "Basic Instinct character",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sharon_Stone_2002.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q222573"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q104532755": {
+    "label": "Pamela Isley",
+    "description": "fictional character who appears in Joel Schumacher's 1997 superhero film Batman & Robin.",
+    "image_url": null,
+    "instance_of": [
+      "Q3855553",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q116987109": {
+    "label": "Mystique",
+    "description": "fictional character",
+    "image_url": null,
+    "instance_of": [
+      "Q15773347",
+      "Q1094617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q388605": {
+    "label": "Cruella de Vil",
+    "description": "fictional character in Dodie Smith's \"The Hundred and One Dalmatians\" and in the Disney animated film and franchise \"101 Dalmatians\"",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cruella_%2811926613414%29.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q15711870",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q6175066": {
+    "label": "Ursula",
+    "description": "The Little Mermaid character",
+    "image_url": null,
+    "instance_of": [
+      "Q30169184",
+      "Q15711870",
+      "Q15773347",
+      "Q130287298"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q7070198": {
+    "label": "Nurse Ratched",
+    "description": "main antagonist of Ken Kesey's 1962 novel One Flew Over the Cuckoo's Nest",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2720206": {
+    "label": "Miranda Priestly",
+    "description": "character in The Devil Wears Prada",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q924817": {
+    "label": "Auric Goldfinger",
+    "description": "fictional James Bond villain",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1104987": {
+    "label": "Ernst Stavro Blofeld",
+    "description": "fictional James Bond villain",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/On_Her_Majesty%27s_Secret_Service_%287%29.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1866048": {
+    "label": "Red Grant",
+    "description": null,
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q28677832": {
+    "label": "Amy Dunne",
+    "description": "character from Gone Girl",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q4775712": {
+    "label": "Anton Chigurh",
+    "description": "fictional hitman",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347",
+      "Q5446576"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q18545687": {
+    "label": "Hans Gruber",
+    "description": "fictional character from Die Hard",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q158940": {
+    "label": "Bane",
+    "description": "fictional character in the DC Comics universe, a supervillain",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Dark_Knight_Rises_%287590755186%29.jpg",
+    "instance_of": [
+      "Q1114461",
+      "Q15632617",
+      "Q15711870",
+      "Q15773347",
+      "Q1569167",
+      "Q15773317",
+      "Q3855553",
+      "Q76450109",
+      "Q88551364",
+      "Q100052791"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1981711": {
+    "label": "Count Olaf",
+    "description": "fictional character from A Series of Unfortunate Events",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773317",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q20748244": {
+    "label": "Clarence Boddicker",
+    "description": "fictional character from RoboCop",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2288207": {
+    "label": "Ivan Drago",
+    "description": "fictional Russian boxer from the film Rocky IV",
+    "image_url": null,
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3751766": {
+    "label": "Frank Booth",
+    "description": "fictional character and the main antagonist in David Lynch's 1986 psychological thriller Blue Velvet, portrayed by Dennis Hopper",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2601499": {
+    "label": "Jack Torrance",
+    "description": "fictional character in Stephen King's novel The Shining",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Nicholson_2001.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347",
+      "Q15773317",
+      "Q30061299"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q111974814": {
+    "label": "Amon Göth",
+    "description": "fictionalized character from Steven Spielberg's 1993 Schindler's List",
+    "image_url": null,
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2584003": {
+    "label": "Gordon Gekko",
+    "description": "the main antagonist of the 1987 film Wall Street and the antihero of its 2010 sequel Wall Street: Money Never Sleeps",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2975734": {
+    "label": "Keyser Söze",
+    "description": "character in the 1995 film The Usual Suspects",
+    "image_url": null,
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q40475": {
+    "label": "Joan Crawford",
+    "description": "American actress (1908–1977)",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joan_Crawford_-_1936_-_Hurrell.JPG",
+    "instance_of": [
+      "Q5"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q125658961": {
+    "label": "Tommy DeVito",
+    "description": "character in 1990 film Goodfellas",
+    "image_url": null,
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3459134": {
+    "label": "Colonel Kurtz",
+    "description": "main antagonist of Francis Ford Coppola's Apocalypse Now",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q840202": {
+    "label": "Davy Jones",
+    "description": "fictional character from Pirates of the Caribbean",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosplay_of_Davy_Jones_at_Animangaki_2022.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q34315358"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1623086": {
+    "label": "Hector Barbossa",
+    "description": "fictional character in the Pirates of the Caribbean film series",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q30061600"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3498720": {
+    "label": "Travis Bickle",
+    "description": "protagonist of the 1976 film Taxi Driver",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Travis_Bickle.png",
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q166150": {
+    "label": "Damien Thorn",
+    "description": "antagonist of The Omen series",
+    "image_url": null,
+    "instance_of": [
+      "Q19324463",
+      "Q15773347",
+      "Q174546",
+      "Q15773317"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1753322": {
+    "label": "Kingpin",
+    "description": "fictional character in Marvel Comics",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q1114461",
+      "Q15711870",
+      "Q15773347",
+      "Q15773317",
+      "Q1569167"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q7052821": {
+    "label": "Norman Stansfield",
+    "description": "fictional character from Léon: The Professional",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3120776": {
+    "label": "Hans Landa",
+    "description": "fictional Inglourious Basterds character",
+    "image_url": null,
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q7320853": {
+    "label": "Rhoda Penmark",
+    "description": "literature and film character.",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3375722",
+      "Q3658341",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q835154": {
+    "label": "Michael Corleone",
+    "description": "fictional character from The Godfather series",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2278431": {
+    "label": "Hyman Roth",
+    "description": "fictional character in the film The Godfather Part II",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q931582": {
+    "label": "Fredo Corleone",
+    "description": "fictional character from The Godfather series",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1994983": {
+    "label": "Virgil Sollozzo",
+    "description": "fictional character from The Godfather series",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q458019": {
+    "label": "Emilio Barzini",
+    "description": "fictional character from The Godfather series",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q124736670": {
+    "label": "Angel Eyes",
+    "description": "Western film character",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2998140": {
+    "label": "Dengar",
+    "description": "fictional character from the Star Wars universe",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q33125444"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q6929112": {
+    "label": "Mr. Potter",
+    "description": "fictional character in It's a Wonderful Life",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Barrymore_as_Mr._Potter.jpg",
+    "instance_of": [
+      "Q1792372"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q113127012": {
+    "label": "Hugh Mann",
+    "description": "fictional character from Interstellar",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2327890": {
+    "label": "T-1000",
+    "description": "robotic antagonist in the film \"Terminator 2: Judgment Day\"",
+    "image_url": null,
+    "instance_of": [
+      "Q3658341",
+      "Q551327",
+      "Q30174902",
+      "Q4747789"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2537674": {
+    "label": "Biff Tannen",
+    "description": "fictional character from the American sci-fi film trilogy Back to the Future",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q72707072": {
+    "label": "Yubaba",
+    "description": "fictional character from Spirited Away",
+    "image_url": null,
+    "instance_of": [
+      "Q28020127",
+      "Q80447738",
+      "Q16153191"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2467893": {
+    "label": "Norman Bates",
+    "description": "fictional character",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony_Perkins_Psycho_Publicity_Photo.jpg",
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1434": {
+    "label": "Commodus",
+    "description": "17th Roman Emperor (180–192)",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Commodus_Musei_Capitolini_MC1120.jpg",
+    "instance_of": [
+      "Q5"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q10359462": {
+    "label": "René Belloq",
+    "description": "fictional character in the Indiana Jones franchise",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q24879147": {
+    "label": "Auto",
+    "description": "fictional robot and autopilot from WALL-E",
+    "image_url": null,
+    "instance_of": [
+      "Q18327510",
+      "Q15711870"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q63882650": {
+    "label": "Norma Desmond",
+    "description": "fictional character in the movie Sunset Boulevard by Billy Wilder and in the musical Sunset Boulevard by Andrew Lloyd Webber",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q63975020"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2276627": {
+    "label": "Thanos",
+    "description": "fictional character in Marvel Comics",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thanos.png",
+    "instance_of": [
+      "Q1114461",
+      "Q89050960"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q9582830": {
+    "label": "Adenoid Hynkel",
+    "description": "fictional character from the 1940 film The Great Dictator",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Great_Dictator_still_cropped_%28high_quality_version%29.jpg",
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q82560416": {
+    "label": "Leonard Vole",
+    "description": "theatrical character in the play \"Witness for the Prosecution\"",
+    "image_url": null,
+    "instance_of": [
+      "Q3375722",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q26989882": {
+    "label": "Carter Burke",
+    "description": "영화 에이리언 2 등장인물",
+    "image_url": null,
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q125908009": {
+    "label": "Lester Burnham",
+    "description": "main protagonist of the 1999 film American Beauty",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q62505545": {
+    "label": "Ernesto de la Cruz",
+    "description": "fictional character from the movie Coco",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q51088": {
+    "label": "Antonio Salieri",
+    "description": "Italian composer and teacher (1750–1825)",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio_Salieri_painted_by_Joseph_Willibrord_M%C3%A4hler.jpg",
+    "instance_of": [
+      "Q5"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q20823484": {
+    "label": "Sid Phillips",
+    "description": "Toy Story character",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q118247723"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q57798": {
+    "label": "Edward I of England",
+    "description": "King of England",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gal_nations_edward_i.jpg",
+    "instance_of": [
+      "Q5"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q10749037": {
+    "label": "Lotso",
+    "description": "fictional teddy bear from Toy Story 3",
+    "image_url": null,
+    "instance_of": [
+      "Q27598544",
+      "Q118247723"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q833933": {
+    "label": "HAL 9000",
+    "description": "fictional character in Arthur C. Clarke's Space Odyssey series",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HAL9000.svg",
+    "instance_of": [
+      "Q20962530",
+      "Q3658341",
+      "Q15773347",
+      "Q18327510",
+      "Q66481339"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q629034": {
+    "label": "Tony Montana",
+    "description": "fictional character from Scarface",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3666392": {
+    "label": "Charles Muntz",
+    "description": "Pixar character",
+    "image_url": null,
+    "instance_of": [
+      "Q15711870",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q352": {
+    "label": "Adolf Hitler",
+    "description": "dictator of Germany from 1933 to 1945, main instigator of World War II and leader of the Holocaust (1889–1945)",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolf_Hitler_cropped_restored_3x4.jpg",
+    "instance_of": [
+      "Q5"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q295375": {
+    "label": "Scarecrow",
+    "description": "fictional character in DC Comics",
+    "image_url": null,
+    "instance_of": [
+      "Q1114461",
+      "Q15632617",
+      "Q15711870",
+      "Q15773347",
+      "Q15773317"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3183674": {
+    "label": "Jordan Belfort",
+    "description": "American stockbroker",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jordan_Belfort_-_May_30%2C_2010.jpg",
+    "instance_of": [
+      "Q5"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q63882444": {
+    "label": "Eve Harrington",
+    "description": "musical character in the musical Applause by Charles Strouse",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q63975020"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q124982057": {
+    "label": "Daniel Plainview",
+    "description": "main protagonist in 2007 film There Will Be Blood",
+    "image_url": null,
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q125445994": {
+    "label": "Nicky Santoro",
+    "description": "main antagonist of the 1995 film Casino",
+    "image_url": null,
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q324322": {
+    "label": "John Hammond",
+    "description": "fictional character from Jurassic Park",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1077206": {
+    "label": "Bill",
+    "description": "character from Kill Bill",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q112114356": {
+    "label": "Darla Sherman",
+    "description": "secondary antagonist from the 2003 film 'Finding Nemo'",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15711870"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q125741954": {
+    "label": "Witch of the Waste",
+    "description": "character in Howl's Moving Castle",
+    "image_url": null,
+    "instance_of": [
+      "Q80447738"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1649955": {
+    "label": "Scarlett O'Hara",
+    "description": "fictional character in Gone with the Wind",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vivien_Leigh_Gone_Wind_Restored.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2824013": {
+    "label": "Adam Susan",
+    "description": "fictional character",
+    "image_url": null,
+    "instance_of": [
+      "Q1114461",
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q335855": {
+    "label": "Jake LaMotta",
+    "description": "American boxer (1922–2017)",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jake_LaMotta_signed_photo_postcard_1952.JPG",
+    "instance_of": [
+      "Q5"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q17090877": {
+    "label": "Norman Osborn",
+    "description": "fictional character in Marvel Comics",
+    "image_url": null,
+    "instance_of": [
+      "Q14831768",
+      "Q15711870",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2297886": {
+    "label": "Electro",
+    "description": "fictional character in Marvel Comics",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Electro_and_the_Shocker_%28cropped%29.jpg",
+    "instance_of": [
+      "Q14831768",
+      "Q1114461",
+      "Q15711870",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1049890": {
+    "label": "Sandman",
+    "description": "fictional character in Marvel Comics",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NYCC_2016_-_Sandman_%2829954188370%29.jpg",
+    "instance_of": [
+      "Q14831768",
+      "Q15711870",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q28134422": {
+    "label": "Jerry Lundegaard",
+    "description": "1996 film Fargo character",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q116774": {
+    "label": "Frank Abagnale",
+    "description": "American security consultant, former confidence trickster, check forger, impostor, and escape artist",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Abagnale_%28cropped%29.jpg",
+    "instance_of": [
+      "Q5"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q65929400": {
+    "label": "Roy Batty",
+    "description": "replicant in Blade Runner",
+    "image_url": null,
+    "instance_of": [
+      "Q3174429",
+      "Q15773347",
+      "Q3658341",
+      "Q22074483"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q107354784": {
+    "label": "Edwin Epps",
+    "description": "cotton plantation slaveholder",
+    "image_url": null,
+    "instance_of": [
+      "Q5"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q19572991": {
+    "label": "Messala",
+    "description": "fictional character from Lew Wallace's 1880 novel Ben-Hur: A Tale of the Christ",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francis_X._Bushman_-_Radio_Mirror%2C_April_1936.jpg",
+    "instance_of": [
+      "Q3658341",
+      "Q15632617",
+      "Q15773347",
+      "Q15773317",
+      "Q15711870"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1586653": {
+    "label": "Harry Lime",
+    "description": null,
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry_Lime_publicity.jpg",
+    "instance_of": [
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q85769086": {
+    "label": "Immortan Joe",
+    "description": "antagonist of Mad Max: Fury Road",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q16594539": {
+    "label": "Randall Boggs",
+    "description": "Monsters, Inc. character",
+    "image_url": null,
+    "instance_of": [
+      "Q118247723",
+      "Q2593744"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q26857775": {
+    "label": "Skinner",
+    "description": "fictional character from Ratatouille",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15711870"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q327037": {
+    "label": "Georges Rutaganda",
+    "description": "Rwandan militia leader and war criminal (1958-2010)",
+    "image_url": null,
+    "instance_of": [
+      "Q5"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q51817275": {
+    "label": "Zander Rice",
+    "description": "fictional character in Marvel Comics",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q1114461",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1976616": {
+    "label": "Terminator",
+    "description": "fictional series of cyborgs portrayed by Arnold Schwarzenegger",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Londres_Mme_Tussaud_museum_Arnold_Schwarzenegger_%282%29.jpg",
+    "instance_of": [
+      "Q3658341",
+      "Q551327"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q63887517": {
+    "label": "The Wicked Witch of the West/Miss Gulch",
+    "description": "musical character in the musical The Wizard of Oz by Harold Arlen",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q63975020"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q51879774": {
+    "label": "Syndrome",
+    "description": "main antagonist of the 2004 film The Incredibles",
+    "image_url": null,
+    "instance_of": [
+      "Q15711870",
+      "Q15773347",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q6929736": {
+    "label": "Mrs. Danvers",
+    "description": "fictional character in Daphne du Maurier's 1938 novel Rebecca",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q55686703": {
+    "label": "Kent Mansley",
+    "description": "fictional human from The Iron Giant",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q15711870"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3604059": {
+    "label": "Child Catcher",
+    "description": "fictional character from Chitty Chitty Bang Bang",
+    "image_url": null,
+    "instance_of": [
+      "Q1792372"
+    ],
+    "part_of_series": null,
+    "creator": null
+  }
+}

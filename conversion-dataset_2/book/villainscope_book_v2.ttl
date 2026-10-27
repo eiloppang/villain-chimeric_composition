@@ -1,0 +1,1773 @@
+@prefix ability: <http://villainscope.org/ability/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix trait: <http://villainscope.org/trait/> .
+@prefix villain: <http://villainscope.org/villain/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix work: <http://villainscope.org/work/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://villainscope.org/ontology> a owl:Ontology ;
+    rdfs:label "VillainScope Knowledge Graph"@en ;
+    dcterms:creator "Gayeon Kim" ;
+    rdfs:comment "Knowledge graph for villain character analysis supporting distant reading and Graph RAG applications."@en ;
+    owl:versionInfo "2.0" .
+
+ability:Can_control_animals_like_dogs_horses a villain:Ability ;
+    rdfs:label "Can control animals like dogs, horses" .
+
+ability:Can_twist_the_human_heart a villain:Ability ;
+    rdfs:label "Can twist the human heart" .
+
+ability:Dark_magic a villain:Ability ;
+    rdfs:label "Dark magic" .
+
+ability:Gunmanship a villain:Ability ;
+    rdfs:label "Gunmanship" .
+
+ability:Immunity_to_diseases a villain:Ability ;
+    rdfs:label "Immunity to diseases" .
+
+ability:Impersonation a villain:Ability ;
+    rdfs:label "Impersonation" .
+
+ability:Induces_hallucinations a villain:Ability ;
+    rdfs:label "Induces hallucinations" .
+
+ability:Infiltration a villain:Ability ;
+    rdfs:label "Infiltration" .
+
+ability:Magic a villain:Ability ;
+    rdfs:label "Magic" .
+
+ability:Malfunction_machines a villain:Ability ;
+    rdfs:label "Malfunction machines" .
+
+ability:Manipulate_fire_and_flames a villain:Ability ;
+    rdfs:label "Manipulate fire and flames" .
+
+ability:Masquerade a villain:Ability ;
+    rdfs:label "Masquerade" .
+
+ability:Nigh-limitless_divine_powers a villain:Ability ;
+    rdfs:label "Nigh-limitless divine powers" .
+
+ability:Proficient_in_swordsmanship a villain:Ability ;
+    rdfs:label "Proficient in swordsmanship" .
+
+ability:Speed a villain:Ability ;
+    rdfs:label "Speed" .
+
+ability:Strength a villain:Ability ;
+    rdfs:label "Strength" .
+
+ability:Superhuman_feature_Power_and_speed_surpassing_that_of_humans_Immunity_to_aging_and_disease_faster_recovery_than_humans a villain:Ability ;
+    rdfs:label "Superhuman feature: Power and speed surpassing that of humans Immunity to aging and disease faster recovery than humans" .
+
+ability:Teleportation a villain:Ability ;
+    rdfs:label "Teleportation" .
+
+ability:The_Master_of_Poisoncraft a villain:Ability ;
+    rdfs:label "The Master of Poisoncraft" .
+
+trait:Anger a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Anger" ;
+    skos:prefLabel "Anger"@en .
+
+trait:Antagonists_appellation_of_Name a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Antagonist's appellation of Name" ;
+    skos:prefLabel "Antagonist's appellation of Name"@en .
+
+trait:Antagonists_appellation_of_name a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Antagonist's appellation of name" ;
+    skos:prefLabel "Antagonist's appellation of name"@en .
+
+trait:Antisocial a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Antisocial" ;
+    skos:prefLabel "Antisocial"@en .
+
+trait:Aristocratic_Megalomania a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Aristocratic Megalomania" ;
+    skos:prefLabel "Aristocratic Megalomania"@en .
+
+trait:Avenge a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Avenge" ;
+    skos:prefLabel "Avenge"@en .
+
+trait:Betrayal a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Betrayal" ;
+    skos:prefLabel "Betrayal"@en .
+
+trait:Betrays_siblings_and_kills_father_maliciously a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Betrays siblings and kills father maliciously." ;
+    skos:prefLabel "Betrays siblings and kills father maliciously."@en .
+
+trait:Brazenness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Brazenness" ;
+    skos:prefLabel "Brazenness"@en .
+
+trait:Callous_Sadism a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Callous Sadism" ;
+    skos:prefLabel "Callous Sadism"@en .
+
+trait:Cannibalism a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cannibalism" ;
+    skos:prefLabel "Cannibalism"@en .
+
+trait:Collector a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Collector" ;
+    skos:prefLabel "Collector"@en .
+
+trait:Commits_wrongdoing_without_dirtying_their_own_hands a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Commits wrongdoing without dirtying their own hands." ;
+    skos:prefLabel "Commits wrongdoing without dirtying their own hands."@en .
+
+trait:Conceals_a_passionate_heart a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Conceals a passionate heart" ;
+    skos:prefLabel "Conceals a passionate heart"@en .
+
+trait:Corrupted_officials a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Corrupted officials" ;
+    skos:prefLabel "Corrupted officials"@en .
+
+trait:Cowardice a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cowardice" ;
+    skos:prefLabel "Cowardice"@en .
+
+trait:Cruel a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cruel" ;
+    skos:prefLabel "Cruel"@en .
+
+trait:Cruelty a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cruelty" ;
+    skos:prefLabel "Cruelty"@en .
+
+trait:Cunning_tyrant a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cunning tyrant" ;
+    villain:belongsToCategory trait:IntellectualTraits ;
+    skos:prefLabel "Cunning tyrant"@en .
+
+trait:Cynicism a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cynicism" ;
+    skos:prefLabel "Cynicism"@en .
+
+trait:Dark_backstory a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Dark backstory" ;
+    skos:prefLabel "Dark backstory"@en .
+
+trait:Deceitfulness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Deceitfulness" ;
+    skos:prefLabel "Deceitfulness"@en .
+
+trait:Deceiver a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Deceiver" ;
+    skos:prefLabel "Deceiver"@en .
+
+trait:Deception a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Deception" ;
+    skos:prefLabel "Deception"@en .
+
+trait:Desire_for_power a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Desire for power" ;
+    skos:prefLabel "Desire for power"@en .
+
+trait:Difficult_temper a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Difficult temper" ;
+    skos:prefLabel "Difficult temper"@en .
+
+trait:Disgust_towards_guns_bombs a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Disgust towards guns, bombs" ;
+    skos:prefLabel "Disgust towards guns, bombs"@en .
+
+trait:Dislikes_children a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Dislikes children" ;
+    skos:prefLabel "Dislikes children"@en .
+
+trait:Dual_nature a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Dual nature" ;
+    skos:prefLabel "Dual nature"@en .
+
+trait:Dual_personality a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Dual personality" ;
+    villain:belongsToCategory trait:PsychologicalTraits ;
+    skos:prefLabel "Dual personality"@en .
+
+trait:Emphasizes_manners a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Emphasizes manners" ;
+    skos:prefLabel "Emphasizes manners"@en .
+
+trait:Exhibitionist a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Exhibitionist" ;
+    skos:prefLabel "Exhibitionist"@en .
+
+trait:Extravagance a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Extravagance" ;
+    skos:prefLabel "Extravagance"@en .
+
+trait:Extroverted a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Extroverted" ;
+    skos:prefLabel "Extroverted"@en .
+
+trait:Fallen_angel a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Fallen angel" ;
+    skos:prefLabel "Fallen angel"@en .
+
+trait:Fears_fire_guns a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Fears fire, guns" ;
+    skos:prefLabel "Fears fire, guns"@en .
+
+trait:Ferocious_when_angry a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Ferocious when angry" ;
+    skos:prefLabel "Ferocious when angry"@en .
+
+trait:Frustration a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Frustration" ;
+    skos:prefLabel "Frustration"@en .
+
+trait:Guilt_over_murder a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Guilt over murder" ;
+    skos:prefLabel "Guilt over murder"@en .
+
+trait:Hoarding_instinct a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Hoarding instinct" ;
+    skos:prefLabel "Hoarding instinct"@en .
+
+trait:Immaturity a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Immaturity" ;
+    skos:prefLabel "Immaturity"@en .
+
+trait:Incarnate_devil a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Incarnate devil" ;
+    villain:belongsToCategory trait:MoralTraits ;
+    skos:prefLabel "Incarnate devil"@en .
+
+trait:Insights a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Insights" ;
+    skos:prefLabel "Insights"@en .
+
+trait:Instinctual a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Instinctual" ;
+    skos:prefLabel "Instinctual"@en .
+
+trait:Irresponsible a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Irresponsible" ;
+    skos:prefLabel "Irresponsible"@en .
+
+trait:Kindness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Kindness" ;
+    skos:prefLabel "Kindness"@en .
+
+trait:Leadership a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Leadership" ;
+    villain:belongsToCategory trait:SocialTraits ;
+    skos:prefLabel "Leadership"@en .
+
+trait:Liar a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Liar" ;
+    villain:belongsToCategory trait:MoralTraits ;
+    skos:prefLabel "Liar"@en .
+
+trait:Listens_to_Bachs_Symphony_No_7_after_committing_murder a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Listens to Bach's Symphony No. 7 after committing murder." ;
+    skos:prefLabel "Listens to Bach's Symphony No. 7 after committing murder."@en .
+
+trait:Lolicon a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Lolicon" ;
+    skos:prefLabel "Lolicon"@en .
+
+trait:Lonely_teenager a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Lonely teenager" ;
+    skos:prefLabel "Lonely teenager"@en .
+
+trait:Lust_for_power a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Lust for power" ;
+    skos:prefLabel "Lust for power"@en .
+
+trait:Machinations a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Machinations" ;
+    skos:prefLabel "Machinations"@en .
+
+trait:Maternal_love a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Maternal love" ;
+    skos:prefLabel "Maternal love"@en .
+
+trait:Mistreatment a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Mistreatment" ;
+    skos:prefLabel "Mistreatment"@en .
+
+trait:Mocks_others a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Mocks others" ;
+    skos:prefLabel "Mocks others"@en .
+
+trait:Motiveless_malignity a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Motiveless malignity" ;
+    skos:prefLabel "Motiveless malignity"@en .
+
+trait:Murderous_manipulation a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Murderous manipulation" ;
+    skos:prefLabel "Murderous manipulation"@en .
+
+trait:Mysterious a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Mysterious" ;
+    skos:prefLabel "Mysterious"@en .
+
+trait:Occultism a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Occultism" ;
+    skos:prefLabel "Occultism"@en .
+
+trait:PTSD_Posttraumatic_Stress_Disorder a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "PTSD (Posttraumatic Stress Disorder)" ;
+    skos:prefLabel "PTSD (Posttraumatic Stress Disorder)"@en .
+
+trait:Patient a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Patient" ;
+    skos:prefLabel "Patient"@en .
+
+trait:Pedophilia a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Pedophilia" ;
+    skos:prefLabel "Pedophilia"@en .
+
+trait:Persistence a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Persistence" ;
+    skos:prefLabel "Persistence"@en .
+
+trait:Piracy a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Piracy" ;
+    villain:belongsToCategory trait:BehavioralTraits ;
+    skos:prefLabel "Piracy"@en .
+
+trait:Psychopath a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Psychopath" ;
+    villain:belongsToCategory trait:PsychologicalTraits ;
+    skos:prefLabel "Psychopath"@en .
+
+trait:Regicide a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Regicide" ;
+    skos:prefLabel "Regicide"@en .
+
+trait:Ruthlessness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Ruthlessness" ;
+    villain:belongsToCategory trait:BehavioralTraits ;
+    skos:prefLabel "Ruthlessness"@en .
+
+trait:Self-indulgent a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Self-indulgent" ;
+    skos:prefLabel "Self-indulgent"@en .
+
+trait:Sexism a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Sexism" ;
+    skos:prefLabel "Sexism"@en .
+
+trait:Skilled_in_flattery_for_personal_gain a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Skilled in flattery for personal gain." ;
+    skos:prefLabel "Skilled in flattery for personal gain."@en .
+
+trait:Smoking a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Smoking" ;
+    skos:prefLabel "Smoking"@en .
+
+trait:Speech_patterns a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Speech patterns" ;
+    skos:prefLabel "Speech patterns"@en .
+
+trait:Substance_abuse a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Substance abuse" ;
+    skos:prefLabel "Substance abuse"@en .
+
+trait:Supervillain a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Supervillain" ;
+    skos:prefLabel "Supervillain"@en .
+
+trait:Tragedian_in_real_life_-_William_Hazlitt a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Tragedian in real life - William Hazlitt" ;
+    skos:prefLabel "Tragedian in real life - William Hazlitt"@en .
+
+trait:Treacherous a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Treacherous" ;
+    skos:prefLabel "Treacherous"@en .
+
+trait:Treason a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Treason" ;
+    skos:prefLabel "Treason"@en .
+
+trait:Unfortunate_childhood a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Unfortunate childhood" ;
+    skos:prefLabel "Unfortunate childhood"@en .
+
+trait:Vampire a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Vampire" ;
+    skos:prefLabel "Vampire"@en .
+
+trait:Vegetarian a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Vegetarian" ;
+    skos:prefLabel "Vegetarian"@en .
+
+trait:Vicious a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Vicious" ;
+    skos:prefLabel "Vicious"@en .
+
+trait:Violent a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Violent" ;
+    skos:prefLabel "Violent"@en .
+
+trait:Vulnerable_to_sunlight a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Vulnerable to sunlight" ;
+    skos:prefLabel "Vulnerable to sunlight"@en .
+
+trait:Zombielike_resilience a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Zombielike resilience" ;
+    skos:prefLabel "Zombielike resilience"@en .
+
+ability:Shapeshifting a villain:Ability ;
+    rdfs:label "Shapeshifting" .
+
+trait:Arrogance a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Arrogance" ;
+    villain:belongsToCategory trait:PsychologicalTraits ;
+    skos:prefLabel "Arrogance"@en .
+
+trait:Evil a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Evil" ;
+    villain:belongsToCategory trait:MoralTraits ;
+    skos:prefLabel "Evil"@en .
+
+trait:Ignorance a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Ignorance" ;
+    skos:prefLabel "Ignorance"@en .
+
+trait:Lack_of_morality a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Lack of morality" ;
+    skos:prefLabel "Lack of morality"@en .
+
+trait:Malevolence a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Malevolence" ;
+    skos:prefLabel "Malevolence"@en .
+
+trait:Narcissism a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Narcissism" ;
+    villain:belongsToCategory trait:PsychologicalTraits ;
+    skos:prefLabel "Narcissism"@en .
+
+trait:Racism a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Racism" ;
+    skos:prefLabel "Racism"@en .
+
+villain:villain_001 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "lago" ;
+    schema1:age 28 ;
+    schema1:description "Cleverness: Manipulative, highly intellectual, quick-witted. | Narcissism: Considers oneself smarter than others, excessive pride and self-esteem. | Motiveless malignity: Executes evil deeds perfectly without apparent reason. | Tragedian in real life - William Hazlitt: Practicing tragedy in reality with originality. | Lack of morality: Indifferent to moral good and evil, sees everything crookedly, views all humans equally. | Speech patterns: Hesitant speech, starts and stops, echoes the end of others' sentences, skillfully combines similar vocabulary to induce outbursts of accumulated emotions. | Dual nature: Ruthless, selfish, yet empathetic, popular among friends, instills trust in others. | Insights: Penetrates thoughts, feelings, desires emerging from human inner self, exploits doubts, hatred, and solidifies the urge to kill." ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Edwin_Booth_as_Iago_crop.jpg> ;
+    schema1:isPartOf work:work_001 ;
+    schema1:jobTitle "advisor" ;
+    schema1:name "lago" ;
+    schema1:sameAs wd:Q1655364 ;
+    villain:appearsIn work:work_001 ;
+    villain:ethnicity "Venetian" ;
+    villain:facialFeatures "Pale; White; Mustache" ;
+    villain:hairDescription "Brown, Black hair" ;
+    villain:hasPersonalityTrait trait:Cleverness,
+        trait:Cynicism,
+        trait:Dual_nature,
+        trait:Insights,
+        trait:Lack_of_morality,
+        trait:Machinations,
+        trait:Motiveless_malignity,
+        trait:Narcissism,
+        trait:Racism,
+        trait:Sexism,
+        trait:Speech_patterns,
+        trait:Tragedian_in_real_life_-_William_Hazlitt ;
+    villain:occupation "advisor" ;
+    villain:personalityDetails "Cleverness: Manipulative, highly intellectual, quick-witted. | Narcissism: Considers oneself smarter than others, excessive pride and self-esteem. | Motiveless malignity: Executes evil deeds perfectly without apparent reason. | Tragedian in real life - William Hazlitt: Practicing tragedy in reality with originality. | Lack of morality: Indifferent to moral good and evil, sees everything crookedly, views all humans equally. | Speech patterns: Hesitant speech, starts and stops, echoes the end of others' sentences, skillfully combines similar vocabulary to induce outbursts of accumulated emotions. | Dual nature: Ruthless, selfish, yet empathetic, popular among friends, instills trust in others. | Insights: Penetrates thoughts, feelings, desires emerging from human inner self, exploits doubts, hatred, and solidifies the urge to kill." ;
+    villain:personalityTrait "Cleverness",
+        "Cynicism",
+        "Dual nature",
+        "Insights",
+        "Lack of morality",
+        "Machinations",
+        "Motiveless malignity",
+        "Narcissism",
+        "Racism",
+        "Sexism",
+        "Speech patterns",
+        "Tragedian in real life - William Hazlitt" ;
+    villain:personalityTraits "Cleverness; Narcissism; Motiveless malignity; Tragedian in real life - William Hazlitt; Lack of morality; Speech patterns; Dual nature; Insights; Machinations; Sexism; Racism; Cynicism" ;
+    villain:wikidataDescription "fictional character in William Shakespeare's Othello"@en ;
+    villain:wikidataEntity wd:Q1655364 ;
+    villain:wikidataLabel "Iago"@en ;
+    owl:sameAs wd:Q1655364 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q3375722 ;
+    foaf:age 28 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Edwin_Booth_as_Iago_crop.jpg> ;
+    foaf:gender "Male" ;
+    foaf:name "lago" ;
+    foaf:title "advisor" .
+
+villain:villain_002 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Richard III" ;
+    schema1:age 32 ;
+    schema1:description "Extravagance: Excessive spending and wastefulness. | Difficult temper: Quick to anger, prone to outbursts. | Ignorance: Lacks awareness of the limits of their power, believes themselves invincible, disregards advice, becomes enraged at rightful criticism. | Irresponsible: Acts without regard for consequences or duties. | Self-indulgent: Overly lenient towards oneself, indulges in personal desires." ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/William_Hogarth_-_David_Garrick_as_Richard_III_-_Google_Art_Project.jpg> ;
+    schema1:isPartOf work:work_002 ;
+    schema1:jobTitle "King" ;
+    schema1:name "Richard III" ;
+    schema1:sameAs wd:Q652011 ;
+    villain:appearsIn work:work_002 ;
+    villain:distinctiveFeatures "Hunch; Limp; Withered arm" ;
+    villain:ethnicity "Yorkists" ;
+    villain:facialFeatures "White; Blue eyes;" ;
+    villain:hairDescription "fair-haired hair" ;
+    villain:hasPersonalityTrait trait:Commits_wrongdoing_without_dirtying_their_own_hands,
+        trait:Difficult_temper,
+        trait:Extravagance,
+        trait:Ignorance,
+        trait:Irresponsible,
+        trait:Self-indulgent ;
+    villain:occupation "King" ;
+    villain:personalityDetails "Extravagance: Excessive spending and wastefulness. | Difficult temper: Quick to anger, prone to outbursts. | Ignorance: Lacks awareness of the limits of their power, believes themselves invincible, disregards advice, becomes enraged at rightful criticism. | Irresponsible: Acts without regard for consequences or duties. | Self-indulgent: Overly lenient towards oneself, indulges in personal desires." ;
+    villain:personalityTrait "Commits wrongdoing without dirtying their own hands.",
+        "Difficult temper",
+        "Extravagance",
+        "Ignorance",
+        "Irresponsible",
+        "Self-indulgent" ;
+    villain:personalityTraits "Extravagance; Difficult temper; Ignorance; Irresponsible; Self-indulgent; Commits wrongdoing without dirtying their own hands." ;
+    villain:wikidataDescription "Shakespearean history play"@en ;
+    villain:wikidataEntity wd:Q652011 ;
+    villain:wikidataLabel "Richard III"@en ;
+    owl:sameAs wd:Q652011 ;
+    wdt:P31 wd:Q116476516 ;
+    foaf:age 32 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/William_Hogarth_-_David_Garrick_as_Richard_III_-_Google_Art_Project.jpg> ;
+    foaf:gender "Male" ;
+    foaf:name "Richard III" ;
+    foaf:title "King" .
+
+villain:villain_003 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Aaron the Moor" ;
+    schema1:description "Mistreatment: Rape, murder, feels no remorse for those in mental distress, even finding joy in it. Delighted by others' misfortunes. | Maternal love: Overprotective of her son till the end. (Obsessive towards her son due to past miscarriage)" ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_003 ;
+    schema1:jobTitle "Slave" ;
+    schema1:name "Aaron the Moor" ;
+    schema1:sameAs wd:Q73007104 ;
+    villain:appearsIn work:work_003 ;
+    villain:ethnicity "Moor" ;
+    villain:facialFeatures "Black skin" ;
+    villain:hairDescription "Woolly hair" ;
+    villain:hasPersonalityTrait trait:Criminal,
+        trait:Incarnate_devil,
+        trait:Maternal_love,
+        trait:Mistreatment,
+        trait:Racism,
+        trait:Treacherous ;
+    villain:occupation "Slave" ;
+    villain:personalityDetails "Mistreatment: Rape, murder, feels no remorse for those in mental distress, even finding joy in it. Delighted by others' misfortunes. | Maternal love: Overprotective of her son till the end. (Obsessive towards her son due to past miscarriage)" ;
+    villain:personalityTrait "Criminal",
+        "Incarnate devil",
+        "Maternal love",
+        "Mistreatment",
+        "Racism",
+        "Treacherous" ;
+    villain:personalityTraits "Racism; Mistreatment; Treacherous; Maternal love; Criminal; incarnate devil" ;
+    villain:wikidataDescription "fictional character"@en ;
+    villain:wikidataEntity wd:Q73007104 ;
+    villain:wikidataLabel "Aaron"@en ;
+    owl:sameAs wd:Q73007104 ;
+    wdt:P31 wd:Q95074 ;
+    foaf:gender "Male" ;
+    foaf:name "Aaron the Moor" ;
+    foaf:title "Slave" .
+
+villain:villain_004 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Frankenstein" ;
+    schema1:description "Frustration: Constantly blames the Creator (Doctor) | Humanity: Compassion. Saves a drowning girl. Pursues beauty and nature. Strives to learn acts of kindness." ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Frankenstein%2C_or_the_Modern_Prometheus_%28Revised_Edition%2C_1831%29_Creature.jpg> ;
+    schema1:isPartOf work:work_004 ;
+    schema1:jobTitle "Wanderer" ;
+    schema1:knowsAbout "Superhuman feature: Power and speed surpassing that of humans Immunity to aging and disease faster recovery than humans" ;
+    schema1:name "Frankenstein" ;
+    schema1:sameAs wd:Q2021531 ;
+    villain:abilities "Superhuman feature: Power and speed surpassing that of humans Immunity to aging and disease faster recovery than humans" ;
+    villain:ageDescription "Imperishability" ;
+    villain:appearsIn work:work_004 ;
+    villain:distinctiveFeatures "Nails are embedded; Evidence of stitching on the forehead." ;
+    villain:facialFeatures "Green; Wrinkled skin; eyes of yellow; Black lips" ;
+    villain:hairDescription "Black hair" ;
+    villain:hasAbility ability:Superhuman_feature_Power_and_speed_surpassing_that_of_humans_Immunity_to_aging_and_disease_faster_recovery_than_humans ;
+    villain:hasPersonalityTrait trait:Anger,
+        trait:Frustration,
+        trait:Vegetarian ;
+    villain:occupation "Wanderer" ;
+    villain:personalityDetails "Frustration: Constantly blames the Creator (Doctor) | Humanity: Compassion. Saves a drowning girl. Pursues beauty and nature. Strives to learn acts of kindness." ;
+    villain:personalityTrait "Anger",
+        "Frustration",
+        "Vegetarian" ;
+    villain:personalityTraits "Anger; Frustration; Vegetarian" ;
+    villain:wikidataDescription "1818 fictional character by Mary Shelley"@en ;
+    villain:wikidataEntity wd:Q2021531 ;
+    villain:wikidataLabel "Frankenstein's monster"@en ;
+    owl:sameAs wd:Q2021531 ;
+    wdt:P31 wd:Q15773317,
+        wd:Q15773347,
+        wd:Q276453,
+        wd:Q28020127,
+        wd:Q30017383,
+        wd:Q30061600,
+        wd:Q3658341 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Frankenstein%2C_or_the_Modern_Prometheus_%28Revised_Edition%2C_1831%29_Creature.jpg> ;
+    foaf:gender "Male" ;
+    foaf:name "Frankenstein" ;
+    foaf:title "Wanderer" .
+
+villain:villain_005 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Cao Cao" ;
+    schema1:age 65 ;
+    schema1:description "Charisma: Possesses decisiveness and leadership. | Cleverness: Demonstrates high intelligence across various fields. | Cunning tyrant: Power-hungry, exhibiting deceitful behavior." ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_005 ;
+    schema1:jobTitle "General; King" ;
+    schema1:name "Cao Cao" ;
+    schema1:sameAs wd:Q123582478 ;
+    villain:appearsIn work:work_005 ;
+    villain:ethnicity "Chinese" ;
+    villain:facialFeatures "Sharp eyes" ;
+    villain:hasPersonalityTrait trait:Charisma,
+        trait:Cleverness,
+        trait:Cunning_tyrant ;
+    villain:occupation "General; King" ;
+    villain:personalityDetails "Charisma: Possesses decisiveness and leadership. | Cleverness: Demonstrates high intelligence across various fields. | Cunning tyrant: Power-hungry, exhibiting deceitful behavior." ;
+    villain:personalityTrait "Charisma",
+        "Cleverness",
+        "Cunning tyrant" ;
+    villain:personalityTraits "Charisma; Cleverness; Cunning tyrant" ;
+    villain:wikidataDescription "Romance of the Three Kingdoms character"@en ;
+    villain:wikidataEntity wd:Q123582478 ;
+    villain:wikidataLabel "Cao Cao"@en ;
+    owl:sameAs wd:Q123582478 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q3658341 ;
+    foaf:age 65 ;
+    foaf:gender "Male" ;
+    foaf:name "Cao Cao" ;
+    foaf:title "General; King" .
+
+villain:villain_006 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Gao Qiu" ;
+    schema1:age 50 ;
+    schema1:description "Corrupted officials | Ruthlessness: Commits countless dastardly deeds to gain power. | Cleverness: Writes well. | Cunning | Skilled in flattery for personal gain. | Lack of morality: Engages in crimes (bribery) for personal advancement." ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_006 ;
+    schema1:jobTitle "Mandarin" ;
+    schema1:name "Gao Qiu" ;
+    schema1:sameAs wd:Q110943983 ;
+    villain:appearsIn work:work_006 ;
+    villain:ethnicity "Chinese" ;
+    villain:hasPersonalityTrait trait:Cleverness,
+        trait:Corrupted_officials,
+        trait:Cunning,
+        trait:Deception,
+        trait:Lack_of_morality,
+        trait:Ruthlessness,
+        trait:Skilled_in_flattery_for_personal_gain ;
+    villain:occupation "Mandarin" ;
+    villain:personalityDetails "Corrupted officials | Ruthlessness: Commits countless dastardly deeds to gain power. | Cleverness: Writes well. | Cunning | Skilled in flattery for personal gain. | Lack of morality: Engages in crimes (bribery) for personal advancement." ;
+    villain:personalityTrait "Cleverness",
+        "Corrupted officials",
+        "Cunning",
+        "Deception",
+        "Lack of morality",
+        "Ruthlessness",
+        "Skilled in flattery for personal gain." ;
+    villain:personalityTraits "Corrupted officials; Ruthlessness; Cleverness; Cunning; Skilled in flattery for personal gain.; Lack of morality; Deception" ;
+    villain:wikidataDescription "fictional character in Water Margin"@en ;
+    villain:wikidataEntity wd:Q110943983 ;
+    villain:wikidataLabel "Gao Qiu"@en ;
+    owl:sameAs wd:Q110943983 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q3658341 ;
+    foaf:age 50 ;
+    foaf:gender "Male" ;
+    foaf:name "Gao Qiu" ;
+    foaf:title "Mandarin" .
+
+villain:villain_007 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Captain Hook" ;
+    schema1:age 50 ;
+    schema1:description "Cunning: deceives enemies skillfully." ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Captain_Hook.PNG> ;
+    schema1:isPartOf work:work_007 ;
+    schema1:jobTitle "Pirate" ;
+    schema1:knowsAbout "Proficient in swordsmanship; Gunmanship" ;
+    schema1:name "Captain Hook" ;
+    schema1:sameAs wd:Q1035128 ;
+    villain:abilities "Proficient in swordsmanship; Gunmanship" ;
+    villain:appearsIn work:work_007 ;
+    villain:distinctiveFeatures "Carries a hook on hand. Handsome." ;
+    villain:facialFeatures "Blue eyes" ;
+    villain:hairDescription "Curly hair; presumed to be a wig" ;
+    villain:hasAbility ability:Gunmanship,
+        ability:Proficient_in_swordsmanship ;
+    villain:hasPersonalityTrait trait:Cleverness,
+        trait:Cunning,
+        trait:Immaturity,
+        trait:Leadership,
+        trait:Piracy ;
+    villain:occupation "Pirate" ;
+    villain:personalityDetails "Cunning: deceives enemies skillfully." ;
+    villain:personalityTrait "Cleverness",
+        "Cunning",
+        "Immaturity",
+        "Leadership",
+        "Piracy" ;
+    villain:personalityTraits "Cleverness; Piracy; Immaturity; Cunning; Leadership" ;
+    villain:wikidataDescription "fictional pirate"@en ;
+    villain:wikidataEntity wd:Q1035128 ;
+    villain:wikidataLabel "Captain Hook"@en ;
+    owl:sameAs wd:Q1035128 ;
+    wdt:P31 wd:Q130287298,
+        wd:Q15632617,
+        wd:Q15773317,
+        wd:Q15773347,
+        wd:Q3658341 ;
+    foaf:age 50 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Captain_Hook.PNG> ;
+    foaf:gender "Male" ;
+    foaf:name "Captain Hook" ;
+    foaf:title "Pirate" .
+
+villain:villain_008 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Hannibal Lecter" ;
+    schema1:age 40 ;
+    schema1:description "Cannibalism: Kills and cooks people they dislike, giving them a sense of nesting inside their mother's womb. It's an act of seclusion from the outside world, providing comfort and a sense of internal abundance that revives them. | Cleverness: A genius serial killer, adept at various professions and fluent in multiple languages, earning the title of genius in various fields. | PTSD (Posttraumatic Stress Disorder): PTSD from past trauma. | Psychopath: Lacks empathy and feels no remorse after committing murder. | Emphasizes manners. " ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_008 ;
+    schema1:jobTitle "Psychiatrist; Gourmet; Artist, Scholar; Surgeon; Forensic Scientist" ;
+    schema1:knowsAbout "The Master of Poisoncraft" ;
+    schema1:name "Hannibal Lecter" ;
+    schema1:sameAs wd:Q211013 ;
+    villain:abilities "The Master of Poisoncraft" ;
+    villain:appearsIn work:work_008 ;
+    villain:ethnicity "Lithuanian noble descent" ;
+    villain:hasAbility ability:The_Master_of_Poisoncraft ;
+    villain:hasPersonalityTrait trait:Cannibalism,
+        trait:Cleverness,
+        trait:Cunning,
+        trait:Emphasizes_manners,
+        trait:Listens_to_Bachs_Symphony_No_7_after_committing_murder,
+        trait:PTSD_Posttraumatic_Stress_Disorder,
+        trait:Psychopath ;
+    villain:occupation "Psychiatrist; Gourmet; Artist, Scholar; Surgeon; Forensic Scientist" ;
+    villain:personalityDetails "Cannibalism: Kills and cooks people they dislike, giving them a sense of nesting inside their mother's womb. It's an act of seclusion from the outside world, providing comfort and a sense of internal abundance that revives them. | Cleverness: A genius serial killer, adept at various professions and fluent in multiple languages, earning the title of genius in various fields. | PTSD (Posttraumatic Stress Disorder): PTSD from past trauma. | Psychopath: Lacks empathy and feels no remorse after committing murder. | Emphasizes manners. " ;
+    villain:personalityTrait "Cannibalism",
+        "Cleverness",
+        "Cunning",
+        "Emphasizes manners",
+        "Listens to Bach's Symphony No. 7 after committing murder.",
+        "PTSD (Posttraumatic Stress Disorder)",
+        "Psychopath" ;
+    villain:personalityTraits "Cannibalism; Cleverness; PTSD (Posttraumatic Stress Disorder); Psychopath; Emphasizes manners; Cunning; Listens to Bach's Symphony No. 7 after committing murder." ;
+    villain:wikidataDescription "fictional character created by Thomas Harris"@en ;
+    villain:wikidataEntity wd:Q211013 ;
+    villain:wikidataLabel "Hannibal Lecter"@en ;
+    owl:sameAs wd:Q211013 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q15773317,
+        wd:Q15773347,
+        wd:Q3658341 ;
+    foaf:age 40 ;
+    foaf:gender "Male" ;
+    foaf:name "Hannibal Lecter" ;
+    foaf:title "Psychiatrist; Gourmet; Artist, Scholar; Surgeon; Forensic Scientist" .
+
+villain:villain_009 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Maven Calore" ;
+    schema1:age 17 ;
+    schema1:description "Lonely teenager: who was constantly overshadowed by his older brother and ignored by his father." ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_009 ;
+    schema1:jobTitle "Prince" ;
+    schema1:knowsAbout "Manipulate fire and flames" ;
+    schema1:name "Maven Calore" ;
+    villain:abilities "Manipulate fire and flames" ;
+    villain:appearsIn work:work_009 ;
+    villain:distinctiveFeatures "Slender build; Approximately 6 feet tall." ;
+    villain:facialFeatures "Pale; Ice-blue eyes" ;
+    villain:hairDescription "Black hair" ;
+    villain:hasAbility ability:Manipulate_fire_and_flames ;
+    villain:hasPersonalityTrait trait:Betrays_siblings_and_kills_father_maliciously,
+        trait:Conceals_a_passionate_heart,
+        trait:Extroverted,
+        trait:Kindness,
+        trait:Lonely_teenager ;
+    villain:occupation "Prince" ;
+    villain:personalityDetails "Lonely teenager: who was constantly overshadowed by his older brother and ignored by his father." ;
+    villain:personalityTrait "Betrays siblings and kills father maliciously.",
+        "Conceals a passionate heart",
+        "Extroverted",
+        "Kindness",
+        "Lonely teenager" ;
+    villain:personalityTraits "Lonely teenager; Kindness; Extroverted; Conceals a passionate heart; Betrays siblings and kills father maliciously." ;
+    foaf:age 17 ;
+    foaf:gender "Male" ;
+    foaf:name "Maven Calore" ;
+    foaf:title "Prince" .
+
+villain:villain_010 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Edward Hyde" ;
+    schema1:age 50 ;
+    schema1:description "Dark backstory: The serum (created to suppress his impulses) causes his evil side to manifest | Malevolence: Dr. Jekyll (his alter ego) inherently tainted by evil | Callous Sadism: Cruelty for Sport — Deriving a terrifying sense of liberation from acts of senseless violence, such as trampling a child or the brutal murder of Sir Danvers Carew, which he views with \"hellish\" glee." ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Jekyll.and.Hyde.Ch1.Drawing3.jpg> ;
+    schema1:isPartOf work:work_010 ;
+    schema1:jobTitle "Scientist" ;
+    schema1:name "Edward Hyde" ;
+    schema1:sameAs wd:Q43650835 ;
+    villain:appearsIn work:work_010 ;
+    villain:distinctiveFeatures "Large build; Hat" ;
+    villain:hasPersonalityTrait trait:Antisocial,
+        trait:Callous_Sadism,
+        trait:Cleverness,
+        trait:Dark_backstory,
+        trait:Dislikes_children,
+        trait:Dual_personality,
+        trait:Instinctual,
+        trait:Malevolence ;
+    villain:occupation "Scientist" ;
+    villain:personalityDetails "Dark backstory: The serum (created to suppress his impulses) causes his evil side to manifest | Malevolence: Dr. Jekyll (his alter ego) inherently tainted by evil | Callous Sadism: Cruelty for Sport — Deriving a terrifying sense of liberation from acts of senseless violence, such as trampling a child or the brutal murder of Sir Danvers Carew, which he views with \"hellish\" glee." ;
+    villain:personalityTrait "Antisocial",
+        "Callous Sadism",
+        "Cleverness",
+        "Dark backstory",
+        "Dislikes children",
+        "Dual personality",
+        "Instinctual",
+        "Malevolence" ;
+    villain:personalityTraits "Dual personality; Dark backstory; Malevolence; Instinctual; Antisocial; Dislikes children; Cleverness; Callous Sadism" ;
+    villain:wikidataDescription "fictional character from Robert Louis Stevenson's Strange Case of Dr Jekyll and Mr Hyde"@en ;
+    villain:wikidataEntity wd:Q43650835 ;
+    villain:wikidataLabel "Mr. Hyde"@en ;
+    owl:sameAs wd:Q43650835 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q15773347,
+        wd:Q3658341,
+        wd:Q64825337 ;
+    foaf:age 50 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Jekyll.and.Hyde.Ch1.Drawing3.jpg> ;
+    foaf:gender "Male" ;
+    foaf:name "Edward Hyde" ;
+    foaf:title "Scientist" .
+
+villain:villain_011 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Lady Macbeth" ;
+    schema1:age 30 ;
+    schema1:description "Murderous manipulation: Manipulates her husband to kill Duncan. | Guilt over murder: Suffers from delusions and commits suicide." ;
+    schema1:gender "Female" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Macbeth_by_Alfred_Stevens.jpg> ;
+    schema1:isPartOf work:work_011 ;
+    schema1:jobTitle "Queen" ;
+    schema1:name "Lady Macbeth" ;
+    schema1:sameAs wd:Q2454065 ;
+    villain:appearsIn work:work_011 ;
+    villain:hasPersonalityTrait trait:Charisma,
+        trait:Cleverness,
+        trait:Desire_for_power,
+        trait:Guilt_over_murder,
+        trait:Murderous_manipulation,
+        trait:Regicide ;
+    villain:occupation "Queen" ;
+    villain:personalityDetails "Murderous manipulation: Manipulates her husband to kill Duncan. | Guilt over murder: Suffers from delusions and commits suicide." ;
+    villain:personalityTrait "Charisma",
+        "Cleverness",
+        "Desire for power",
+        "Guilt over murder",
+        "Murderous manipulation",
+        "Regicide" ;
+    villain:personalityTraits "Murderous manipulation; Guilt over murder; Desire for power; Regicide; Cleverness; Charisma" ;
+    villain:wikidataDescription "character from Shakespeare's play"@en ;
+    villain:wikidataEntity wd:Q2454065 ;
+    villain:wikidataLabel "Lady Macbeth"@en ;
+    owl:sameAs wd:Q2454065 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q15698333 ;
+    foaf:age 30 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Macbeth_by_Alfred_Stevens.jpg> ;
+    foaf:gender "Female" ;
+    foaf:name "Lady Macbeth" ;
+    foaf:title "Queen" .
+
+villain:villain_012 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Ugly sisters" ;
+    schema1:age 16 ;
+    schema1:description "Malevolence: Abuses Cinderella without reason. | Deceiver: Promises to take Cinderella to the ball after she finishes her work but doesn't." ;
+    schema1:gender "Female" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Cinderella_1865_%286%29.png> ;
+    schema1:isPartOf work:work_012 ;
+    schema1:name "Ugly sisters" ;
+    schema1:sameAs wd:Q30085621,
+        wd:Q30085627 ;
+    villain:appearsIn work:work_012 ;
+    villain:hasPersonalityTrait trait:Cowardice,
+        trait:Deceiver,
+        trait:Malevolence ;
+    villain:personalityDetails "Malevolence: Abuses Cinderella without reason. | Deceiver: Promises to take Cinderella to the ball after she finishes her work but doesn't." ;
+    villain:personalityTrait "Cowardice",
+        "Deceiver",
+        "Malevolence" ;
+    villain:personalityTraits "Malevolence; Cowardice; Deceiver" ;
+    villain:wikidataDescription "character from the classical fairy tale Cinderella, elder step-sister"@en,
+        "character from the classical fairy tale Cinderella, younger step-sister"@en ;
+    villain:wikidataEntity wd:Q30085621,
+        wd:Q30085627 ;
+    villain:wikidataLabel "elder ugly sister"@en,
+        "younger ugly sister"@en ;
+    owl:sameAs wd:Q30085621,
+        wd:Q30085627 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q15711870,
+        wd:Q3658341 ;
+    foaf:age 16 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Cinderella_1865_%286%29.png> ;
+    foaf:gender "Female" ;
+    foaf:name "Ugly sisters" .
+
+villain:villain_013 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Count Dracula" ;
+    schema1:description "Vampire: Feeds only on women's blood. | Aristocratic Megalomania: Possessing an immense pride in his boyar heritage and viewing himself as a rightful ruler of life and death, treating humans as mere cattle. | Patient: Demonstrating high intelligence and meticulous planning by learning foreign languages and laws to expand his domain from Transylvania to London." ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Bela_Lugosi_as_Dracula%2C_anonymous_photograph_from_1931%2C_Universal_Studios.jpg> ;
+    schema1:isPartOf work:work_013 ;
+    schema1:jobTitle "Count" ;
+    schema1:knowsAbout "Dark magic; Shapeshifting" ;
+    schema1:name "Count Dracula" ;
+    schema1:sameAs wd:Q3266236 ;
+    villain:abilities "Dark magic; Shapeshifting" ;
+    villain:ageDescription "Imperishability" ;
+    villain:appearsIn work:work_013 ;
+    villain:distinctiveFeatures "Fangs; Black cloak; hairy palms" ;
+    villain:ethnicity "Noble" ;
+    villain:facialFeatures "Pale; Hawk-like nose; Long mustache; Arched eyebrows; White teeth that protrude over the lip" ;
+    villain:hairDescription "White hair" ;
+    villain:hasAbility ability:Dark_magic,
+        ability:Shapeshifting ;
+    villain:hasPersonalityTrait trait:Aristocratic_Megalomania,
+        trait:Narcissism,
+        trait:Patient,
+        trait:Vampire,
+        trait:Vulnerable_to_sunlight ;
+    villain:occupation "Count" ;
+    villain:personalityDetails "Vampire: Feeds only on women's blood. | Aristocratic Megalomania: Possessing an immense pride in his boyar heritage and viewing himself as a rightful ruler of life and death, treating humans as mere cattle. | Patient: Demonstrating high intelligence and meticulous planning by learning foreign languages and laws to expand his domain from Transylvania to London." ;
+    villain:personalityTrait "Aristocratic Megalomania",
+        "Narcissism",
+        "Patient",
+        "Vampire",
+        "Vulnerable to sunlight" ;
+    villain:personalityTraits "Vampire; Vulnerable to sunlight; Aristocratic Megalomania; Patient; Narcissism" ;
+    villain:wikidataDescription "title character of Bram Stoker's 1897 gothic horror novel Dracula"@en ;
+    villain:wikidataEntity wd:Q3266236 ;
+    villain:wikidataLabel "Count Dracula"@en ;
+    owl:sameAs wd:Q3266236 ;
+    wdt:P31 wd:Q1569167,
+        wd:Q15711870,
+        wd:Q15773317,
+        wd:Q15773347,
+        wd:Q30061417,
+        wd:Q30174902,
+        wd:Q3658341,
+        wd:Q4271324 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Bela_Lugosi_as_Dracula%2C_anonymous_photograph_from_1931%2C_Universal_Studios.jpg> ;
+    foaf:gender "Male" ;
+    foaf:name "Count Dracula" ;
+    foaf:title "Count" .
+
+villain:villain_014 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Judah" ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Yehuda%2C_son_of_Jacob.jpg> ;
+    schema1:isPartOf work:work_014 ;
+    schema1:jobTitle "Treasurer" ;
+    schema1:name "Judah" ;
+    schema1:sameAs wd:Q282220 ;
+    villain:appearsIn work:work_014 ;
+    villain:ethnicity "Jew" ;
+    villain:hasPersonalityTrait trait:Betrayal ;
+    villain:occupation "Treasurer" ;
+    villain:personalityTrait "Betrayal" ;
+    villain:personalityTraits "Betrayal" ;
+    villain:wikidataDescription "biblical figure; fourth son of Jacob and Leah; brother of Joseph"@en ;
+    villain:wikidataEntity wd:Q282220 ;
+    villain:wikidataLabel "Judah"@en ;
+    owl:sameAs wd:Q282220 ;
+    wdt:P31 wd:Q20643955 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Yehuda%2C_son_of_Jacob.jpg> ;
+    foaf:gender "Male" ;
+    foaf:name "Judah" ;
+    foaf:title "Treasurer" .
+
+villain:villain_015 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Clare Quilty" ;
+    schema1:age 41 ;
+    schema1:description "Antagonist's appellation of Name: Declare guilty or Clear guilty " ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_015 ;
+    schema1:jobTitle "Playwright" ;
+    schema1:name "Clare Quilty" ;
+    schema1:sameAs wd:Q47482727 ;
+    villain:appearsIn work:work_015 ;
+    villain:hasPersonalityTrait trait:Antagonists_appellation_of_Name,
+        trait:Lolicon,
+        trait:Pedophilia,
+        trait:Smoking,
+        trait:Substance_abuse ;
+    villain:occupation "Playwright" ;
+    villain:personalityDetails "Antagonist's appellation of Name: Declare guilty or Clear guilty " ;
+    villain:personalityTrait "Antagonist's appellation of Name",
+        "Lolicon",
+        "Pedophilia",
+        "Smoking",
+        "Substance abuse" ;
+    villain:personalityTraits "Substance abuse; Pedophilia; Lolicon; Antagonist's appellation of Name; Smoking" ;
+    villain:wikidataDescription "character from Vladimir Nabokov's Lolita"@en ;
+    villain:wikidataEntity wd:Q47482727 ;
+    villain:wikidataLabel "Clare Quilty"@en ;
+    owl:sameAs wd:Q47482727 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q3658341 ;
+    foaf:age 41 ;
+    foaf:gender "Male" ;
+    foaf:name "Clare Quilty" ;
+    foaf:title "Playwright" .
+
+villain:villain_016 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Fred" ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_016 ;
+    schema1:jobTitle "Commander" ;
+    schema1:name "Fred" ;
+    villain:appearsIn work:work_016 ;
+    villain:distinctiveFeatures "Black suit" ;
+    villain:hasPersonalityTrait trait:Brazenness,
+        trait:Collector,
+        trait:Exhibitionist,
+        trait:Hoarding_instinct ;
+    villain:occupation "Commander" ;
+    villain:personalityTrait "Brazenness",
+        "Collector",
+        "Exhibitionist",
+        "Hoarding instinct" ;
+    villain:personalityTraits "Exhibitionist; Brazenness; Hoarding instinct; Collector" ;
+    foaf:gender "Male" ;
+    foaf:name "Fred" ;
+    foaf:title "Commander" .
+
+villain:villain_017 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Satan" ;
+    schema1:description "Evil: Entity associated with evil. Fallen from the sky. | Liar: John's Gospel - Jesus Christ says of Satan, \"He was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies.\" | Arrogance, Ignorance: Strives to become like the Creator, Jesus | Antagonist's appellation of name: (When used with the definite article) The Accuser, The Slanderer" ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/GustaveDoreParadiseLostSatanProfile.jpg> ;
+    schema1:isPartOf work:work_017 ;
+    schema1:jobTitle "Ruler of Hell" ;
+    schema1:knowsAbout "Nigh-limitless divine powers; Shapeshifting" ;
+    schema1:name "Satan" ;
+    schema1:sameAs wd:Q35230 ;
+    villain:abilities "Nigh-limitless divine powers; Shapeshifting" ;
+    villain:ageDescription "Imperishability" ;
+    villain:appearsIn work:work_017 ;
+    villain:distinctiveFeatures "Wings attached while walking; Enemy of God" ;
+    villain:ethnicity "God's creation" ;
+    villain:hasAbility ability:Nigh-limitless_divine_powers,
+        ability:Shapeshifting ;
+    villain:hasPersonalityTrait trait:Antagonists_appellation_of_name,
+        trait:Arrogance,
+        trait:Charisma,
+        trait:Cleverness,
+        trait:Evil,
+        trait:Fallen_angel,
+        trait:Ignorance,
+        trait:Liar,
+        trait:Persistence,
+        trait:Treason ;
+    villain:occupation "Ruler of Hell" ;
+    villain:personalityDetails "Evil: Entity associated with evil. Fallen from the sky. | Liar: John's Gospel - Jesus Christ says of Satan, \"He was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies.\" | Arrogance, Ignorance: Strives to become like the Creator, Jesus | Antagonist's appellation of name: (When used with the definite article) The Accuser, The Slanderer" ;
+    villain:personalityTrait "Antagonist's appellation of name",
+        "Arrogance",
+        "Charisma",
+        "Cleverness",
+        "Evil",
+        "Fallen angel",
+        "Ignorance",
+        "Liar",
+        "Persistence",
+        "Treason" ;
+    villain:personalityTraits "Evil; Liar; Arrogance; Ignorance; Antagonist's appellation of name;  Charisma; Cleverness; fallen angel; treason; persistence; Arrogance" ;
+    villain:wikidataDescription "entity in the Abrahamic religions that tells others to do sinful actions"@en ;
+    villain:wikidataEntity wd:Q35230 ;
+    villain:wikidataLabel "Satan"@en ;
+    owl:sameAs wd:Q35230 ;
+    wdt:P31 wd:Q28855038,
+        wd:Q3465,
+        wd:Q581450,
+        wd:Q6674 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/GustaveDoreParadiseLostSatanProfile.jpg> ;
+    foaf:gender "Male" ;
+    foaf:name "Satan" ;
+    foaf:title "Ruler of Hell" .
+
+villain:villain_018 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Wicked Witch of The West" ;
+    schema1:description "Avenge: her sister's death." ;
+    schema1:gender "Female" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Wicked_Witch_of_the_West.png> ;
+    schema1:isPartOf work:work_018 ;
+    schema1:jobTitle "Witch" ;
+    schema1:knowsAbout "Magic; Teleportation" ;
+    schema1:name "Wicked Witch of The West" ;
+    schema1:sameAs wd:Q3822980 ;
+    villain:abilities "Magic; Teleportation" ;
+    villain:appearsIn work:work_018 ;
+    villain:distinctiveFeatures "Witch hat" ;
+    villain:facialFeatures "Green skin" ;
+    villain:hairDescription "Two-pronged" ;
+    villain:hasAbility ability:Magic,
+        ability:Teleportation ;
+    villain:hasPersonalityTrait trait:Avenge,
+        trait:Cruelty,
+        trait:Lust_for_power ;
+    villain:occupation "Witch" ;
+    villain:personalityDetails "Avenge: her sister's death." ;
+    villain:personalityTrait "Avenge",
+        "Cruelty",
+        "Lust for power" ;
+    villain:personalityTraits "cruelty; lust for power; Avenge" ;
+    villain:wikidataDescription "fictional character and the most significant antagonist in L. Frank Baum's children's book The Wonderful Wizard of Oz"@en ;
+    villain:wikidataEntity wd:Q3822980 ;
+    villain:wikidataLabel "Wicked Witch of the West"@en ;
+    owl:sameAs wd:Q3822980 ;
+    wdt:P31 wd:Q15912738 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Wicked_Witch_of_the_West.png> ;
+    foaf:gender "Female" ;
+    foaf:name "Wicked Witch of The West" ;
+    foaf:title "Witch" .
+
+villain:villain_019 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Bill Sikes" ;
+    schema1:age 20 ;
+    schema1:description "Criminal: Murderer. Animal abuse. Robbery. | Unfortunate childhood: Lost parents at a young age" ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Bill-sikes.jpg> ;
+    schema1:isPartOf work:work_019 ;
+    schema1:jobTitle "Gang Leader" ;
+    schema1:name "Bill Sikes" ;
+    schema1:sameAs wd:Q3639999 ;
+    villain:appearsIn work:work_019 ;
+    villain:ethnicity "British" ;
+    villain:hasPersonalityTrait trait:Charisma,
+        trait:Criminal,
+        trait:Cruel,
+        trait:Unfortunate_childhood,
+        trait:Vicious,
+        trait:Violent ;
+    villain:occupation "Gang Leader" ;
+    villain:personalityDetails "Criminal: Murderer. Animal abuse. Robbery. | Unfortunate childhood: Lost parents at a young age" ;
+    villain:personalityTrait "Charisma",
+        "Criminal",
+        "Cruel",
+        "Unfortunate childhood",
+        "Vicious",
+        "Violent" ;
+    villain:personalityTraits "Violent; Criminal; Unfortunate childhood; Charisma; cruel; vicious" ;
+    villain:wikidataDescription "fictional character in the novel Oliver Twist by Charles Dickens"@en ;
+    villain:wikidataEntity wd:Q3639999 ;
+    villain:wikidataLabel "Bill Sikes"@en ;
+    owl:sameAs wd:Q3639999 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q15773347,
+        wd:Q3375722,
+        wd:Q3658341 ;
+    foaf:age 20 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Bill-sikes.jpg> ;
+    foaf:gender "Male" ;
+    foaf:name "Bill Sikes" ;
+    foaf:title "Gang Leader" .
+
+villain:villain_020 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Shere Khan" ;
+    schema1:description "Arrogance: Perceives oneself as the ruler of the jungle. | Ferocious when angry: Normally affectionate, kind." ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Shere_Khan_illustration.jpg> ;
+    schema1:isPartOf work:work_020 ;
+    schema1:jobTitle "Boss" ;
+    schema1:knowsAbout "Speed; Strength" ;
+    schema1:name "Shere Khan" ;
+    schema1:sameAs wd:Q2305638 ;
+    villain:abilities "Speed; Strength" ;
+    villain:appearsIn work:work_020 ;
+    villain:distinctiveFeatures "Claws" ;
+    villain:ethnicity "Tiger" ;
+    villain:hasAbility ability:Speed,
+        ability:Strength ;
+    villain:hasPersonalityTrait trait:Arrogance,
+        trait:Cleverness,
+        trait:Fears_fire_guns,
+        trait:Ferocious_when_angry,
+        trait:Mocks_others ;
+    villain:occupation "Boss" ;
+    villain:personalityDetails "Arrogance: Perceives oneself as the ruler of the jungle. | Ferocious when angry: Normally affectionate, kind." ;
+    villain:personalityTrait "Arrogance",
+        "Cleverness",
+        "Fears fire, guns",
+        "Ferocious when angry",
+        "Mocks others" ;
+    villain:personalityTraits "Arrogance; Cleverness; Ferocious when angry; Fears fire, guns; Mocks others" ;
+    villain:wikidataDescription "fictional character from Rudyard Kipling's \"The Jungle Book\""@en ;
+    villain:wikidataEntity wd:Q2305638 ;
+    villain:wikidataLabel "Shere Khan"@en ;
+    owl:sameAs wd:Q2305638 ;
+    wdt:P31 wd:Q27229763,
+        wd:Q3658341 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Shere_Khan_illustration.jpg> ;
+    foaf:gender "Male" ;
+    foaf:name "Shere Khan" ;
+    foaf:title "Boss" .
+
+villain:villain_021 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Damien Thorn" ;
+    schema1:age 5 ;
+    schema1:description "Evil: A figure who will one day become the Antichrist." ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_021 ;
+    schema1:knowsAbout "Immunity to diseases; Malfunction machines; Induces hallucinations; Can twist the human heart; Can control animals like dogs, horses" ;
+    schema1:name "Damien Thorn" ;
+    schema1:sameAs wd:Q166150 ;
+    villain:abilities "Immunity to diseases; Malfunction machines; Induces hallucinations; Can twist the human heart; Can control animals like dogs, horses" ;
+    villain:appearsIn work:work_021 ;
+    villain:ethnicity "Son of Satan" ;
+    villain:hasAbility ability:Can_control_animals_like_dogs_horses,
+        ability:Can_twist_the_human_heart,
+        ability:Immunity_to_diseases,
+        ability:Induces_hallucinations,
+        ability:Malfunction_machines ;
+    villain:hasPersonalityTrait trait:Evil ;
+    villain:personalityDetails "Evil: A figure who will one day become the Antichrist." ;
+    villain:personalityTrait "Evil" ;
+    villain:personalityTraits "Evil" ;
+    villain:wikidataDescription "antagonist of The Omen series"@en ;
+    villain:wikidataEntity wd:Q166150 ;
+    villain:wikidataLabel "Damien Thorn"@en ;
+    owl:sameAs wd:Q166150 ;
+    wdt:P31 wd:Q15773317,
+        wd:Q15773347,
+        wd:Q174546,
+        wd:Q19324463 ;
+    foaf:age 5 ;
+    foaf:gender "Male" ;
+    foaf:name "Damien Thorn" .
+
+villain:villain_022 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Dr. Fu-Manchu" ;
+    schema1:age 168 ;
+    schema1:description "Cleverness: Genius killer. necromantic traditions." ;
+    schema1:gender "Male" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Dr_Fu_Manchu_I_W_Publishing.jpg> ;
+    schema1:isPartOf work:work_022 ;
+    schema1:jobTitle "Mad Scientist" ;
+    schema1:knowsAbout "Masquerade; Impersonation; Infiltration" ;
+    schema1:name "Dr. Fu-Manchu" ;
+    schema1:sameAs wd:Q1357701 ;
+    villain:abilities "Masquerade; Impersonation; Infiltration" ;
+    villain:appearsIn work:work_022 ;
+    villain:distinctiveFeatures "Tall; Lean; High shouldered" ;
+    villain:ethnicity "Chinese; Manchu" ;
+    villain:facialFeatures "Mustache; Feline; Brow like Shakespeare; Face like Satan; Cat-green eyes" ;
+    villain:hairDescription "Close-shaven skull" ;
+    villain:hasAbility ability:Impersonation,
+        ability:Infiltration,
+        ability:Masquerade ;
+    villain:hasPersonalityTrait trait:Cleverness,
+        trait:Criminal,
+        trait:Deceitfulness,
+        trait:Disgust_towards_guns_bombs,
+        trait:Mysterious,
+        trait:Occultism,
+        trait:Supervillain,
+        trait:Zombielike_resilience ;
+    villain:occupation "Mad Scientist" ;
+    villain:personalityDetails "Cleverness: Genius killer. necromantic traditions." ;
+    villain:personalityTrait "Cleverness",
+        "Criminal",
+        "Deceitfulness",
+        "Disgust towards guns, bombs",
+        "Mysterious",
+        "Occultism",
+        "Supervillain",
+        "Zombielike resilience" ;
+    villain:personalityTraits "Cleverness; Occultism; Disgust towards guns, bombs; Deceitfulness; Criminal; mysterious; supervillain; zombielike resilience" ;
+    villain:wikidataDescription "supervillain in a series of novels by the English author Sax Rohmer during the first half of the 20th century, based off ethnic stereotypes"@en ;
+    villain:wikidataEntity wd:Q1357701 ;
+    villain:wikidataLabel "Fu Manchu"@en ;
+    owl:sameAs wd:Q1357701 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q15773347,
+        wd:Q3658341 ;
+    foaf:age 168 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Dr_Fu_Manchu_I_W_Publishing.jpg> ;
+    foaf:gender "Male" ;
+    foaf:name "Dr. Fu-Manchu" ;
+    foaf:title "Mad Scientist" .
+
+work:work_001 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Othello" ;
+    dcterms:title "Othello" ;
+    schema1:character villain:villain_001 ;
+    schema1:genre "Shakespare Dramas & Plays" ;
+    schema1:name "Othello" ;
+    villain:hasCharacter villain:villain_001 ;
+    villain:mediaType "book" .
+
+work:work_002 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Richard III" ;
+    dcterms:title "Richard III" ;
+    schema1:character villain:villain_002 ;
+    schema1:genre "Shakespare Dramas & Plays" ;
+    schema1:name "Richard III" ;
+    villain:hasCharacter villain:villain_002 ;
+    villain:mediaType "book" .
+
+work:work_003 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Titus Andronicus" ;
+    dcterms:title "Titus Andronicus" ;
+    schema1:character villain:villain_003 ;
+    schema1:genre "Shakespare Dramas & Plays" ;
+    schema1:name "Titus Andronicus" ;
+    villain:hasCharacter villain:villain_003 ;
+    villain:mediaType "book" .
+
+work:work_004 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Frankenstein’s Monster" ;
+    dcterms:title "Frankenstein’s Monster" ;
+    schema1:character villain:villain_004 ;
+    schema1:genre "Censorship & Politics" ;
+    schema1:name "Frankenstein’s Monster" ;
+    villain:hasCharacter villain:villain_004 ;
+    villain:mediaType "book" .
+
+work:work_005 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Romance of The Three Kingdoms" ;
+    dcterms:title "Romance of The Three Kingdoms" ;
+    schema1:character villain:villain_005 ;
+    schema1:genre "Historical Fiction" ;
+    schema1:name "Romance of The Three Kingdoms" ;
+    villain:hasCharacter villain:villain_005 ;
+    villain:mediaType "book" .
+
+work:work_006 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "The Water Margin" ;
+    dcterms:title "The Water Margin" ;
+    schema1:character villain:villain_006 ;
+    schema1:genre "Chinese Literature" ;
+    schema1:name "The Water Margin" ;
+    villain:hasCharacter villain:villain_006 ;
+    villain:mediaType "book" .
+
+work:work_007 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Peter Pan" ;
+    dcterms:title "Peter Pan" ;
+    schema1:character villain:villain_007 ;
+    schema1:genre "Children's Fantasy & Magic Books" ;
+    schema1:name "Peter Pan" ;
+    villain:hasCharacter villain:villain_007 ;
+    villain:mediaType "book" .
+
+work:work_008 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "The Silence of The Lambs" ;
+    dcterms:title "The Silence of The Lambs" ;
+    schema1:character villain:villain_008 ;
+    schema1:genre "Psychological Fiction" ;
+    schema1:name "The Silence of The Lambs" ;
+    villain:hasCharacter villain:villain_008 ;
+    villain:mediaType "book" .
+
+work:work_009 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Red Queen" ;
+    dcterms:title "Red Queen" ;
+    schema1:character villain:villain_009 ;
+    schema1:genre "Teen & Young Adult Science Fiction & Dystopian Romance" ;
+    schema1:name "Red Queen" ;
+    villain:hasCharacter villain:villain_009 ;
+    villain:mediaType "book" .
+
+work:work_010 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Strange Case of Dr. Jekyll and Mr. Hyde" ;
+    dcterms:title "Strange Case of Dr. Jekyll and Mr. Hyde" ;
+    schema1:character villain:villain_010 ;
+    schema1:genre "Horror Literature & Fiction" ;
+    schema1:name "Strange Case of Dr. Jekyll and Mr. Hyde" ;
+    villain:hasCharacter villain:villain_010 ;
+    villain:mediaType "book" .
+
+work:work_011 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Macbeth" ;
+    dcterms:title "Macbeth" ;
+    schema1:character villain:villain_011 ;
+    schema1:genre "Shakespare Dramas & Plays" ;
+    schema1:name "Macbeth" ;
+    villain:hasCharacter villain:villain_011 ;
+    villain:mediaType "book" .
+
+work:work_012 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Cinderella(by Charles Perrault)" ;
+    dcterms:title "Cinderella(by Charles Perrault)" ;
+    schema1:character villain:villain_012 ;
+    schema1:genre "Fairy tale" ;
+    schema1:name "Cinderella(by Charles Perrault)" ;
+    villain:hasCharacter villain:villain_012 ;
+    villain:mediaType "book" .
+
+work:work_013 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Dracula" ;
+    dcterms:title "Dracula" ;
+    schema1:character villain:villain_013 ;
+    schema1:genre "Horror Fiction Classics" ;
+    schema1:name "Dracula" ;
+    villain:hasCharacter villain:villain_013 ;
+    villain:mediaType "book" .
+
+work:work_014 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Luke" ;
+    dcterms:title "Luke" ;
+    schema1:character villain:villain_014 ;
+    schema1:genre "Biography" ;
+    schema1:name "Luke" ;
+    villain:hasCharacter villain:villain_014 ;
+    villain:mediaType "book" .
+
+work:work_015 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Lolita" ;
+    dcterms:title "Lolita" ;
+    schema1:character villain:villain_015 ;
+    schema1:genre "Censorship & Politics" ;
+    schema1:name "Lolita" ;
+    villain:hasCharacter villain:villain_015 ;
+    villain:mediaType "book" .
+
+work:work_016 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "The Handmaid's Tale" ;
+    dcterms:title "The Handmaid's Tale" ;
+    schema1:character villain:villain_016 ;
+    schema1:genre "Dystopian Science Fiction" ;
+    schema1:name "The Handmaid's Tale" ;
+    villain:hasCharacter villain:villain_016 ;
+    villain:mediaType "book" .
+
+work:work_017 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Paradise Lost" ;
+    dcterms:title "Paradise Lost" ;
+    schema1:character villain:villain_017 ;
+    schema1:genre "Ancient, Classical & Medieval Poetry" ;
+    schema1:name "Paradise Lost" ;
+    villain:hasCharacter villain:villain_017 ;
+    villain:mediaType "book" .
+
+work:work_018 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "The Wonderful Wizard of Oz" ;
+    dcterms:title "The Wonderful Wizard of Oz" ;
+    schema1:character villain:villain_018 ;
+    schema1:genre "Eastern European Literary Criticism" ;
+    schema1:name "The Wonderful Wizard of Oz" ;
+    villain:hasCharacter villain:villain_018 ;
+    villain:mediaType "book" .
+
+work:work_019 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "Oliver Twist" ;
+    dcterms:title "Oliver Twist" ;
+    schema1:character villain:villain_019 ;
+    schema1:genre "Classic Literary Fiction" ;
+    schema1:name "Oliver Twist" ;
+    villain:hasCharacter villain:villain_019 ;
+    villain:mediaType "book" .
+
+work:work_020 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "The Jungle Book" ;
+    dcterms:title "The Jungle Book" ;
+    schema1:character villain:villain_020 ;
+    schema1:genre "Folklore" ;
+    schema1:name "The Jungle Book" ;
+    villain:hasCharacter villain:villain_020 ;
+    villain:mediaType "book" .
+
+work:work_021 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "The Omen" ;
+    dcterms:title "The Omen" ;
+    schema1:character villain:villain_021 ;
+    schema1:genre "Occult Horror" ;
+    schema1:name "The Omen" ;
+    villain:hasCharacter villain:villain_021 ;
+    villain:mediaType "book" .
+
+work:work_022 a schema1:Book,
+        schema1:CreativeWork,
+        villain:Book,
+        villain:CreativeWork ;
+    rdfs:label "The Mystery of Dr. Fu-Manchu" ;
+    dcterms:title "The Mystery of Dr. Fu-Manchu" ;
+    schema1:character villain:villain_022 ;
+    schema1:genre "International Mystery & Crime" ;
+    schema1:name "The Mystery of Dr. Fu-Manchu" ;
+    villain:hasCharacter villain:villain_022 ;
+    villain:mediaType "book" .
+
+trait:Criminal a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Criminal" ;
+    villain:belongsToCategory trait:BehavioralTraits ;
+    skos:prefLabel "Criminal"@en .
+
+trait:Cunning a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cunning" ;
+    villain:belongsToCategory trait:IntellectualTraits ;
+    skos:prefLabel "Cunning"@en .
+
+trait:Charisma a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Charisma" ;
+    villain:belongsToCategory trait:SocialTraits ;
+    skos:prefLabel "Charisma"@en .
+
+trait:Cleverness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cleverness" ;
+    villain:belongsToCategory trait:IntellectualTraits ;
+    skos:prefLabel "Cleverness"@en .
+

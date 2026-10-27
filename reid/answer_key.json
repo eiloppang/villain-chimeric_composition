@@ -1,0 +1,643 @@
+{
+  "generated": "2026-10-18T07:48:22",
+  "note": "실행 전 확정. 키메라는 출처 세 명 모두가 정답이다.",
+  "risky_tokens": [
+    "Vidal",
+    "Indio",
+    "Dixon",
+    "Dudley",
+    "Dmitri",
+    "Romano",
+    "Rory",
+    "Randall",
+    "Daggett",
+    "Desgoffe",
+    "lago",
+    "Metropolis",
+    "Unforgiven",
+    "Grand Budapest",
+    "Lock Stock",
+    "Three Billboards"
+  ],
+  "sources": {
+    "Iago": {
+      "names": [
+        "Iago",
+        "lago"
+      ],
+      "works": [
+        "Othello",
+        "오셀로"
+      ]
+    },
+    "Captain Vidal": {
+      "names": [
+        "Captain Vidal",
+        "Capitán Vidal",
+        "Capitan Vidal",
+        "Vidal"
+      ],
+      "works": [
+        "Pan's Labyrinth",
+        "Pans Labyrinth",
+        "El laberinto del fauno",
+        "판의 미로"
+      ]
+    },
+    "Christof": {
+      "names": [
+        "Christof"
+      ],
+      "works": [
+        "The Truman Show",
+        "Truman Show",
+        "트루먼 쇼"
+      ]
+    },
+    "Child Catcher": {
+      "names": [
+        "Child Catcher",
+        "Childcatcher",
+        "Child-Catcher"
+      ],
+      "works": [
+        "Chitty Chitty Bang Bang",
+        "치티치티 뱅뱅"
+      ]
+    },
+    "Erfinder C.A. Rotwang": {
+      "names": [
+        "Rotwang",
+        "C.A. Rotwang",
+        "Erfinder Rotwang"
+      ],
+      "works": [
+        "Metropolis",
+        "메트로폴리스"
+      ]
+    },
+    "Jason Dixon": {
+      "names": [
+        "Jason Dixon",
+        "Dixon"
+      ],
+      "works": [
+        "Three Billboards Outside Ebbing, Missouri",
+        "Three Billboards",
+        "쓰리 빌보드"
+      ]
+    },
+    "Dudley Liam Smith": {
+      "names": [
+        "Dudley Liam Smith",
+        "Dudley Smith",
+        "Dudley"
+      ],
+      "works": [
+        "L.A. Confidential",
+        "LA Confidential",
+        "LA 컨피덴셜"
+      ]
+    },
+    "El Indio": {
+      "names": [
+        "El Indio",
+        "Indio"
+      ],
+      "works": [
+        "For a Few Dollars More",
+        "Per qualche dollaro in più",
+        "석양의 건맨"
+      ]
+    },
+    "Little Bill Daggett": {
+      "names": [
+        "Little Bill Daggett",
+        "Little Bill",
+        "Daggett"
+      ],
+      "works": [
+        "Unforgiven",
+        "용서받지 못한 자"
+      ]
+    },
+    "Dmitri": {
+      "names": [
+        "Dmitri",
+        "Dmitri Desgoffe-und-Taxis",
+        "Desgoffe"
+      ],
+      "works": [
+        "The Grand Budapest Hotel",
+        "Grand Budapest",
+        "그랜드 부다페스트 호텔"
+      ]
+    },
+    "Randall Boggs": {
+      "names": [
+        "Randall Boggs",
+        "Randall"
+      ],
+      "works": [
+        "Monsters, Inc.",
+        "Monsters Inc",
+        "몬스터 주식회사"
+      ]
+    },
+    "Romano": {
+      "names": [
+        "Romano"
+      ],
+      "works": [
+        "The Secret in Their Eyes",
+        "El secreto de sus ojos",
+        "비밀의 눈동자"
+      ]
+    },
+    "Rory Breaker": {
+      "names": [
+        "Rory Breaker",
+        "Rory"
+      ],
+      "works": [
+        "Lock, Stock and Two Smoking Barrels",
+        "Lock Stock",
+        "록 스탁 앤 투 스모킹 배럴즈"
+      ]
+    }
+  },
+  "cards": {
+    "chimera::The Warden": {
+      "group": "chimera",
+      "sources": [
+        "Captain Vidal",
+        "Christof",
+        "Iago"
+      ],
+      "names": [
+        "Captain Vidal",
+        "Capitán Vidal",
+        "Capitan Vidal",
+        "Vidal",
+        "Christof",
+        "Iago",
+        "lago"
+      ],
+      "works": [
+        "Pan's Labyrinth",
+        "Pans Labyrinth",
+        "El laberinto del fauno",
+        "판의 미로",
+        "The Truman Show",
+        "Truman Show",
+        "트루먼 쇼",
+        "Othello",
+        "오셀로"
+      ]
+    },
+    "chimera::The Curator": {
+      "group": "chimera",
+      "sources": [
+        "Captain Vidal",
+        "Christof",
+        "Iago"
+      ],
+      "names": [
+        "Captain Vidal",
+        "Capitán Vidal",
+        "Capitan Vidal",
+        "Vidal",
+        "Christof",
+        "Iago",
+        "lago"
+      ],
+      "works": [
+        "Pan's Labyrinth",
+        "Pans Labyrinth",
+        "El laberinto del fauno",
+        "판의 미로",
+        "The Truman Show",
+        "Truman Show",
+        "트루먼 쇼",
+        "Othello",
+        "오셀로"
+      ]
+    },
+    "chimera::The Matriarch": {
+      "group": "chimera",
+      "sources": [
+        "Captain Vidal",
+        "Christof",
+        "Iago"
+      ],
+      "names": [
+        "Captain Vidal",
+        "Capitán Vidal",
+        "Capitan Vidal",
+        "Vidal",
+        "Christof",
+        "Iago",
+        "lago"
+      ],
+      "works": [
+        "Pan's Labyrinth",
+        "Pans Labyrinth",
+        "El laberinto del fauno",
+        "판의 미로",
+        "The Truman Show",
+        "Truman Show",
+        "트루먼 쇼",
+        "Othello",
+        "오셀로"
+      ]
+    },
+    "chimera::The Conservator": {
+      "group": "chimera",
+      "sources": [
+        "Dudley Liam Smith",
+        "El Indio",
+        "Erfinder C.A. Rotwang"
+      ],
+      "names": [
+        "Dudley Liam Smith",
+        "Dudley Smith",
+        "Dudley",
+        "El Indio",
+        "Indio",
+        "Rotwang",
+        "C.A. Rotwang",
+        "Erfinder Rotwang"
+      ],
+      "works": [
+        "L.A. Confidential",
+        "LA Confidential",
+        "LA 컨피덴셜",
+        "For a Few Dollars More",
+        "Per qualche dollaro in più",
+        "석양의 건맨",
+        "Metropolis",
+        "메트로폴리스"
+      ]
+    },
+    "chimera::The Magistrate": {
+      "group": "chimera",
+      "sources": [
+        "Jason Dixon",
+        "Little Bill Daggett",
+        "Romano"
+      ],
+      "names": [
+        "Jason Dixon",
+        "Dixon",
+        "Little Bill Daggett",
+        "Little Bill",
+        "Daggett",
+        "Romano"
+      ],
+      "works": [
+        "Three Billboards Outside Ebbing, Missouri",
+        "Three Billboards",
+        "쓰리 빌보드",
+        "Unforgiven",
+        "용서받지 못한 자",
+        "The Secret in Their Eyes",
+        "El secreto de sus ojos",
+        "비밀의 눈동자"
+      ]
+    },
+    "chimera::The Proprietor": {
+      "group": "chimera",
+      "sources": [
+        "Child Catcher",
+        "Dmitri",
+        "Rory Breaker"
+      ],
+      "names": [
+        "Child Catcher",
+        "Childcatcher",
+        "Child-Catcher",
+        "Dmitri",
+        "Dmitri Desgoffe-und-Taxis",
+        "Desgoffe",
+        "Rory Breaker",
+        "Rory"
+      ],
+      "works": [
+        "Chitty Chitty Bang Bang",
+        "치티치티 뱅뱅",
+        "The Grand Budapest Hotel",
+        "Grand Budapest",
+        "그랜드 부다페스트 호텔",
+        "Lock, Stock and Two Smoking Barrels",
+        "Lock Stock",
+        "록 스탁 앤 투 스모킹 배럴즈"
+      ]
+    },
+    "chimera::The Preceptor": {
+      "group": "chimera",
+      "sources": [
+        "Erfinder C.A. Rotwang",
+        "Little Bill Daggett",
+        "Randall Boggs"
+      ],
+      "names": [
+        "Rotwang",
+        "C.A. Rotwang",
+        "Erfinder Rotwang",
+        "Little Bill Daggett",
+        "Little Bill",
+        "Daggett",
+        "Randall Boggs",
+        "Randall"
+      ],
+      "works": [
+        "Metropolis",
+        "메트로폴리스",
+        "Unforgiven",
+        "용서받지 못한 자",
+        "Monsters, Inc.",
+        "Monsters Inc",
+        "몬스터 주식회사"
+      ]
+    },
+    "chimera::The Registrar": {
+      "group": "chimera",
+      "sources": [
+        "Child Catcher",
+        "Dudley Liam Smith",
+        "Romano"
+      ],
+      "names": [
+        "Child Catcher",
+        "Childcatcher",
+        "Child-Catcher",
+        "Dudley Liam Smith",
+        "Dudley Smith",
+        "Dudley",
+        "Romano"
+      ],
+      "works": [
+        "Chitty Chitty Bang Bang",
+        "치티치티 뱅뱅",
+        "L.A. Confidential",
+        "LA Confidential",
+        "LA 컨피덴셜",
+        "The Secret in Their Eyes",
+        "El secreto de sus ojos",
+        "비밀의 눈동자"
+      ]
+    },
+    "chimera::The Impresario": {
+      "group": "chimera",
+      "sources": [
+        "Dmitri",
+        "El Indio",
+        "Rory Breaker"
+      ],
+      "names": [
+        "Dmitri",
+        "Dmitri Desgoffe-und-Taxis",
+        "Desgoffe",
+        "El Indio",
+        "Indio",
+        "Rory Breaker",
+        "Rory"
+      ],
+      "works": [
+        "The Grand Budapest Hotel",
+        "Grand Budapest",
+        "그랜드 부다페스트 호텔",
+        "For a Few Dollars More",
+        "Per qualche dollaro in più",
+        "석양의 건맨",
+        "Lock, Stock and Two Smoking Barrels",
+        "Lock Stock",
+        "록 스탁 앤 투 스모킹 배럴즈"
+      ]
+    },
+    "chimera::The Superintendent": {
+      "group": "chimera",
+      "sources": [
+        "Erfinder C.A. Rotwang",
+        "Jason Dixon",
+        "Randall Boggs"
+      ],
+      "names": [
+        "Rotwang",
+        "C.A. Rotwang",
+        "Erfinder Rotwang",
+        "Jason Dixon",
+        "Dixon",
+        "Randall Boggs",
+        "Randall"
+      ],
+      "works": [
+        "Metropolis",
+        "메트로폴리스",
+        "Three Billboards Outside Ebbing, Missouri",
+        "Three Billboards",
+        "쓰리 빌보드",
+        "Monsters, Inc.",
+        "Monsters Inc",
+        "몬스터 주식회사"
+      ]
+    },
+    "control::Iago": {
+      "group": "control",
+      "sources": [
+        "Iago"
+      ],
+      "names": [
+        "Iago",
+        "lago"
+      ],
+      "works": [
+        "Othello",
+        "오셀로"
+      ]
+    },
+    "control::Captain Vidal": {
+      "group": "control",
+      "sources": [
+        "Captain Vidal"
+      ],
+      "names": [
+        "Captain Vidal",
+        "Capitán Vidal",
+        "Capitan Vidal",
+        "Vidal"
+      ],
+      "works": [
+        "Pan's Labyrinth",
+        "Pans Labyrinth",
+        "El laberinto del fauno",
+        "판의 미로"
+      ]
+    },
+    "control::Christof": {
+      "group": "control",
+      "sources": [
+        "Christof"
+      ],
+      "names": [
+        "Christof"
+      ],
+      "works": [
+        "The Truman Show",
+        "Truman Show",
+        "트루먼 쇼"
+      ]
+    },
+    "control::Child Catcher": {
+      "group": "control",
+      "sources": [
+        "Child Catcher"
+      ],
+      "names": [
+        "Child Catcher",
+        "Childcatcher",
+        "Child-Catcher"
+      ],
+      "works": [
+        "Chitty Chitty Bang Bang",
+        "치티치티 뱅뱅"
+      ]
+    },
+    "control::Erfinder C.A. Rotwang": {
+      "group": "control",
+      "sources": [
+        "Erfinder C.A. Rotwang"
+      ],
+      "names": [
+        "Rotwang",
+        "C.A. Rotwang",
+        "Erfinder Rotwang"
+      ],
+      "works": [
+        "Metropolis",
+        "메트로폴리스"
+      ]
+    },
+    "control::Jason Dixon": {
+      "group": "control",
+      "sources": [
+        "Jason Dixon"
+      ],
+      "names": [
+        "Jason Dixon",
+        "Dixon"
+      ],
+      "works": [
+        "Three Billboards Outside Ebbing, Missouri",
+        "Three Billboards",
+        "쓰리 빌보드"
+      ]
+    },
+    "control::Dudley Liam Smith": {
+      "group": "control",
+      "sources": [
+        "Dudley Liam Smith"
+      ],
+      "names": [
+        "Dudley Liam Smith",
+        "Dudley Smith",
+        "Dudley"
+      ],
+      "works": [
+        "L.A. Confidential",
+        "LA Confidential",
+        "LA 컨피덴셜"
+      ]
+    },
+    "control::El Indio": {
+      "group": "control",
+      "sources": [
+        "El Indio"
+      ],
+      "names": [
+        "El Indio",
+        "Indio"
+      ],
+      "works": [
+        "For a Few Dollars More",
+        "Per qualche dollaro in più",
+        "석양의 건맨"
+      ]
+    },
+    "control::Little Bill Daggett": {
+      "group": "control",
+      "sources": [
+        "Little Bill Daggett"
+      ],
+      "names": [
+        "Little Bill Daggett",
+        "Little Bill",
+        "Daggett"
+      ],
+      "works": [
+        "Unforgiven",
+        "용서받지 못한 자"
+      ]
+    },
+    "control::Dmitri": {
+      "group": "control",
+      "sources": [
+        "Dmitri"
+      ],
+      "names": [
+        "Dmitri",
+        "Dmitri Desgoffe-und-Taxis",
+        "Desgoffe"
+      ],
+      "works": [
+        "The Grand Budapest Hotel",
+        "Grand Budapest",
+        "그랜드 부다페스트 호텔"
+      ]
+    },
+    "control::Randall Boggs": {
+      "group": "control",
+      "sources": [
+        "Randall Boggs"
+      ],
+      "names": [
+        "Randall Boggs",
+        "Randall"
+      ],
+      "works": [
+        "Monsters, Inc.",
+        "Monsters Inc",
+        "몬스터 주식회사"
+      ]
+    },
+    "control::Romano": {
+      "group": "control",
+      "sources": [
+        "Romano"
+      ],
+      "names": [
+        "Romano"
+      ],
+      "works": [
+        "The Secret in Their Eyes",
+        "El secreto de sus ojos",
+        "비밀의 눈동자"
+      ]
+    },
+    "control::Rory Breaker": {
+      "group": "control",
+      "sources": [
+        "Rory Breaker"
+      ],
+      "names": [
+        "Rory Breaker",
+        "Rory"
+      ],
+      "works": [
+        "Lock, Stock and Two Smoking Barrels",
+        "Lock Stock",
+        "록 스탁 앤 투 스모킹 배럴즈"
+      ]
+    }
+  }
+}

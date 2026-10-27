@@ -1,0 +1,3316 @@
+[
+  {
+    "@id": "http://villainscope.org/ability/Capable_of_large-scale_alchemy",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Capable of large-scale alchemy"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Sadistic",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Sadistic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sadistic"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_ani_001",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 60
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Duplicitous nature: Serenity. Affectionate. Violence. | Ruthlessness: Willing to sacrifice even his own son for the attainment of his goal (Philosopher's Stone). | Strategic: Planning criminal activities. | Cheerful: Cracks jokes to amuse his subordinates."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_001"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Military; Grand Marshal"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Reads opponent's movements; Utilizes concealed eyes under blindfold to anticipate even the swiftest actions; Exceptional swordsmanship; Proficient in close combat"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Bradley King"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3196996"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Reads opponent's movements; Utilizes concealed eyes under blindfold to anticipate even the swiftest actions; Exceptional swordsmanship; Proficient in close combat"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_001"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Wears an eyepatch covering the right eye."
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Homunculus"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Mustache"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "White hair with black streaks."
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Reads_opponents_movements"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Utilizes_concealed_eyes_under_blindfold_to_anticipate_even_the_swiftest_actions"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Exceptional_swordsmanship"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Proficient_in_close_combat"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Duplicitous_nature"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Ruthlessness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Strategic"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cheerful"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Military; Grand Marshal"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Duplicitous nature: Serenity. Affectionate. Violence. | Ruthlessness: Willing to sacrifice even his own son for the attainment of his goal (Philosopher's Stone). | Strategic: Planning criminal activities. | Cheerful: Cracks jokes to amuse his subordinates."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Duplicitous nature"
+      },
+      {
+        "@value": "Ruthlessness"
+      },
+      {
+        "@value": "Strategic"
+      },
+      {
+        "@value": "Cheerful"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Duplicitous nature; Ruthlessness; Strategic; Cheerful"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character from Fullmetal Alchemist"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3196996"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "King Bradley"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Bradley King"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3196996"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q87576284"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q80447738"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q725249"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 60
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Bradley King"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Military; Grand Marshal"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Loyalty",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Loyalty"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Loyalty"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_ani_003",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 20
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Unfortunate childhood: Strained relationship with father (desires to become a hero influenced by a heroic grandmother, but strained relationship due to father's opposition). | Habit: Scratches face when irritated or stressed. | Stubbornness: Resists having his soul consumed by the boss. | Obsession: Obsessed with murder. | Madness | Mistreatment: Lacks morality, feels joy rather than remorse after killing household members. | Criminal: Mass murder | Name - Antagonist's appellation: '死柄木弔 (Shibarakimotsurugi)' - Incorporating two characters related to death. | Birthday: April 4th. Symbolizes death."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_002"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Leader of the Surrealist Liberation Front"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Collapse; Initially; Anything touched perfectly with five fingers collapses; The range of the effect has widened; collapses even if touched with just one finger or foot, not necessarily the whole hand or foot."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tomura Shigaraki"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q133538012"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Collapse; Initially; Anything touched perfectly with five fingers collapses; The range of the effect has widened; collapses even if touched with just one finger or foot, not necessarily the whole hand or foot."
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_002"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Entire body is surrounded by large hand-shaped objects."
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Initially had a large hand-shaped object on the face; Currently squiggly eye area."
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Initially blue hair; Currently white"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Collapse"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Initially"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Anything_touched_perfectly_with_five_fingers_collapses"
+      },
+      {
+        "@id": "http://villainscope.org/ability/The_range_of_the_effect_has_widened"
+      },
+      {
+        "@id": "http://villainscope.org/ability/collapses_even_if_touched_with_just_one_finger_or_foot_not_necessarily_the_whole_hand_or_foot"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Unfortunate_childhood"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Habit"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Sensitivity"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Stubbornness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Obsession"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Madness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Mistreatment"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Criminal"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Name_-_Antagonists_appellation"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Birthday"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Leader of the Surrealist Liberation Front"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Unfortunate childhood: Strained relationship with father (desires to become a hero influenced by a heroic grandmother, but strained relationship due to father's opposition). | Habit: Scratches face when irritated or stressed. | Stubbornness: Resists having his soul consumed by the boss. | Obsession: Obsessed with murder. | Madness | Mistreatment: Lacks morality, feels joy rather than remorse after killing household members. | Criminal: Mass murder | Name - Antagonist's appellation: '死柄木弔 (Shibarakimotsurugi)' - Incorporating two characters related to death. | Birthday: April 4th. Symbolizes death."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Unfortunate childhood"
+      },
+      {
+        "@value": "Habit"
+      },
+      {
+        "@value": "Sensitivity"
+      },
+      {
+        "@value": "Stubbornness"
+      },
+      {
+        "@value": "Obsession"
+      },
+      {
+        "@value": "Madness"
+      },
+      {
+        "@value": "Mistreatment"
+      },
+      {
+        "@value": "Criminal"
+      },
+      {
+        "@value": "Name - Antagonist's appellation"
+      },
+      {
+        "@value": "Birthday"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Unfortunate childhood; Habit; Sensitivity; Stubbornness; Obsession; Madness; Mistreatment; Criminal; Name - Antagonist's appellation; Birthday"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character in My Hero Academia"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q133538012"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Tomura Shigaraki"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Tomura Shigaraki"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q133538012"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q80447738"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q87576284"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 20
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Tomura Shigaraki"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Leader of the Surrealist Liberation Front"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Birthday",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Birthday"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Birthday"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Madness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Madness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Madness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_ani_002",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Animation"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "My Hero Academia"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_003"
+      },
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_004"
+      },
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_005"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Animation"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "My Hero Academia"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_003"
+      },
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_004"
+      },
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_005"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "animation"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "My Hero Academia"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Regenerative_abilities",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Regenerative abilities"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Immortality",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Immortality"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Mistreatment",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Mistreatment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mistreatment"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Maliciousness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Maliciousness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Maliciousness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Flight",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Flight"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Utilizes_concealed_eyes_under_blindfold_to_anticipate_even_the_swiftest_actions",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Utilizes concealed eyes under blindfold to anticipate even the swiftest actions"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Strong_determination",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Strong determination"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Strong determination"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Alchemy",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Alchemy"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Habit",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Habit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Habit"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Name_-_Antagonists_appellation",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Name - Antagonist's appellation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Name - Antagonist's appellation"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Sensitivity",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Sensitivity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sensitivity"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Psychopathy",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/PsychologicalTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Psychopathy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Psychopathy"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cleverness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/IntellectualTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cleverness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cleverness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_ani_007",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 500
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Ruthlessness: No hesitation in committing murder | Criminal: Murderer"
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_004"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Leader"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Exceptional swordsmanship; Immortality; Regenerative abilities"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Utsuro"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Exceptional swordsmanship; Immortality; Regenerative abilities"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_004"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Wears a mask covering below the nose."
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Human Mutate"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Brown long hair"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Exceptional_swordsmanship"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Immortality"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Regenerative_abilities"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Cunning"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cold-blooded"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Ruthlessness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Inscrutable"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Criminal"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Leader"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Ruthlessness: No hesitation in committing murder | Criminal: Murderer"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Cunning"
+      },
+      {
+        "@value": "Cold-blooded"
+      },
+      {
+        "@value": "Ruthlessness"
+      },
+      {
+        "@value": "Inscrutable"
+      },
+      {
+        "@value": "Criminal"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Cunning; Cold-blooded; Ruthlessness; Inscrutable; Criminal"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Utsuro"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 500
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Utsuro"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Leader"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_ani_004",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Obsession: Obsession with love. Obsession with a specific individual (Midoriya Izuku). | Lack of affection | Mistreatment: Sadistic. Becomes excited after killing people. | Affectionate: Becomes explosive if loved ones are harmed. Takes good care of loved ones. | Fondness for blood | Agility | Criminal: Mass murder"
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Female"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_002"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Subordinate of the Surrealist Liberation Front"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Shapeshifting; Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Himiko Toga"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Shapeshifting; Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms."
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_002"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "School uniform"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Sharp canines."
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Blonde; Twintails."
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Shapeshifting"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Consumes_the_blood_of_the_target_he_wants_to_transform_into_memorizes_their_body_dimensions_and_features_accurately_then_transforms"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Obsession"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Lack_of_affection"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Mistreatment"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Affectionate"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Fondness_for_blood"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Agility"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Criminal"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Yandere-type_girl"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Subordinate of the Surrealist Liberation Front"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Obsession: Obsession with love. Obsession with a specific individual (Midoriya Izuku). | Lack of affection | Mistreatment: Sadistic. Becomes excited after killing people. | Affectionate: Becomes explosive if loved ones are harmed. Takes good care of loved ones. | Fondness for blood | Agility | Criminal: Mass murder"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Obsession"
+      },
+      {
+        "@value": "Lack of affection"
+      },
+      {
+        "@value": "Mistreatment"
+      },
+      {
+        "@value": "Affectionate"
+      },
+      {
+        "@value": "Fondness for blood"
+      },
+      {
+        "@value": "Agility"
+      },
+      {
+        "@value": "Criminal"
+      },
+      {
+        "@value": "Yandere-type girl"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Obsession; Lack of affection; Mistreatment; Affectionate; Fondness for blood; Agility; Criminal;  yandere-type girl "
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Himiko Toga"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Female"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Himiko Toga"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Subordinate of the Surrealist Liberation Front"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_ani_007",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Animation"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "HUNTER×HUNTER"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_010"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Animation"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "HUNTER×HUNTER"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_010"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "animation"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "HUNTER×HUNTER"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Leadership",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/SocialTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Leadership"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Leadership"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Anything_touched_perfectly_with_five_fingers_collapses",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Anything touched perfectly with five fingers collapses"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Verbal_abuser",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Verbal abuser"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Verbal abuser"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Inscrutable",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Inscrutable"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Inscrutable"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Consumes_the_blood_of_the_target_he_wants_to_transform_into_memorizes_their_body_dimensions_and_features_accurately_then_transforms",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms."
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Tyrant",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Tyrant"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tyrant"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Obsessive-compulsive_disorder",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Obsessive-compulsive disorder"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Obsessive-compulsive disorder"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Duplicitous_nature",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Duplicitous nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Duplicitous nature"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Initially",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Initially"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Superhuman_feature_Supernatural_speed_strength",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Superhuman feature: Supernatural speed, strength"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Exceptional_swordsmanship",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Exceptional swordsmanship"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_ani_005",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 27
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Ruthlessness: Commits child abuse for personal gain | Narcissism | Selective affection: Acts kind and affectionate when necessary. | Former Yakuza member | Loyalty: Loyal to the boss who took him in, seeks to repay the favor. | Obsession: Obsessed with a specific individual (former boss of the previous organization) | Criminal: Mass murder, child abuse."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_002"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Leader of the Four Virtues Reunion"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Overhaul: Capable of disassembly, healing, and reassembly; Birdman"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kai Chisaki"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Overhaul: Capable of disassembly, healing, and reassembly; Birdman"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_002"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "signature red old-style magenta; gold plague mask "
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "thin eyes with small gold irises"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "reddish-brown sporting hair"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Overhaul_Capable_of_disassembly_healing_and_reassembly"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Birdman"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Obsessive-compulsive_disorder"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Ruthlessness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Narcissism"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Selective_affection"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Former_Yakuza_member"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Loyalty"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Obsession"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Criminal"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Leader of the Four Virtues Reunion"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Ruthlessness: Commits child abuse for personal gain | Narcissism | Selective affection: Acts kind and affectionate when necessary. | Former Yakuza member | Loyalty: Loyal to the boss who took him in, seeks to repay the favor. | Obsession: Obsessed with a specific individual (former boss of the previous organization) | Criminal: Mass murder, child abuse."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Obsessive-compulsive disorder"
+      },
+      {
+        "@value": "Ruthlessness"
+      },
+      {
+        "@value": "Narcissism"
+      },
+      {
+        "@value": "Selective affection"
+      },
+      {
+        "@value": "Former Yakuza member"
+      },
+      {
+        "@value": "Loyalty"
+      },
+      {
+        "@value": "Obsession"
+      },
+      {
+        "@value": "Criminal"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Obsessive-compulsive disorder; Ruthlessness; Narcissism; Selective affection; Former Yakuza member; Loyalty; Obsession; Criminal"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Kai Chisaki"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 27
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Kai Chisaki"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Leader of the Four Virtues Reunion"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_ani_006",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Animation"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Demon Slayer: Kimetsu no Yaiba"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_009"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Animation"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Demon Slayer: Kimetsu no Yaiba"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_009"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "animation"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Demon Slayer: Kimetsu no Yaiba"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Unfortunate_childhood",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Unfortunate childhood"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Unfortunate childhood"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_ani_004",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Animation"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Gintama"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_007"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Animation"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gintama"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_007"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "animation"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Gintama"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Lack_of_affection",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Lack of affection"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lack of affection"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Strategic",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/IntellectualTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Strategic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Strategic"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Collapse",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Collapse"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Ruthlessness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/BehavioralTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Ruthlessness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ruthlessness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Yandere-type_girl",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Yandere-type girl"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Yandere-type girl"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_ani_008",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 753
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Mistreatment: Takes pleasure in cruelty and brutality."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "hermaphrodite"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%285%29.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_005"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Leader"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Superhuman feature: Supernatural speed, strength; Regenerative abilities; Mass destruction with energy beams; Gigantification; Flight"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Piccolo"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q151659"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Superhuman feature: Supernatural speed, strength; Regenerative abilities; Mass destruction with energy beams; Gigantification; Flight"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_005"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Two antennae on the forehead. Muscular physique; Tall stature."
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Namekian"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Green of skin; Pointy ears"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "baldhead"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Superhuman_feature_Supernatural_speed_strength"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Regenerative_abilities"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Mass_destruction_with_energy_beams"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Gigantification"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Flight"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Tyrant"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Mistreatment"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Leader"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Mistreatment: Takes pleasure in cruelty and brutality."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Tyrant"
+      },
+      {
+        "@value": "Mistreatment"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Tyrant; Mistreatment"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "character from the Dragon Ball manga"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q151659"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Piccolo"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Piccolo"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q151659"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q80447738"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q87576284"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q28020127"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 753
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%285%29.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "hermaphrodite"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Piccolo"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Leader"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Psychopath",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/PsychologicalTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Psychopath"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Psychopath"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Reads_opponents_movements",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Reads opponent's movements"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_ani_010",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 28
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Criminal: Murderer | Mistreatment: Takes pleasure in murder | Sadistic: Takes pleasure in murdering the weak."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_007"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Hunter; Thief"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Superhuman feature: strength, speed, reflexes, durability"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Hisoka Morow "
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2280812"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Superhuman feature: strength, speed, reflexes, durability"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_007"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Clown makeup"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Pale of sklin; Star under the left eye; Teardrop under the right eye"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Red hair (pulled up)"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Superhuman_feature_strength_speed_reflexes_durability"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Criminal"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Mistreatment"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Liar"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Sadistic"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Arrogance"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Hunter; Thief"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Criminal: Murderer | Mistreatment: Takes pleasure in murder | Sadistic: Takes pleasure in murdering the weak."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Criminal"
+      },
+      {
+        "@value": "Mistreatment"
+      },
+      {
+        "@value": "Liar"
+      },
+      {
+        "@value": "Sadistic"
+      },
+      {
+        "@value": "Arrogance"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Cleverness; Criminal; Mistreatment; Liar; Sadistic; Arrogance"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character from Hunter × Hunter"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2280812"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Hisoka"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Hisoka Morow "
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2280812"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q87576284"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q80447738"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 28
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Hisoka Morow "
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Hunter; Thief"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ontology",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Ontology"
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@value": "Gayeon Kim"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "en",
+        "@value": "Knowledge graph for villain character analysis supporting distant reading and Graph RAG applications."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "VillainScope Knowledge Graph"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "2.0"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cold-blooded",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cold-blooded"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cold-blooded"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Birdman",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Birdman"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/The_range_of_the_effect_has_widened",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "The range of the effect has widened"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Gigantification",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Gigantification"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Lack_of_morality",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Lack of morality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lack of morality"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Overhaul_Capable_of_disassembly_healing_and_reassembly",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Overhaul: Capable of disassembly, healing, and reassembly"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Former_Yakuza_member",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Former Yakuza member"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Former Yakuza member"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_ani_005",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Animation"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Dragon Ball"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_008"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Animation"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dragon Ball"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_008"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "animation"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Dragon Ball"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Shapeshifting",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Shapeshifting"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Obsession",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/PsychologicalTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Obsession"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Obsession"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Liar",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/MoralTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Liar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Liar"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Selective_affection",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Selective affection"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Selective affection"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_ani_006",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 48
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Ruthlessness, Lack of morality: Despite the imminent risk to his son's life, he insisted on pushing forward with the dangerous mission to achieve his goal (the eradication of heretics). | Strategic: Plans meticulously to fulfill missions. | Violence: Has a history of drunken assaults, leading to being brought to the police station. | cold-bloodedness: extremely cold and distant father towards his son."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_003"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Nerf Commander"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gendo Ikari "
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2721109"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_003"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Brown glasses; Large burn mark on the right hand; White gloves"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Beard"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "sporting hair"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Psychopathy"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Ruthlessness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Lack_of_morality"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cunning"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Strategic"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Maliciousness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Violence"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cold-bloodedness"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Nerf Commander"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Ruthlessness, Lack of morality: Despite the imminent risk to his son's life, he insisted on pushing forward with the dangerous mission to achieve his goal (the eradication of heretics). | Strategic: Plans meticulously to fulfill missions. | Violence: Has a history of drunken assaults, leading to being brought to the police station. | cold-bloodedness: extremely cold and distant father towards his son."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Psychopathy"
+      },
+      {
+        "@value": "Ruthlessness"
+      },
+      {
+        "@value": "Lack of morality"
+      },
+      {
+        "@value": "Cunning"
+      },
+      {
+        "@value": "Strategic"
+      },
+      {
+        "@value": "Maliciousness"
+      },
+      {
+        "@value": "Violence"
+      },
+      {
+        "@value": "Cold-bloodedness"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Cleverness; Psychopathy; Ruthlessness; Lack of morality; Cunning; Strategic; Maliciousness; Violence; cold-bloodedness"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character from Neon Genesis Evangelion"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2721109"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Gendo Ikari"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Gendo Ikari "
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2721109"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q80447738"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q87576284"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 48
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gendo Ikari "
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Nerf Commander"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Affectionate",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Affectionate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Affectionate"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_ani_009",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1000
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Obsession: Obsessed with immortality (was very frail in childhood). | Leadership: Leads the Twelve Moon Phases. | Psychopath: Lacks understanding of emotions. | Narcissism: Self-centered, views others as inferior (refers to them as 'bugs'). | Strategic: Plans and executes everything meticulously. | Verbal abuser: Kills women with his words. | Ruthlessness: Executes immediately if tasks assigned are not fulfilled."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_006"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Leader"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Shapeshifting"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Muzan Kibutsuji "
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q116252649"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Shapeshifting"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_006"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Kind demeanor"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Goblin"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Pale of skin"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Curly hair"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Shapeshifting"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Obsession"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Leadership"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Tyrant"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Strong_determination"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Psychopath"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Narcissism"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Strategic"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Verbal_abuser"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Ruthlessness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Leader"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Obsession: Obsessed with immortality (was very frail in childhood). | Leadership: Leads the Twelve Moon Phases. | Psychopath: Lacks understanding of emotions. | Narcissism: Self-centered, views others as inferior (refers to them as 'bugs'). | Strategic: Plans and executes everything meticulously. | Verbal abuser: Kills women with his words. | Ruthlessness: Executes immediately if tasks assigned are not fulfilled."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Obsession"
+      },
+      {
+        "@value": "Leadership"
+      },
+      {
+        "@value": "Tyrant"
+      },
+      {
+        "@value": "Strong determination"
+      },
+      {
+        "@value": "Psychopath"
+      },
+      {
+        "@value": "Narcissism"
+      },
+      {
+        "@value": "Strategic"
+      },
+      {
+        "@value": "Verbal abuser"
+      },
+      {
+        "@value": "Ruthlessness"
+      },
+      {
+        "@value": "Cleverness"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Obsession; Leadership; Tyrant; Strong determination; Psychopath; Narcissism; Strategic; Verbal abuser; Ruthlessness; Cleverness"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "Fictional character from Demon Slayer: Kimetsu no Yaiba"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q116252649"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Muzan Kibutsuji"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Muzan Kibutsuji "
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q116252649"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q80447738"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q87576284"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q34315358"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1000
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Muzan Kibutsuji "
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Leader"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Superhuman_feature_strength_speed_reflexes_durability",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Superhuman feature: strength, speed, reflexes, durability"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Stubbornness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Stubbornness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stubbornness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_ani_001",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Animation"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Fullmetal Alchemist"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_001"
+      },
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_002"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Animation"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Fullmetal Alchemist"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_001"
+      },
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_002"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "animation"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Fullmetal Alchemist"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cunning",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/IntellectualTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cunning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cunning"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Criminal",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/BehavioralTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Criminal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Criminal"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Fondness_for_blood",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Fondness for blood"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fondness for blood"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_ani_002",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 400
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Strategic: Plans criminal activities | Ruthlessness: Forces many people into sacrifice for his goals. Subordinates in the organization are used solely for his objectives (Eternal life), devoid of affection. | Obsession: Eternal life. Obsession with a specific individual (Hohenheim of Light). | Criminal: Mass murder | Lack of morality: No remorse towards targets he kills. | Leadership: Leads the Homunculi."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Female"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_001"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Alchemist"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Immortality; Ability to transfer soul into another person's body for transformation; Alchemy; Capable of large-scale alchemy; Regenerative abilities"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dante"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Immortality; Ability to transfer soul into another person's body for transformation; Alchemy; Capable of large-scale alchemy; Regenerative abilities"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_ani_001"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Leaves a strong scent of perfume."
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Homunculus"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Protean"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Protean"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Immortality"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Ability_to_transfer_soul_into_another_persons_body_for_transformation"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Alchemy"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Capable_of_large-scale_alchemy"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Regenerative_abilities"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Strategic"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Ruthlessness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Obsession"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Criminal"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Lack_of_morality"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Leadership"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Alchemist"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Strategic: Plans criminal activities | Ruthlessness: Forces many people into sacrifice for his goals. Subordinates in the organization are used solely for his objectives (Eternal life), devoid of affection. | Obsession: Eternal life. Obsession with a specific individual (Hohenheim of Light). | Criminal: Mass murder | Lack of morality: No remorse towards targets he kills. | Leadership: Leads the Homunculi."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Strategic"
+      },
+      {
+        "@value": "Ruthlessness"
+      },
+      {
+        "@value": "Obsession"
+      },
+      {
+        "@value": "Criminal"
+      },
+      {
+        "@value": "Lack of morality"
+      },
+      {
+        "@value": "Leadership"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Strategic; Ruthlessness; Obsession; Criminal; Lack of morality; Leadership"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Dante"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 400
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Female"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Dante"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Alchemist"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Agility",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Agility"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Agility"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Proficient_in_close_combat",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Proficient in close combat"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Ability_to_transfer_soul_into_another_persons_body_for_transformation",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Ability to transfer soul into another person's body for transformation"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Arrogance",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/PsychologicalTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Arrogance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Arrogance"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Mass_destruction_with_energy_beams",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Mass destruction with energy beams"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/collapses_even_if_touched_with_just_one_finger_or_foot_not_necessarily_the_whole_hand_or_foot",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "collapses even if touched with just one finger or foot, not necessarily the whole hand or foot."
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cold-bloodedness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cold-bloodedness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cold-bloodedness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Violence",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/BehavioralTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Violence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Violence"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Narcissism",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/PsychologicalTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Narcissism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Narcissism"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_ani_003",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Animation"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Neon Genesis EVANGELION"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_006"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Animation"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Neon Genesis EVANGELION"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_ani_006"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "animation"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Neon Genesis EVANGELION"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cheerful",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cheerful"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cheerful"
+      }
+    ]
+  }
+]

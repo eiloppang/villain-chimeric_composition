@@ -1,0 +1,761 @@
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/abilities> "Exceptional swordsmanship; Immortality; Regenerative abilities" .
+<http://villainscope.org/trait/Leadership> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leadership"@en .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/appearsIn> <http://villainscope.org/work/work_ani_004> .
+<http://villainscope.org/trait/Arrogance> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/PsychologicalTraits> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Cheerful> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/personalityTrait> "Loyalty" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityDetails> "Unfortunate childhood: Strained relationship with father (desires to become a hero influenced by a heroic grandmother, but strained relationship due to father's opposition). | Habit: Scratches face when irritated or stressed. | Stubbornness: Resists having his soul consumed by the boss. | Obsession: Obsessed with murder. | Madness | Mistreatment: Lacks morality, feels joy rather than remorse after killing household members. | Criminal: Mass murder | Name - Antagonist's appellation: '死柄木弔 (Shibarakimotsurugi)' - Incorporating two characters related to death. | Birthday: April 4th. Symbolizes death." .
+<http://villainscope.org/villain/villain_ani_008> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q28020127> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/wikidataEntity> <http://www.wikidata.org/entity/Q2721109> .
+<http://villainscope.org/work/work_ani_005> <http://villainscope.org/villain/mediaType> "animation" .
+<http://villainscope.org/villain/villain_ani_004> <http://xmlns.com/foaf/0.1/age> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/trait/Ruthlessness> <http://www.w3.org/2000/01/rdf-schema#label> "Ruthlessness" .
+<http://villainscope.org/villain/villain_ani_007> <http://xmlns.com/foaf/0.1/gender> "Male" .
+<http://villainscope.org/ontology> <http://www.w3.org/2000/01/rdf-schema#comment> "Knowledge graph for villain character analysis supporting distant reading and Graph RAG applications."@en .
+<http://villainscope.org/trait/Unfortunate_childhood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Violence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Violence"@en .
+<http://villainscope.org/villain/villain_ani_007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Exceptional_swordsmanship> .
+<http://villainscope.org/villain/villain_ani_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Character> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/personalityTrait> "Lack of affection" .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Obsession> .
+<http://villainscope.org/work/work_ani_007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Animation> .
+<http://villainscope.org/villain/villain_ani_010> <http://schema.org/jobTitle> "Hunter; Thief" .
+<http://villainscope.org/trait/Madness> <http://www.w3.org/2000/01/rdf-schema#label> "Madness" .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTrait> "Strategic" .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Selective_affection> .
+<http://villainscope.org/villain/villain_ani_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://villainscope.org/villain/villain_ani_007> <http://schema.org/gender> "Male" .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/abilities> "Superhuman feature: strength, speed, reflexes, durability" .
+<http://villainscope.org/trait/Maliciousness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/facialFeatures> "Pale of sklin; Star under the left eye; Teardrop under the right eye" .
+<http://villainscope.org/villain/villain_ani_006> <http://schema.org/jobTitle> "Nerf Commander" .
+<http://villainscope.org/villain/villain_ani_010> <http://schema.org/name> "Hisoka Morow " .
+<http://villainscope.org/trait/Psychopathy> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/PsychologicalTraits> .
+<http://villainscope.org/trait/Narcissism> <http://www.w3.org/2004/02/skos/core#prefLabel> "Narcissism"@en .
+<http://villainscope.org/villain/villain_ani_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Character> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/personalityTrait> "Affectionate" .
+<http://villainscope.org/work/work_ani_005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://villainscope.org/ontology> <http://www.w3.org/2000/01/rdf-schema#label> "VillainScope Knowledge Graph"@en .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Criminal> .
+<http://villainscope.org/ability/Initially> <http://www.w3.org/2000/01/rdf-schema#label> "Initially" .
+<http://villainscope.org/work/work_ani_005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/CreativeWork> .
+<http://villainscope.org/trait/Cleverness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Lack_of_morality> .
+<http://villainscope.org/villain/villain_ani_009> <http://xmlns.com/foaf/0.1/name> "Muzan Kibutsuji " .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Ruthlessness> .
+<http://villainscope.org/ability/Proficient_in_close_combat> <http://www.w3.org/2000/01/rdf-schema#label> "Proficient in close combat" .
+<http://villainscope.org/work/work_ani_005> <http://schema.org/name> "Dragon Ball" .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/wikidataDescription> "character from the Dragon Ball manga"@en .
+<http://villainscope.org/ability/Gigantification> <http://www.w3.org/2000/01/rdf-schema#label> "Gigantification" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityTrait> "Ruthlessness" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityTrait> "Lack of morality" .
+<http://villainscope.org/trait/Sensitivity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/ontology> <http://purl.org/dc/terms/creator> "Gayeon Kim" .
+<http://villainscope.org/villain/villain_ani_010> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q15632617> .
+<http://villainscope.org/trait/Leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/personalityTrait> "Fondness for blood" .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Cold-blooded> .
+<http://villainscope.org/ability/Anything_touched_perfectly_with_five_fingers_collapses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/ability/Initially> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTrait> "Leadership" .
+<http://villainscope.org/trait/Affectionate> <http://www.w3.org/2000/01/rdf-schema#label> "Affectionate" .
+<http://villainscope.org/work/work_ani_007> <http://schema.org/genre> "Animation" .
+<http://villainscope.org/trait/Loyalty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Villain> .
+<http://villainscope.org/trait/Psychopath> <http://www.w3.org/2000/01/rdf-schema#label> "Psychopath" .
+<http://villainscope.org/trait/Yandere-type_girl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_009> <http://schema.org/description> "Obsession: Obsessed with immortality (was very frail in childhood). | Leadership: Leads the Twelve Moon Phases. | Psychopath: Lacks understanding of emotions. | Narcissism: Self-centered, views others as inferior (refers to them as 'bugs'). | Strategic: Plans and executes everything meticulously. | Verbal abuser: Kills women with his words. | Ruthlessness: Executes immediately if tasks assigned are not fulfilled." .
+<http://villainscope.org/villain/villain_ani_009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Character> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Maliciousness> .
+<http://villainscope.org/trait/Narcissism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/wikidataEntity> <http://www.wikidata.org/entity/Q133538012> .
+<http://villainscope.org/trait/Psychopathy> <http://www.w3.org/2000/01/rdf-schema#label> "Psychopathy" .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/appearsIn> <http://villainscope.org/work/work_ani_005> .
+<http://villainscope.org/trait/Tyrant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://villainscope.org/villain/villain_ani_009> <http://schema.org/sameAs> <http://www.wikidata.org/entity/Q116252649> .
+<http://villainscope.org/trait/Cold-bloodedness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/trait/Verbal_abuser> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbal abuser"@en .
+<http://villainscope.org/work/work_ani_003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/CreativeWork> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/personalityTraits> "Cunning; Cold-blooded; Ruthlessness; Inscrutable; Criminal" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTrait> "Birthday" .
+<http://villainscope.org/villain/villain_ani_009> <http://xmlns.com/foaf/0.1/age> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/personalityTraits> "Obsessive-compulsive disorder; Ruthlessness; Narcissism; Selective affection; Former Yakuza member; Loyalty; Obsession; Criminal" .
+<http://villainscope.org/trait/Affectionate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/personalityTrait> "Ruthlessness" .
+<http://villainscope.org/villain/villain_ani_002> <http://www.w3.org/2000/01/rdf-schema#label> "Dante" .
+<http://villainscope.org/work/work_ani_004> <http://schema.org/character> <http://villainscope.org/villain/villain_ani_007> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTrait> "Cleverness" .
+<http://villainscope.org/villain/villain_ani_004> <http://schema.org/description> "Obsession: Obsession with love. Obsession with a specific individual (Midoriya Izuku). | Lack of affection | Mistreatment: Sadistic. Becomes excited after killing people. | Affectionate: Becomes explosive if loved ones are harmed. Takes good care of loved ones. | Fondness for blood | Agility | Criminal: Mass murder" .
+<http://villainscope.org/ability/Regenerative_abilities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/trait/Narcissism> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/PsychologicalTraits> .
+<http://villainscope.org/trait/Obsession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/personalityTraits> "Duplicitous nature; Ruthlessness; Strategic; Cheerful" .
+<http://villainscope.org/trait/Criminal> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/BehavioralTraits> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/appearsIn> <http://villainscope.org/work/work_ani_006> .
+<http://villainscope.org/trait/Tyrant> <http://www.w3.org/2000/01/rdf-schema#label> "Tyrant" .
+<http://villainscope.org/villain/villain_ani_009> <http://xmlns.com/foaf/0.1/gender> "Male" .
+<http://villainscope.org/work/work_ani_005> <http://purl.org/dc/terms/title> "Dragon Ball" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Ability_to_transfer_soul_into_another_persons_body_for_transformation> .
+<http://villainscope.org/villain/villain_ani_006> <http://schema.org/isPartOf> <http://villainscope.org/work/work_ani_003> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTrait> "Tyrant" .
+<http://villainscope.org/trait/Psychopath> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychopath"@en .
+<http://villainscope.org/work/work_ani_004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/abilities> "Collapse; Initially; Anything touched perfectly with five fingers collapses; The range of the effect has widened; collapses even if touched with just one finger or foot, not necessarily the whole hand or foot." .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Superhuman_feature_Supernatural_speed_strength> .
+<http://villainscope.org/trait/Cold-bloodedness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cold-bloodedness"@en .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/personalityDetails> "Strategic: Plans criminal activities | Ruthlessness: Forces many people into sacrifice for his goals. Subordinates in the organization are used solely for his objectives (Eternal life), devoid of affection. | Obsession: Eternal life. Obsession with a specific individual (Hohenheim of Light). | Criminal: Mass murder | Lack of morality: No remorse towards targets he kills. | Leadership: Leads the Homunculi." .
+<http://villainscope.org/trait/Name_-_Antagonists_appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_007> <http://schema.org/age> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/trait/Obsession> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/PsychologicalTraits> .
+<http://villainscope.org/work/work_ani_001> <http://schema.org/character> <http://villainscope.org/villain/villain_ani_001> .
+<http://villainscope.org/work/work_ani_003> <http://schema.org/character> <http://villainscope.org/villain/villain_ani_006> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/appearsIn> <http://villainscope.org/work/work_ani_002> .
+<http://villainscope.org/villain/villain_ani_010> <http://xmlns.com/foaf/0.1/gender> "Male" .
+<http://villainscope.org/villain/villain_ani_003> <http://xmlns.com/foaf/0.1/name> "Tomura Shigaraki" .
+<http://villainscope.org/trait/Selective_affection> <http://www.w3.org/2000/01/rdf-schema#label> "Selective affection" .
+<http://villainscope.org/work/work_ani_004> <http://villainscope.org/villain/mediaType> "animation" .
+<http://villainscope.org/villain/villain_ani_003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Villain> .
+<http://villainscope.org/villain/villain_ani_010> <http://schema.org/gender> "Male" .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/appearsIn> <http://villainscope.org/work/work_ani_007> .
+<http://villainscope.org/ability/Flight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_003> <http://schema.org/name> "Tomura Shigaraki" .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Mass_destruction_with_energy_beams> .
+<http://villainscope.org/trait/Cunning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/distinctiveFeatures> "School uniform" .
+<http://villainscope.org/villain/villain_ani_004> <http://schema.org/knowsAbout> "Shapeshifting; Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms." .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/personalityTrait> "Liar" .
+<http://villainscope.org/work/work_ani_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://villainscope.org/work/work_ani_001> <http://schema.org/name> "Fullmetal Alchemist" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/appearsIn> <http://villainscope.org/work/work_ani_002> .
+<http://villainscope.org/trait/Verbal_abuser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/ability/Utilizes_concealed_eyes_under_blindfold_to_anticipate_even_the_swiftest_actions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/personalityTrait> "Arrogance" .
+<http://villainscope.org/ability/Reads_opponents_movements> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/trait/Fondness_for_blood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/work/work_ani_004> <http://www.w3.org/2000/01/rdf-schema#label> "Gintama" .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/hairDescription> "White hair with black streaks." .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/personalityTrait> "Cold-blooded" .
+<http://villainscope.org/villain/villain_ani_004> <http://schema.org/age> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/personalityTraits> "Tyrant; Mistreatment" .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Gigantification> .
+<http://villainscope.org/trait/Habit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Habit"@en .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/personalityTrait> "Cleverness" .
+<http://villainscope.org/villain/villain_ani_003> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q87576284> .
+<http://villainscope.org/ability/Reads_opponents_movements> <http://www.w3.org/2000/01/rdf-schema#label> "Reads opponent's movements" .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/wikidataDescription> "Fictional character from Demon Slayer: Kimetsu no Yaiba"@en .
+<http://villainscope.org/work/work_ani_006> <http://schema.org/character> <http://villainscope.org/villain/villain_ani_009> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/abilities> "Overhaul: Capable of disassembly, healing, and reassembly; Birdman" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityTrait> "Cold-bloodedness" .
+<http://villainscope.org/villain/villain_ani_008> <http://xmlns.com/foaf/0.1/gender> "hermaphrodite" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/occupation> "Alchemist" .
+<http://villainscope.org/work/work_ani_006> <http://villainscope.org/villain/mediaType> "animation" .
+<http://villainscope.org/villain/villain_ani_004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Villain> .
+<http://villainscope.org/villain/villain_ani_009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://villainscope.org/villain/villain_ani_002> <http://xmlns.com/foaf/0.1/title> "Alchemist" .
+<http://villainscope.org/work/work_ani_003> <http://www.w3.org/2000/01/rdf-schema#label> "Neon Genesis EVANGELION" .
+<http://villainscope.org/villain/villain_ani_008> <http://schema.org/gender> "hermaphrodite" .
+<http://villainscope.org/villain/villain_ani_006> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2721109> .
+<http://villainscope.org/villain/villain_ani_008> <http://www.w3.org/2000/01/rdf-schema#label> "Piccolo" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/collapses_even_if_touched_with_just_one_finger_or_foot_not_necessarily_the_whole_hand_or_foot> .
+<http://villainscope.org/villain/villain_ani_004> <http://schema.org/jobTitle> "Subordinate of the Surrealist Liberation Front" .
+<http://villainscope.org/trait/Ruthlessness> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/BehavioralTraits> .
+<http://villainscope.org/trait/Habit> <http://www.w3.org/2000/01/rdf-schema#label> "Habit" .
+<http://villainscope.org/trait/Sensitivity> <http://www.w3.org/2000/01/rdf-schema#label> "Sensitivity" .
+<http://villainscope.org/trait/Selective_affection> <http://www.w3.org/2004/02/skos/core#prefLabel> "Selective affection"@en .
+<http://villainscope.org/trait/Liar> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/MoralTraits> .
+<http://villainscope.org/trait/Inscrutable> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_001> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3196996> .
+<http://villainscope.org/trait/Cold-bloodedness> <http://www.w3.org/2000/01/rdf-schema#label> "Cold-bloodedness" .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Liar> .
+<http://villainscope.org/trait/Habit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/ability/Superhuman_feature_strength_speed_reflexes_durability> <http://www.w3.org/2000/01/rdf-schema#label> "Superhuman feature: strength, speed, reflexes, durability" .
+<http://villainscope.org/trait/Agility> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agility"@en .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/occupation> "Leader" .
+<http://villainscope.org/trait/Strong_determination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_010> <http://schema.org/age> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/trait/Agility> <http://www.w3.org/2000/01/rdf-schema#label> "Agility" .
+<http://villainscope.org/villain/villain_ani_002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Villain> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Strategic> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Shapeshifting> .
+<http://villainscope.org/work/work_ani_007> <http://villainscope.org/villain/hasCharacter> <http://villainscope.org/villain/villain_ani_010> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/occupation> "Military; Grand Marshal" .
+<http://villainscope.org/work/work_ani_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://villainscope.org/trait/Selective_affection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_001> <http://xmlns.com/foaf/0.1/title> "Military; Grand Marshal" .
+<http://villainscope.org/trait/Lack_of_morality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/trait/Obsessive-compulsive_disorder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Character> .
+<http://villainscope.org/villain/villain_ani_003> <http://schema.org/description> "Unfortunate childhood: Strained relationship with father (desires to become a hero influenced by a heroic grandmother, but strained relationship due to father's opposition). | Habit: Scratches face when irritated or stressed. | Stubbornness: Resists having his soul consumed by the boss. | Obsession: Obsessed with murder. | Madness | Mistreatment: Lacks morality, feels joy rather than remorse after killing household members. | Criminal: Mass murder | Name - Antagonist's appellation: '死柄木弔 (Shibarakimotsurugi)' - Incorporating two characters related to death. | Birthday: April 4th. Symbolizes death." .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/distinctiveFeatures> "Entire body is surrounded by large hand-shaped objects." .
+<http://villainscope.org/work/work_ani_005> <http://villainscope.org/villain/hasCharacter> <http://villainscope.org/villain/villain_ani_008> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Strategic> .
+<http://villainscope.org/ability/Collapse> <http://www.w3.org/2000/01/rdf-schema#label> "Collapse" .
+<http://villainscope.org/villain/villain_ani_005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hairDescription> "Curly hair" .
+<http://villainscope.org/trait/Obsessive-compulsive_disorder> <http://www.w3.org/2004/02/skos/core#prefLabel> "Obsessive-compulsive disorder"@en .
+<http://villainscope.org/work/work_ani_007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/CreativeWork> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/distinctiveFeatures> "Leaves a strong scent of perfume." .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Loyalty> .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/occupation> "Hunter; Thief" .
+<http://villainscope.org/trait/Stubbornness> <http://www.w3.org/2000/01/rdf-schema#label> "Stubbornness" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Birthday> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/personalityTrait> "Ruthlessness" .
+<http://villainscope.org/trait/Lack_of_affection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/personalityTrait> "Obsession" .
+<http://villainscope.org/trait/Stubbornness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/personalityTrait> "Criminal" .
+<http://villainscope.org/work/work_ani_002> <http://schema.org/character> <http://villainscope.org/villain/villain_ani_003> .
+<http://villainscope.org/ability/Superhuman_feature_strength_speed_reflexes_durability> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_007> <http://xmlns.com/foaf/0.1/title> "Leader" .
+<http://villainscope.org/ability/Superhuman_feature_Supernatural_speed_strength> <http://www.w3.org/2000/01/rdf-schema#label> "Superhuman feature: Supernatural speed, strength" .
+<http://villainscope.org/ability/The_range_of_the_effect_has_widened> <http://www.w3.org/2000/01/rdf-schema#label> "The range of the effect has widened" .
+<http://villainscope.org/villain/villain_ani_002> <http://xmlns.com/foaf/0.1/name> "Dante" .
+<http://villainscope.org/trait/Leadership> <http://www.w3.org/2000/01/rdf-schema#label> "Leadership" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/distinctiveFeatures> "Brown glasses; Large burn mark on the right hand; White gloves" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityTrait> "Strategic" .
+<http://villainscope.org/trait/Yandere-type_girl> <http://www.w3.org/2000/01/rdf-schema#label> "Yandere-type girl" .
+<http://villainscope.org/trait/Cheerful> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cheerful"@en .
+<http://villainscope.org/trait/Mistreatment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_001> <http://www.w3.org/2000/01/rdf-schema#label> "Bradley King" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Regenerative_abilities> .
+<http://villainscope.org/trait/Strategic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Obsessive-compulsive_disorder> <http://www.w3.org/2000/01/rdf-schema#label> "Obsessive-compulsive disorder" .
+<http://villainscope.org/trait/Former_Yakuza_member> <http://www.w3.org/2004/02/skos/core#prefLabel> "Former Yakuza member"@en .
+<http://villainscope.org/villain/villain_ani_001> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q15632617> .
+<http://villainscope.org/trait/Strong_determination> <http://www.w3.org/2000/01/rdf-schema#label> "Strong determination" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTrait> "Stubbornness" .
+<http://villainscope.org/villain/villain_ani_003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Character> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Cleverness> .
+<http://villainscope.org/trait/Cunning> <http://www.w3.org/2000/01/rdf-schema#label> "Cunning" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTrait> "Madness" .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Criminal> .
+<http://villainscope.org/villain/villain_ani_003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hairDescription> "reddish-brown sporting hair" .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Ruthlessness> .
+<http://villainscope.org/work/work_ani_002> <http://www.w3.org/2000/01/rdf-schema#label> "My Hero Academia" .
+<http://villainscope.org/villain/villain_ani_009> <http://schema.org/age> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/facialFeatures> "Beard" .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/wikidataEntity> <http://www.wikidata.org/entity/Q2280812> .
+<http://villainscope.org/villain/villain_ani_006> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q80447738> .
+<http://villainscope.org/trait/Inscrutable> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inscrutable"@en .
+<http://villainscope.org/villain/villain_ani_006> <http://xmlns.com/foaf/0.1/name> "Gendo Ikari " .
+<http://villainscope.org/trait/Former_Yakuza_member> <http://www.w3.org/2000/01/rdf-schema#label> "Former Yakuza member" .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/occupation> "Leader" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTrait> "Obsession" .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/personalityDetails> "Duplicitous nature: Serenity. Affectionate. Violence. | Ruthlessness: Willing to sacrifice even his own son for the attainment of his goal (Philosopher's Stone). | Strategic: Planning criminal activities. | Cheerful: Cracks jokes to amuse his subordinates." .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Cleverness> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/ethnicity> "Human Mutate" .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Consumes_the_blood_of_the_target_he_wants_to_transform_into_memorizes_their_body_dimensions_and_features_accurately_then_transforms> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTrait> "Criminal" .
+<http://villainscope.org/villain/villain_ani_006> <http://schema.org/name> "Gendo Ikari " .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/hairDescription> "Brown long hair" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/facialFeatures> "Initially had a large hand-shaped object on the face; Currently squiggly eye area." .
+<http://villainscope.org/work/work_ani_006> <http://www.w3.org/2000/01/rdf-schema#label> "Demon Slayer: Kimetsu no Yaiba" .
+<http://villainscope.org/villain/villain_ani_010> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q87576284> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Ruthlessness> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Alchemy> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/personalityTrait> "Strategic" .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/abilities> "Superhuman feature: Supernatural speed, strength; Regenerative abilities; Mass destruction with energy beams; Gigantification; Flight" .
+<http://villainscope.org/trait/Unfortunate_childhood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/ontology> <http://www.w3.org/2002/07/owl#versionInfo> "2.0" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTrait> "Mistreatment" .
+<http://villainscope.org/villain/villain_ani_004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Character> .
+<http://villainscope.org/villain/villain_ani_004> <http://schema.org/gender> "Female" .
+<http://villainscope.org/trait/Sensitivity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sensitivity"@en .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Fondness_for_blood> .
+<http://villainscope.org/villain/villain_ani_001> <http://schema.org/sameAs> <http://www.wikidata.org/entity/Q3196996> .
+<http://villainscope.org/villain/villain_ani_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/ethnicity> "Namekian" .
+<http://villainscope.org/villain/villain_ani_005> <http://schema.org/description> "Ruthlessness: Commits child abuse for personal gain | Narcissism | Selective affection: Acts kind and affectionate when necessary. | Former Yakuza member | Loyalty: Loyal to the boss who took him in, seeks to repay the favor. | Obsession: Obsessed with a specific individual (former boss of the previous organization) | Criminal: Mass murder, child abuse." .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/personalityTrait> "Obsession" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTrait> "Habit" .
+<http://villainscope.org/work/work_ani_003> <http://villainscope.org/villain/mediaType> "animation" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityTrait> "Cleverness" .
+<http://villainscope.org/work/work_ani_007> <http://www.w3.org/2000/01/rdf-schema#label> "HUNTER×HUNTER" .
+<http://villainscope.org/trait/Violence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Mistreatment> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/wikidataDescription> "fictional character from Fullmetal Alchemist"@en .
+<http://villainscope.org/villain/villain_ani_002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Character> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/personalityTrait> "Criminal" .
+<http://villainscope.org/trait/Sensitivity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/trait/Sadistic> <http://www.w3.org/2000/01/rdf-schema#label> "Sadistic" .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/hairDescription> "baldhead" .
+<http://villainscope.org/villain/villain_ani_001> <http://xmlns.com/foaf/0.1/gender> "Male" .
+<http://villainscope.org/ability/Ability_to_transfer_soul_into_another_persons_body_for_transformation> <http://www.w3.org/2000/01/rdf-schema#label> "Ability to transfer soul into another person's body for transformation" .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Lack_of_affection> .
+<http://villainscope.org/villain/villain_ani_001> <http://schema.org/age> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/villain/villain_ani_002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Cunning> .
+<http://villainscope.org/work/work_ani_003> <http://purl.org/dc/terms/title> "Neon Genesis EVANGELION" .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/personalityTrait> "Obsessive-compulsive disorder" .
+<http://villainscope.org/trait/Ruthlessness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Narcissism> <http://www.w3.org/2000/01/rdf-schema#label> "Narcissism" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Lack_of_morality> .
+<http://villainscope.org/work/work_ani_002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Animation> .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/facialFeatures> "Green of skin; Pointy ears" .
+<http://villainscope.org/trait/Stubbornness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stubbornness"@en .
+<http://villainscope.org/villain/villain_ani_009> <http://schema.org/gender> "Male" .
+<http://villainscope.org/villain/villain_ani_001> <http://schema.org/gender> "Male" .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/personalityTrait> "Mistreatment" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/personalityTrait> "Ruthlessness" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/personalityTrait> "Lack of morality" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/personalityTrait> "Obsession" .
+<http://villainscope.org/ability/Collapse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/trait/Birthday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/personalityDetails> "Ruthlessness: No hesitation in committing murder | Criminal: Murderer" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Mistreatment> .
+<http://villainscope.org/trait/Loyalty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/trait/Madness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/personalityTrait> "Criminal" .
+<http://villainscope.org/work/work_ani_003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://villainscope.org/trait/Leadership> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/SocialTraits> .
+<http://villainscope.org/trait/Cleverness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Cunning> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/IntellectualTraits> .
+<http://villainscope.org/trait/Yandere-type_girl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/ability/collapses_even_if_touched_with_just_one_finger_or_foot_not_necessarily_the_whole_hand_or_foot> <http://www.w3.org/2000/01/rdf-schema#label> "collapses even if touched with just one finger or foot, not necessarily the whole hand or foot." .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/wikidataLabel> "Gendo Ikari"@en .
+<http://villainscope.org/villain/villain_ani_004> <http://xmlns.com/foaf/0.1/gender> "Female" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Violence> .
+<http://villainscope.org/villain/villain_ani_008> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q87576284> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Immortality> .
+<http://villainscope.org/trait/Obsession> <http://www.w3.org/2000/01/rdf-schema#label> "Obsession" .
+<http://villainscope.org/villain/villain_ani_002> <http://schema.org/description> "Strategic: Plans criminal activities | Ruthlessness: Forces many people into sacrifice for his goals. Subordinates in the organization are used solely for his objectives (Eternal life), devoid of affection. | Obsession: Eternal life. Obsession with a specific individual (Hohenheim of Light). | Criminal: Mass murder | Lack of morality: No remorse towards targets he kills. | Leadership: Leads the Homunculi." .
+<http://villainscope.org/trait/Agility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/trait/Cheerful> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Overhaul_Capable_of_disassembly_healing_and_reassembly> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Obsessive-compulsive_disorder> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/ethnicity> "Homunculus" .
+<http://villainscope.org/villain/villain_ani_007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Villain> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/wikidataEntity> <http://www.wikidata.org/entity/Q116252649> .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Criminal> .
+<http://villainscope.org/villain/villain_ani_007> <http://xmlns.com/foaf/0.1/name> "Utsuro" .
+<http://villainscope.org/villain/villain_ani_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://villainscope.org/villain/villain_ani_002> <http://xmlns.com/foaf/0.1/gender> "Female" .
+<http://villainscope.org/villain/villain_ani_010> <http://xmlns.com/foaf/0.1/age> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/work/work_ani_002> <http://schema.org/genre> "Animation" .
+<http://villainscope.org/trait/Psychopath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/occupation> "Leader" .
+<http://villainscope.org/villain/villain_ani_007> <http://schema.org/name> "Utsuro" .
+<http://villainscope.org/villain/villain_ani_003> <http://xmlns.com/foaf/0.1/title> "Leader of the Surrealist Liberation Front" .
+<http://villainscope.org/villain/villain_ani_005> <http://schema.org/jobTitle> "Leader of the Four Virtues Reunion" .
+<http://villainscope.org/work/work_ani_005> <http://schema.org/character> <http://villainscope.org/villain/villain_ani_008> .
+<http://villainscope.org/villain/villain_ani_002> <http://schema.org/gender> "Female" .
+<http://villainscope.org/trait/Cold-bloodedness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_009> <http://xmlns.com/foaf/0.1/title> "Leader" .
+<http://villainscope.org/villain/villain_ani_005> <http://xmlns.com/foaf/0.1/age> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/trait/Liar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/work/work_ani_002> <http://schema.org/character> <http://villainscope.org/villain/villain_ani_004> .
+<http://villainscope.org/villain/villain_ani_006> <http://schema.org/description> "Ruthlessness, Lack of morality: Despite the imminent risk to his son's life, he insisted on pushing forward with the dangerous mission to achieve his goal (the eradication of heretics). | Strategic: Plans meticulously to fulfill missions. | Violence: Has a history of drunken assaults, leading to being brought to the police station. | cold-bloodedness: extremely cold and distant father towards his son." .
+<http://villainscope.org/villain/villain_ani_008> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q151659> .
+<http://villainscope.org/villain/villain_ani_004> <http://xmlns.com/foaf/0.1/name> "Himiko Toga" .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/ethnicity> "Homunculus" .
+<http://villainscope.org/work/work_ani_002> <http://schema.org/character> <http://villainscope.org/villain/villain_ani_005> .
+<http://villainscope.org/villain/villain_ani_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://villainscope.org/villain/villain_ani_008> <http://schema.org/image> <https://commons.wikimedia.org/wiki/Special:FilePath/Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%285%29.jpg> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Leadership> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/The_range_of_the_effect_has_widened> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/distinctiveFeatures> "Wears a mask covering below the nose." .
+<http://villainscope.org/villain/villain_ani_005> <http://xmlns.com/foaf/0.1/name> "Kai Chisaki" .
+<http://villainscope.org/trait/Obsession> <http://www.w3.org/2004/02/skos/core#prefLabel> "Obsession"@en .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Narcissism> .
+<http://villainscope.org/trait/Affectionate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Affectionate"@en .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/facialFeatures> "Sharp canines." .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTrait> "Psychopath" .
+<http://villainscope.org/villain/villain_ani_001> <http://xmlns.com/foaf/0.1/age> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/villain/villain_ani_005> <http://schema.org/name> "Kai Chisaki" .
+<http://villainscope.org/villain/villain_ani_008> <http://xmlns.com/foaf/0.1/title> "Leader" .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTrait> "Verbal abuser" .
+<http://villainscope.org/villain/villain_ani_003> <http://xmlns.com/foaf/0.1/age> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/trait/Verbal_abuser> <http://www.w3.org/2000/01/rdf-schema#label> "Verbal abuser" .
+<http://villainscope.org/trait/Cunning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cunning"@en .
+<http://villainscope.org/villain/villain_ani_002> <http://xmlns.com/foaf/0.1/age> "400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/trait/Fondness_for_blood> <http://www.w3.org/2000/01/rdf-schema#label> "Fondness for blood" .
+<http://villainscope.org/villain/villain_ani_001> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q725249> .
+<http://villainscope.org/villain/villain_ani_009> <http://schema.org/knowsAbout> "Shapeshifting" .
+<http://villainscope.org/work/work_ani_005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Animation> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTraits> "Unfortunate childhood; Habit; Sensitivity; Stubbornness; Obsession; Madness; Mistreatment; Criminal; Name - Antagonist's appellation; Birthday" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/occupation> "Leader of the Surrealist Liberation Front" .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Obsession> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityTrait> "Cunning" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Initially> .
+<http://villainscope.org/villain/villain_ani_010> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2280812> .
+<http://villainscope.org/ability/The_range_of_the_effect_has_widened> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/work/work_ani_001> <http://villainscope.org/villain/hasCharacter> <http://villainscope.org/villain/villain_ani_002> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Regenerative_abilities> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityTraits> "Cleverness; Psychopathy; Ruthlessness; Lack of morality; Cunning; Strategic; Maliciousness; Violence; cold-bloodedness" .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/abilities> "Shapeshifting; Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms." .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Name_-_Antagonists_appellation> .
+<http://villainscope.org/ability/Utilizes_concealed_eyes_under_blindfold_to_anticipate_even_the_swiftest_actions> <http://www.w3.org/2000/01/rdf-schema#label> "Utilizes concealed eyes under blindfold to anticipate even the swiftest actions" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/appearsIn> <http://villainscope.org/work/work_ani_001> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Exceptional_swordsmanship> .
+<http://villainscope.org/ability/Shapeshifting> <http://www.w3.org/2000/01/rdf-schema#label> "Shapeshifting" .
+<http://villainscope.org/trait/Sadistic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_006> <http://xmlns.com/foaf/0.1/title> "Nerf Commander" .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Ruthlessness> .
+<http://villainscope.org/trait/Habit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_010> <http://www.w3.org/2000/01/rdf-schema#label> "Hisoka Morow " .
+<http://villainscope.org/ability/Consumes_the_blood_of_the_target_he_wants_to_transform_into_memorizes_their_body_dimensions_and_features_accurately_then_transforms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_001> <http://schema.org/description> "Duplicitous nature: Serenity. Affectionate. Violence. | Ruthlessness: Willing to sacrifice even his own son for the attainment of his goal (Philosopher's Stone). | Strategic: Planning criminal activities. | Cheerful: Cracks jokes to amuse his subordinates." .
+<http://villainscope.org/trait/Strategic> <http://www.w3.org/2000/01/rdf-schema#label> "Strategic" .
+<http://villainscope.org/trait/Birthday> <http://www.w3.org/2000/01/rdf-schema#label> "Birthday" .
+<http://villainscope.org/trait/Strategic> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/IntellectualTraits> .
+<http://villainscope.org/villain/villain_ani_009> <http://www.w3.org/2000/01/rdf-schema#label> "Muzan Kibutsuji " .
+<http://villainscope.org/trait/Obsessive-compulsive_disorder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/trait/Former_Yakuza_member> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hairDescription> "Initially blue hair; Currently white" .
+<http://villainscope.org/work/work_ani_001> <http://villainscope.org/villain/hasCharacter> <http://villainscope.org/villain/villain_ani_001> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/personalityTrait> "Selective affection" .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Mistreatment> .
+<http://villainscope.org/trait/Violence> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/BehavioralTraits> .
+<http://villainscope.org/work/work_ani_007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://villainscope.org/villain/villain_ani_010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Villain> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Agility> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Duplicitous_nature> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Obsession> .
+<http://villainscope.org/trait/Cold-blooded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTrait> "Strong determination" .
+<http://villainscope.org/ability/Exceptional_swordsmanship> <http://www.w3.org/2000/01/rdf-schema#label> "Exceptional swordsmanship" .
+<http://villainscope.org/villain/villain_ani_009> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q87576284> .
+<http://villainscope.org/villain/villain_ani_001> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q87576284> .
+<http://villainscope.org/trait/Cleverness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cleverness"@en .
+<http://villainscope.org/ability/collapses_even_if_touched_with_just_one_finger_or_foot_not_necessarily_the_whole_hand_or_foot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/work/work_ani_007> <http://villainscope.org/villain/mediaType> "animation" .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/personalityTrait> "Mistreatment" .
+<http://villainscope.org/work/work_ani_004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Animation> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/occupation> "Nerf Commander" .
+<http://villainscope.org/trait/Liar> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liar"@en .
+<http://villainscope.org/villain/villain_ani_003> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q80447738> .
+<http://villainscope.org/trait/Strategic> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strategic"@en .
+<http://villainscope.org/villain/villain_ani_010> <http://xmlns.com/foaf/0.1/title> "Hunter; Thief" .
+<http://villainscope.org/villain/villain_ani_003> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q15632617> .
+<http://villainscope.org/villain/villain_ani_007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Character> .
+<http://villainscope.org/ability/Capable_of_large-scale_alchemy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Sadistic> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTrait> "Unfortunate childhood" .
+<http://villainscope.org/villain/villain_ani_007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://villainscope.org/villain/villain_ani_003> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133538012> .
+<http://villainscope.org/work/work_ani_001> <http://www.w3.org/2000/01/rdf-schema#label> "Fullmetal Alchemist" .
+<http://villainscope.org/ability/Proficient_in_close_combat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_001> <http://schema.org/jobTitle> "Military; Grand Marshal" .
+<http://villainscope.org/work/work_ani_001> <http://schema.org/genre> "Animation" .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/facialFeatures> "thin eyes with small gold irises" .
+<http://villainscope.org/villain/villain_ani_008> <http://schema.org/sameAs> <http://www.wikidata.org/entity/Q151659> .
+<http://villainscope.org/villain/villain_ani_005> <http://xmlns.com/foaf/0.1/gender> "Male" .
+<http://villainscope.org/villain/villain_ani_009> <http://schema.org/isPartOf> <http://villainscope.org/work/work_ani_006> .
+<http://villainscope.org/trait/Duplicitous_nature> <http://www.w3.org/2000/01/rdf-schema#label> "Duplicitous nature" .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/ethnicity> "Goblin" .
+<http://villainscope.org/trait/Violence> <http://www.w3.org/2000/01/rdf-schema#label> "Violence" .
+<http://villainscope.org/work/work_ani_004> <http://schema.org/name> "Gintama" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Capable_of_large-scale_alchemy> .
+<http://villainscope.org/work/work_ani_006> <http://villainscope.org/villain/hasCharacter> <http://villainscope.org/villain/villain_ani_009> .
+<http://villainscope.org/ability/Regenerative_abilities> <http://www.w3.org/2000/01/rdf-schema#label> "Regenerative abilities" .
+<http://villainscope.org/work/work_ani_003> <http://villainscope.org/villain/hasCharacter> <http://villainscope.org/villain/villain_ani_006> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Anything_touched_perfectly_with_five_fingers_collapses> .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Flight> .
+<http://villainscope.org/villain/villain_ani_002> <http://schema.org/name> "Dante" .
+<http://villainscope.org/villain/villain_ani_005> <http://schema.org/gender> "Male" .
+<http://villainscope.org/trait/Criminal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/work/work_ani_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Animation> .
+<http://villainscope.org/work/work_ani_005> <http://www.w3.org/2000/01/rdf-schema#label> "Dragon Ball" .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/wikidataDescription> "fictional character from Hunter × Hunter"@en .
+<http://villainscope.org/villain/villain_ani_005> <http://schema.org/age> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/trait/Duplicitous_nature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Madness> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Strategic> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/personalityTrait> "Inscrutable" .
+<http://villainscope.org/work/work_ani_002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/CreativeWork> .
+<http://villainscope.org/trait/Strategic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/trait/Mistreatment> <http://www.w3.org/2000/01/rdf-schema#label> "Mistreatment" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/personalityTrait> "Strategic" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Stubbornness> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Immortality> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Collapse> .
+<http://villainscope.org/trait/Psychopathy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/ability/Alchemy> <http://www.w3.org/2000/01/rdf-schema#label> "Alchemy" .
+<http://villainscope.org/work/work_ani_003> <http://schema.org/name> "Neon Genesis EVANGELION" .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/distinctiveFeatures> "signature red old-style magenta; gold plague mask " .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/personalityDetails> "Mistreatment: Takes pleasure in cruelty and brutality." .
+<http://villainscope.org/villain/villain_ani_005> <http://xmlns.com/foaf/0.1/title> "Leader of the Four Virtues Reunion" .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Mistreatment> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hairDescription> "Protean" .
+<http://villainscope.org/trait/Tyrant> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tyrant"@en .
+<http://villainscope.org/villain/villain_ani_002> <http://schema.org/jobTitle> "Alchemist" .
+<http://villainscope.org/villain/villain_ani_006> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q15632617> .
+<http://villainscope.org/work/work_ani_004> <http://schema.org/genre> "Animation" .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Affectionate> .
+<http://villainscope.org/villain/villain_ani_007> <http://schema.org/description> "Ruthlessness: No hesitation in committing murder | Criminal: Murderer" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Obsession> .
+<http://villainscope.org/villain/villain_ani_007> <http://schema.org/knowsAbout> "Exceptional swordsmanship; Immortality; Regenerative abilities" .
+<http://villainscope.org/villain/villain_ani_008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Villain> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Shapeshifting> .
+<http://villainscope.org/villain/villain_ani_010> <http://schema.org/isPartOf> <http://villainscope.org/work/work_ani_007> .
+<http://villainscope.org/villain/villain_ani_003> <http://www.w3.org/2000/01/rdf-schema#label> "Tomura Shigaraki" .
+<http://villainscope.org/villain/villain_ani_001> <http://schema.org/isPartOf> <http://villainscope.org/work/work_ani_001> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/wikidataLabel> "Tomura Shigaraki"@en .
+<http://villainscope.org/villain/villain_ani_003> <http://schema.org/age> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/villain/villain_ani_009> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q34315358> .
+<http://villainscope.org/trait/Arrogance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/wikidataDescription> "fictional character in My Hero Academia"@en .
+<http://villainscope.org/trait/Cleverness> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/IntellectualTraits> .
+<http://villainscope.org/villain/villain_ani_006> <http://schema.org/sameAs> <http://www.wikidata.org/entity/Q2721109> .
+<http://villainscope.org/villain/villain_ani_005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/distinctiveFeatures> "Wears an eyepatch covering the right eye." .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/personalityTrait> "Ruthlessness" .
+<http://villainscope.org/villain/villain_ani_010> <http://schema.org/knowsAbout> "Superhuman feature: strength, speed, reflexes, durability" .
+<http://villainscope.org/trait/Name_-_Antagonists_appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Name - Antagonist's appellation" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityTrait> "Maliciousness" .
+<http://villainscope.org/villain/villain_ani_003> <http://xmlns.com/foaf/0.1/gender> "Male" .
+<http://villainscope.org/villain/villain_ani_004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/personalityTrait> "Criminal" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Ruthlessness> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/personalityTrait> "Leadership" .
+<http://villainscope.org/villain/villain_ani_002> <http://schema.org/knowsAbout> "Immortality; Ability to transfer soul into another person's body for transformation; Alchemy; Capable of large-scale alchemy; Regenerative abilities" .
+<http://villainscope.org/work/work_ani_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Animation> .
+<http://villainscope.org/villain/villain_ani_003> <http://schema.org/gender> "Male" .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/personalityDetails> "Criminal: Murderer | Mistreatment: Takes pleasure in murder | Sadistic: Takes pleasure in murdering the weak." .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/personalityTrait> "Cheerful" .
+<http://villainscope.org/villain/villain_ani_001> <http://schema.org/knowsAbout> "Reads opponent's movements; Utilizes concealed eyes under blindfold to anticipate even the swiftest actions; Exceptional swordsmanship; Proficient in close combat" .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Proficient_in_close_combat> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/occupation> "Leader of the Four Virtues Reunion" .
+<http://villainscope.org/work/work_ani_007> <http://purl.org/dc/terms/title> "HUNTER×HUNTER" .
+<http://villainscope.org/trait/Loyalty> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loyalty"@en .
+<http://villainscope.org/trait/Strong_determination> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strong determination"@en .
+<http://villainscope.org/ability/Mass_destruction_with_energy_beams> <http://www.w3.org/2000/01/rdf-schema#label> "Mass destruction with energy beams" .
+<http://villainscope.org/trait/Liar> <http://www.w3.org/2000/01/rdf-schema#label> "Liar" .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/facialFeatures> "Pale of skin" .
+<http://villainscope.org/trait/Maliciousness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Cold-blooded> <http://www.w3.org/2000/01/rdf-schema#label> "Cold-blooded" .
+<http://villainscope.org/trait/Leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_004> <http://xmlns.com/foaf/0.1/title> "Subordinate of the Surrealist Liberation Front" .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Birdman> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Utilizes_concealed_eyes_under_blindfold_to_anticipate_even_the_swiftest_actions> .
+<http://villainscope.org/trait/Arrogance> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arrogance"@en .
+<http://villainscope.org/ability/Superhuman_feature_Supernatural_speed_strength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/appearsIn> <http://villainscope.org/work/work_ani_003> .
+<http://villainscope.org/villain/villain_ani_008> <http://schema.org/name> "Piccolo" .
+<http://villainscope.org/villain/villain_ani_010> <http://xmlns.com/foaf/0.1/name> "Hisoka Morow " .
+<http://villainscope.org/trait/Ruthlessness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_002> <http://schema.org/age> "400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/villain/villain_ani_006> <http://xmlns.com/foaf/0.1/gender> "Male" .
+<http://villainscope.org/villain/villain_ani_010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Character> .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Regenerative_abilities> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hairDescription> "Blonde; Twintails." .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/personalityTrait> "Former Yakuza member" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/hairDescription> "sporting hair" .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/facialFeatures> "Mustache" .
+<http://villainscope.org/villain/villain_ani_010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTraits> "Obsession; Leadership; Tyrant; Strong determination; Psychopath; Narcissism; Strategic; Verbal abuser; Ruthlessness; Cleverness" .
+<http://villainscope.org/villain/villain_ani_003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://villainscope.org/villain/villain_ani_006> <http://schema.org/gender> "Male" .
+<http://villainscope.org/trait/Madness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_001> <http://schema.org/name> "Bradley King" .
+<http://villainscope.org/ability/Mass_destruction_with_energy_beams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/trait/Violence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Cleverness> <http://www.w3.org/2000/01/rdf-schema#label> "Cleverness" .
+<http://villainscope.org/ability/Capable_of_large-scale_alchemy> <http://www.w3.org/2000/01/rdf-schema#label> "Capable of large-scale alchemy" .
+<http://villainscope.org/work/work_ani_006> <http://schema.org/genre> "Animation" .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Yandere-type_girl> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Psychopath> .
+<http://villainscope.org/work/work_ani_001> <http://villainscope.org/villain/mediaType> "animation" .
+<http://villainscope.org/villain/villain_ani_010> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q80447738> .
+<http://villainscope.org/work/work_ani_002> <http://villainscope.org/villain/hasCharacter> <http://villainscope.org/villain/villain_ani_003> .
+<http://villainscope.org/ability/Birdman> <http://www.w3.org/2000/01/rdf-schema#label> "Birdman" .
+<http://villainscope.org/villain/villain_ani_003> <http://schema.org/sameAs> <http://www.wikidata.org/entity/Q133538012> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/wikidataDescription> "fictional character from Neon Genesis Evangelion"@en .
+<http://villainscope.org/trait/Lack_of_affection> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lack of affection"@en .
+<http://villainscope.org/trait/Psychopathy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychopathy"@en .
+<http://villainscope.org/villain/villain_ani_008> <http://xmlns.com/foaf/0.1/name> "Piccolo" .
+<http://villainscope.org/work/work_ani_002> <http://schema.org/name> "My Hero Academia" .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/occupation> "Subordinate of the Surrealist Liberation Front" .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/wikidataEntity> <http://www.wikidata.org/entity/Q3196996> .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Tyrant> .
+<http://villainscope.org/villain/villain_ani_008> <http://schema.org/age> "753"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/ability/Overhaul_Capable_of_disassembly_healing_and_reassembly> <http://www.w3.org/2000/01/rdf-schema#label> "Overhaul: Capable of disassembly, healing, and reassembly" .
+<http://villainscope.org/trait/Birthday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Narcissism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Tyrant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/ability/Flight> <http://www.w3.org/2000/01/rdf-schema#label> "Flight" .
+<http://villainscope.org/trait/Loyalty> <http://www.w3.org/2000/01/rdf-schema#label> "Loyalty" .
+<http://villainscope.org/work/work_ani_006> <http://schema.org/name> "Demon Slayer: Kimetsu no Yaiba" .
+<http://villainscope.org/villain/villain_ani_003> <http://schema.org/knowsAbout> "Collapse; Initially; Anything touched perfectly with five fingers collapses; The range of the effect has widened; collapses even if touched with just one finger or foot, not necessarily the whole hand or foot." .
+<http://villainscope.org/trait/Lack_of_morality> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lack of morality"@en .
+<http://villainscope.org/trait/Name_-_Antagonists_appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_006> <http://www.w3.org/2000/01/rdf-schema#label> "Gendo Ikari " .
+<http://villainscope.org/trait/Psychopath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/personalityTrait> "Sadistic" .
+<http://villainscope.org/villain/villain_ani_007> <http://schema.org/jobTitle> "Leader" .
+<http://villainscope.org/villain/villain_ani_004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://villainscope.org/trait/Affectionate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/work/work_ani_001> <http://schema.org/character> <http://villainscope.org/villain/villain_ani_002> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTrait> "Sensitivity" .
+<http://villainscope.org/villain/villain_ani_005> <http://schema.org/isPartOf> <http://villainscope.org/work/work_ani_002> .
+<http://villainscope.org/trait/Liar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/trait/Agility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Cheerful> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_004> <http://schema.org/name> "Himiko Toga" .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTrait> "Narcissism" .
+<http://villainscope.org/trait/Obsession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTrait> "Ruthlessness" .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityTrait> "Obsession" .
+<http://villainscope.org/trait/Maliciousness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maliciousness"@en .
+<http://villainscope.org/trait/Psychopath> <http://villainscope.org/villain/belongsToCategory> <http://villainscope.org/trait/PsychologicalTraits> .
+<http://villainscope.org/villain/villain_ani_001> <http://xmlns.com/foaf/0.1/name> "Bradley King" .
+<http://villainscope.org/ability/Alchemy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/abilities> "Shapeshifting" .
+<http://villainscope.org/villain/villain_ani_008> <http://xmlns.com/foaf/0.1/depiction> <https://commons.wikimedia.org/wiki/Special:FilePath/Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%285%29.jpg> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/personalityTrait> "Cunning" .
+<http://villainscope.org/trait/Cunning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/work/work_ani_004> <http://purl.org/dc/terms/title> "Gintama" .
+<http://villainscope.org/villain/villain_ani_008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Character> .
+<http://villainscope.org/trait/Inscrutable> <http://www.w3.org/2000/01/rdf-schema#label> "Inscrutable" .
+<http://villainscope.org/villain/villain_ani_002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://villainscope.org/villain/villain_ani_007> <http://schema.org/isPartOf> <http://villainscope.org/work/work_ani_004> .
+<http://villainscope.org/villain/villain_ani_008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://villainscope.org/trait/Verbal_abuser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/trait/Criminal> <http://www.w3.org/2004/02/skos/core#prefLabel> "Criminal"@en .
+<http://villainscope.org/trait/Fondness_for_blood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/ability/Immortality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/wikidataLabel> "Hisoka"@en .
+<http://villainscope.org/work/work_ani_004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/CreativeWork> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/personalityDetails> "Ruthlessness: Commits child abuse for personal gain | Narcissism | Selective affection: Acts kind and affectionate when necessary. | Former Yakuza member | Loyalty: Loyal to the boss who took him in, seeks to repay the favor. | Obsession: Obsessed with a specific individual (former boss of the previous organization) | Criminal: Mass murder, child abuse." .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Psychopathy> .
+<http://villainscope.org/work/work_ani_002> <http://purl.org/dc/terms/title> "My Hero Academia" .
+<http://villainscope.org/villain/villain_ani_008> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q80447738> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/wikidataLabel> "Muzan Kibutsuji"@en .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Superhuman_feature_strength_speed_reflexes_durability> .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/wikidataLabel> "Piccolo"@en .
+<http://villainscope.org/villain/villain_ani_010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://villainscope.org/trait/Fondness_for_blood> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fondness for blood"@en .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/hairDescription> "Red hair (pulled up)" .
+<http://villainscope.org/villain/villain_ani_005> <http://schema.org/knowsAbout> "Overhaul: Capable of disassembly, healing, and reassembly; Birdman" .
+<http://villainscope.org/work/work_ani_006> <http://purl.org/dc/terms/title> "Demon Slayer: Kimetsu no Yaiba" .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Leadership> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/appearsIn> <http://villainscope.org/work/work_ani_001> .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/personalityTrait> "Duplicitous nature" .
+<http://villainscope.org/work/work_ani_004> <http://villainscope.org/villain/hasCharacter> <http://villainscope.org/villain/villain_ani_007> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/personalityTraits> "Obsession; Lack of affection; Mistreatment; Affectionate; Fondness for blood; Agility; Criminal;  yandere-type girl " .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/distinctiveFeatures> "Kind demeanor" .
+<http://villainscope.org/villain/villain_ani_003> <http://schema.org/isPartOf> <http://villainscope.org/work/work_ani_002> .
+<http://villainscope.org/trait/Lack_of_morality> <http://www.w3.org/2000/01/rdf-schema#label> "Lack of morality" .
+<http://villainscope.org/work/work_ani_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/CreativeWork> .
+<http://villainscope.org/trait/Sadistic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/distinctiveFeatures> "Two antennae on the forehead. Muscular physique; Tall stature." .
+<http://villainscope.org/trait/Lack_of_affection> <http://www.w3.org/2000/01/rdf-schema#label> "Lack of affection" .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/distinctiveFeatures> "Clown makeup" .
+<http://villainscope.org/villain/villain_ani_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Villain> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Obsession> .
+<http://villainscope.org/ability/Immortality> <http://www.w3.org/2000/01/rdf-schema#label> "Immortality" .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/personalityTrait> "Agility" .
+<http://villainscope.org/work/work_ani_003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Animation> .
+<http://villainscope.org/villain/villain_ani_006> <http://xmlns.com/foaf/0.1/age> "48"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/personalityDetails> "Obsession: Obsessed with immortality (was very frail in childhood). | Leadership: Leads the Twelve Moon Phases. | Psychopath: Lacks understanding of emotions. | Narcissism: Self-centered, views others as inferior (refers to them as 'bugs'). | Strategic: Plans and executes everything meticulously. | Verbal abuser: Kills women with his words. | Ruthlessness: Executes immediately if tasks assigned are not fulfilled." .
+<http://villainscope.org/trait/Ruthlessness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruthlessness"@en .
+<http://villainscope.org/work/work_ani_005> <http://schema.org/genre> "Animation" .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/personalityDetails> "Obsession: Obsession with love. Obsession with a specific individual (Midoriya Izuku). | Lack of affection | Mistreatment: Sadistic. Becomes excited after killing people. | Affectionate: Becomes explosive if loved ones are harmed. Takes good care of loved ones. | Fondness for blood | Agility | Criminal: Mass murder" .
+<http://villainscope.org/villain/villain_ani_008> <http://schema.org/description> "Mistreatment: Takes pleasure in cruelty and brutality." .
+<http://villainscope.org/work/work_ani_007> <http://schema.org/character> <http://villainscope.org/villain/villain_ani_010> .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/personalityTrait> "Criminal" .
+<http://villainscope.org/trait/Cold-blooded> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cold-blooded"@en .
+<http://villainscope.org/ability/Exceptional_swordsmanship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Villain> .
+<http://villainscope.org/villain/villain_ani_009> <http://schema.org/jobTitle> "Leader" .
+<http://villainscope.org/work/work_ani_007> <http://schema.org/name> "HUNTER×HUNTER" .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Strategic> .
+<http://villainscope.org/trait/Inscrutable> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityTrait> "Psychopathy" .
+<http://villainscope.org/ability/Consumes_the_blood_of_the_target_he_wants_to_transform_into_memorizes_their_body_dimensions_and_features_accurately_then_transforms> <http://www.w3.org/2000/01/rdf-schema#label> "Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms." .
+<http://villainscope.org/villain/villain_ani_007> <http://www.w3.org/2000/01/rdf-schema#label> "Utsuro" .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Unfortunate_childhood> .
+<http://villainscope.org/ability/Anything_touched_perfectly_with_five_fingers_collapses> <http://www.w3.org/2000/01/rdf-schema#label> "Anything touched perfectly with five fingers collapses" .
+<http://villainscope.org/villain/villain_ani_004> <http://schema.org/isPartOf> <http://villainscope.org/work/work_ani_002> .
+<http://villainscope.org/ability/Ability_to_transfer_soul_into_another_persons_body_for_transformation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Verbal_abuser> .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/personalityTrait> "Tyrant" .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/personalityTrait> "Mistreatment" .
+<http://villainscope.org/trait/Birthday> <http://www.w3.org/2004/02/skos/core#prefLabel> "Birthday"@en .
+<http://villainscope.org/trait/Strong_determination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Sensitivity> .
+<http://villainscope.org/villain/villain_ani_008> <http://schema.org/isPartOf> <http://villainscope.org/work/work_ani_005> .
+<http://villainscope.org/trait/Lack_of_affection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/ontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://villainscope.org/work/work_ani_002> <http://villainscope.org/villain/mediaType> "animation" .
+<http://villainscope.org/ability/Gigantification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/trait/Stubbornness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/trait/Selective_affection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Sadistic> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sadistic"@en .
+<http://villainscope.org/trait/Arrogance> <http://www.w3.org/2000/01/rdf-schema#label> "Arrogance" .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Criminal> .
+<http://villainscope.org/trait/Lack_of_morality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityDetails> "Ruthlessness, Lack of morality: Despite the imminent risk to his son's life, he insisted on pushing forward with the dangerous mission to achieve his goal (the eradication of heretics). | Strategic: Plans meticulously to fulfill missions. | Violence: Has a history of drunken assaults, leading to being brought to the police station. | cold-bloodedness: extremely cold and distant father towards his son." .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/wikidataLabel> "King Bradley"@en .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Cleverness> .
+<http://villainscope.org/villain/villain_ani_008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://villainscope.org/villain/villain_ani_008> <http://xmlns.com/foaf/0.1/age> "753"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/ability/Birdman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/work/work_ani_001> <http://purl.org/dc/terms/title> "Fullmetal Alchemist" .
+<http://villainscope.org/work/work_ani_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/CreativeWork> .
+<http://villainscope.org/trait/Former_Yakuza_member> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_006> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q87576284> .
+<http://villainscope.org/trait/Duplicitous_nature> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duplicitous nature"@en .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Arrogance> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Strong_determination> .
+<http://villainscope.org/villain/villain_ani_005> <http://www.w3.org/2000/01/rdf-schema#label> "Kai Chisaki" .
+<http://villainscope.org/work/work_ani_003> <http://schema.org/genre> "Animation" .
+<http://villainscope.org/villain/villain_ani_010> <http://schema.org/description> "Criminal: Murderer | Mistreatment: Takes pleasure in murder | Sadistic: Takes pleasure in murdering the weak." .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/hasAbility> <http://villainscope.org/ability/Reads_opponents_movements> .
+<http://villainscope.org/villain/villain_ani_009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Villain> .
+<http://villainscope.org/trait/Criminal> <http://www.w3.org/2000/01/rdf-schema#label> "Criminal" .
+<http://villainscope.org/trait/Cold-blooded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/work/work_ani_002> <http://villainscope.org/villain/hasCharacter> <http://villainscope.org/villain/villain_ani_004> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Habit> .
+<http://villainscope.org/work/work_ani_002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://villainscope.org/work/work_ani_002> <http://villainscope.org/villain/hasCharacter> <http://villainscope.org/villain/villain_ani_005> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/facialFeatures> "Protean" .
+<http://villainscope.org/villain/villain_ani_002> <http://schema.org/isPartOf> <http://villainscope.org/work/work_ani_001> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/personalityTrait> "Narcissism" .
+<http://villainscope.org/trait/Maliciousness> <http://www.w3.org/2000/01/rdf-schema#label> "Maliciousness" .
+<http://villainscope.org/trait/Madness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Madness"@en .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Criminal> .
+<http://villainscope.org/villain/villain_ani_004> <http://villainscope.org/villain/personalityTrait> "Yandere-type girl" .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Ruthlessness> .
+<http://villainscope.org/trait/Yandere-type_girl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yandere-type girl"@en .
+<http://villainscope.org/villain/villain_ani_008> <http://villainscope.org/villain/wikidataEntity> <http://www.wikidata.org/entity/Q151659> .
+<http://villainscope.org/trait/Unfortunate_childhood> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unfortunate childhood"@en .
+<http://villainscope.org/villain/villain_ani_003> <http://schema.org/jobTitle> "Leader of the Surrealist Liberation Front" .
+<http://villainscope.org/trait/Name_-_Antagonists_appellation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Name - Antagonist's appellation"@en .
+<http://villainscope.org/trait/Psychopathy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Narcissism> .
+<http://villainscope.org/villain/villain_ani_006> <http://schema.org/age> "48"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/villain/villain_ani_004> <http://www.w3.org/2000/01/rdf-schema#label> "Himiko Toga" .
+<http://villainscope.org/villain/villain_ani_009> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q116252649> .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Inscrutable> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Criminal> .
+<http://villainscope.org/villain/villain_ani_003> <http://villainscope.org/villain/personalityTrait> "Name - Antagonist's appellation" .
+<http://villainscope.org/villain/villain_ani_007> <http://xmlns.com/foaf/0.1/age> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/appearsIn> <http://villainscope.org/work/work_ani_002> .
+<http://villainscope.org/villain/villain_ani_009> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Tyrant> .
+<http://villainscope.org/trait/Mistreatment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_010> <http://schema.org/sameAs> <http://www.wikidata.org/entity/Q2280812> .
+<http://villainscope.org/trait/Criminal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/trait/Arrogance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://villainscope.org/ability/Overhaul_Capable_of_disassembly_healing_and_reassembly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_010> <http://villainscope.org/villain/personalityTraits> "Cleverness; Criminal; Mistreatment; Liar; Sadistic; Arrogance" .
+<http://villainscope.org/trait/Duplicitous_nature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/PersonalityTrait> .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/personalityTraits> "Strategic; Ruthlessness; Obsession; Criminal; Lack of morality; Leadership" .
+<http://villainscope.org/villain/villain_ani_002> <http://villainscope.org/villain/abilities> "Immortality; Ability to transfer soul into another person's body for transformation; Alchemy; Capable of large-scale alchemy; Regenerative abilities" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/personalityTrait> "Violence" .
+<http://villainscope.org/villain/villain_ani_001> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q80447738> .
+<http://villainscope.org/villain/villain_ani_008> <http://schema.org/knowsAbout> "Superhuman feature: Supernatural speed, strength; Regenerative abilities; Mass destruction with energy beams; Gigantification; Flight" .
+<http://villainscope.org/villain/villain_ani_008> <http://schema.org/jobTitle> "Leader" .
+<http://villainscope.org/villain/villain_ani_009> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q80447738> .
+<http://villainscope.org/trait/Mistreatment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mistreatment"@en .
+<http://villainscope.org/trait/Unfortunate_childhood> <http://www.w3.org/2000/01/rdf-schema#label> "Unfortunate childhood" .
+<http://villainscope.org/villain/villain_ani_001> <http://villainscope.org/villain/abilities> "Reads opponent's movements; Utilizes concealed eyes under blindfold to anticipate even the swiftest actions; Exceptional swordsmanship; Proficient in close combat" .
+<http://villainscope.org/villain/villain_ani_006> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Cold-bloodedness> .
+<http://villainscope.org/villain/villain_ani_009> <http://schema.org/name> "Muzan Kibutsuji " .
+<http://villainscope.org/trait/Cheerful> <http://www.w3.org/2000/01/rdf-schema#label> "Cheerful" .
+<http://villainscope.org/villain/villain_ani_007> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Cunning> .
+<http://villainscope.org/ability/Shapeshifting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://villainscope.org/villain/Ability> .
+<http://villainscope.org/villain/villain_ani_005> <http://villainscope.org/villain/hasPersonalityTrait> <http://villainscope.org/trait/Former_Yakuza_member> .

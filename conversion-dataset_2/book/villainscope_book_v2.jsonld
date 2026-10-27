@@ -1,0 +1,6905 @@
+[
+  {
+    "@id": "http://villainscope.org/trait/Motiveless_malignity",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Motiveless malignity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Motiveless malignity"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_007",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 50
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Cunning: deceives enemies skillfully."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Captain_Hook.PNG"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_007"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Pirate"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Proficient in swordsmanship; Gunmanship"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Captain Hook"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1035128"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Proficient in swordsmanship; Gunmanship"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_007"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Carries a hook on hand. Handsome."
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Blue eyes"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Curly hair; presumed to be a wig"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Proficient_in_swordsmanship"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Gunmanship"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Piracy"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Immaturity"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cunning"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Leadership"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Pirate"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Cunning: deceives enemies skillfully."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Piracy"
+      },
+      {
+        "@value": "Immaturity"
+      },
+      {
+        "@value": "Cunning"
+      },
+      {
+        "@value": "Leadership"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Cleverness; Piracy; Immaturity; Cunning; Leadership"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional pirate"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1035128"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Captain Hook"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Captain Hook"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1035128"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773347"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773317"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q130287298"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 50
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Captain_Hook.PNG"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Captain Hook"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Pirate"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cleverness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/IntellectualTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cleverness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cleverness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_021",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Evil: A figure who will one day become the Antichrist."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_021"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Immunity to diseases; Malfunction machines; Induces hallucinations; Can twist the human heart; Can control animals like dogs, horses"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Damien Thorn"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q166150"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Immunity to diseases; Malfunction machines; Induces hallucinations; Can twist the human heart; Can control animals like dogs, horses"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_021"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Son of Satan"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Immunity_to_diseases"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Malfunction_machines"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Induces_hallucinations"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Can_twist_the_human_heart"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Can_control_animals_like_dogs_horses"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Evil"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Evil: A figure who will one day become the Antichrist."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Evil"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Evil"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "antagonist of The Omen series"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q166150"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Damien Thorn"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Damien Thorn"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q166150"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q19324463"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773347"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q174546"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773317"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Damien Thorn"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Incarnate_devil",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/MoralTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Incarnate devil"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Incarnate devil"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Betrays_siblings_and_kills_father_maliciously",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Betrays siblings and kills father maliciously."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Betrays siblings and kills father maliciously."
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Irresponsible",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Irresponsible"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Irresponsible"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Disgust_towards_guns_bombs",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Disgust towards guns, bombs"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Disgust towards guns, bombs"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Listens_to_Bachs_Symphony_No_7_after_committing_murder",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Listens to Bach's Symphony No. 7 after committing murder."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Listens to Bach's Symphony No. 7 after committing murder."
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_005",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 65
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Charisma: Possesses decisiveness and leadership. | Cleverness: Demonstrates high intelligence across various fields. | Cunning tyrant: Power-hungry, exhibiting deceitful behavior."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_005"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "General; King"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Cao Cao"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q123582478"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_005"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Chinese"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Sharp eyes"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Charisma"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cunning_tyrant"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "General; King"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Charisma: Possesses decisiveness and leadership. | Cleverness: Demonstrates high intelligence across various fields. | Cunning tyrant: Power-hungry, exhibiting deceitful behavior."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Charisma"
+      },
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Cunning tyrant"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Charisma; Cleverness; Cunning tyrant"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "Romance of the Three Kingdoms character"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q123582478"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Cao Cao"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cao Cao"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q123582478"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 65
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Cao Cao"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "General; King"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Treason",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Treason"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Treason"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_019",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Oliver Twist"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_019"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Classic Literary Fiction"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Oliver Twist"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_019"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Oliver Twist"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Antagonists_appellation_of_name",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Antagonist's appellation of name"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Antagonist's appellation of name"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Strength",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Strength"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Skilled_in_flattery_for_personal_gain",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Skilled in flattery for personal gain."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Skilled in flattery for personal gain."
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Unfortunate_childhood",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Unfortunate childhood"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Unfortunate childhood"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_006",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 50
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Corrupted officials | Ruthlessness: Commits countless dastardly deeds to gain power. | Cleverness: Writes well. | Cunning | Skilled in flattery for personal gain. | Lack of morality: Engages in crimes (bribery) for personal advancement."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_006"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Mandarin"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gao Qiu"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110943983"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_006"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Chinese"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Corrupted_officials"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Ruthlessness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cunning"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Skilled_in_flattery_for_personal_gain"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Lack_of_morality"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Deception"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Mandarin"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Corrupted officials | Ruthlessness: Commits countless dastardly deeds to gain power. | Cleverness: Writes well. | Cunning | Skilled in flattery for personal gain. | Lack of morality: Engages in crimes (bribery) for personal advancement."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Corrupted officials"
+      },
+      {
+        "@value": "Ruthlessness"
+      },
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Cunning"
+      },
+      {
+        "@value": "Skilled in flattery for personal gain."
+      },
+      {
+        "@value": "Lack of morality"
+      },
+      {
+        "@value": "Deception"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Corrupted officials; Ruthlessness; Cleverness; Cunning; Skilled in flattery for personal gain.; Lack of morality; Deception"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character in Water Margin"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110943983"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Gao Qiu"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Gao Qiu"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110943983"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 50
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gao Qiu"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Mandarin"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Gunmanship",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Gunmanship"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Dual_nature",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Dual nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dual nature"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_004",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Frustration: Constantly blames the Creator (Doctor) | Humanity: Compassion. Saves a drowning girl. Pursues beauty and nature. Strives to learn acts of kindness."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankenstein%2C_or_the_Modern_Prometheus_%28Revised_Edition%2C_1831%29_Creature.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_004"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Wanderer"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Superhuman feature: Power and speed surpassing that of humans Immunity to aging and disease faster recovery than humans"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Frankenstein"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2021531"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Superhuman feature: Power and speed surpassing that of humans Immunity to aging and disease faster recovery than humans"
+      }
+    ],
+    "http://villainscope.org/villain/ageDescription": [
+      {
+        "@value": "Imperishability"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_004"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Nails are embedded; Evidence of stitching on the forehead."
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Green; Wrinkled skin; eyes of yellow; Black lips"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Black hair"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Superhuman_feature_Power_and_speed_surpassing_that_of_humans_Immunity_to_aging_and_disease_faster_recovery_than_humans"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Anger"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Frustration"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Vegetarian"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Wanderer"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Frustration: Constantly blames the Creator (Doctor) | Humanity: Compassion. Saves a drowning girl. Pursues beauty and nature. Strives to learn acts of kindness."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Anger"
+      },
+      {
+        "@value": "Frustration"
+      },
+      {
+        "@value": "Vegetarian"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Anger; Frustration; Vegetarian"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "1818 fictional character by Mary Shelley"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2021531"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Frankenstein's monster"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Frankenstein"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2021531"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q28020127"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q30017383"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q30061600"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q276453"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773347"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773317"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankenstein%2C_or_the_Modern_Prometheus_%28Revised_Edition%2C_1831%29_Creature.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Frankenstein"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Wanderer"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_009",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Lonely teenager: who was constantly overshadowed by his older brother and ignored by his father."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_009"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Prince"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Manipulate fire and flames"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Maven Calore"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Manipulate fire and flames"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_009"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Slender build; Approximately 6 feet tall."
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Pale; Ice-blue eyes"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Black hair"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Manipulate_fire_and_flames"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Lonely_teenager"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Kindness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Extroverted"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Conceals_a_passionate_heart"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Betrays_siblings_and_kills_father_maliciously"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Prince"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Lonely teenager: who was constantly overshadowed by his older brother and ignored by his father."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Lonely teenager"
+      },
+      {
+        "@value": "Kindness"
+      },
+      {
+        "@value": "Extroverted"
+      },
+      {
+        "@value": "Conceals a passionate heart"
+      },
+      {
+        "@value": "Betrays siblings and kills father maliciously."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Lonely teenager; Kindness; Extroverted; Conceals a passionate heart; Betrays siblings and kills father maliciously."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Maven Calore"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Maven Calore"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Prince"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Antagonists_appellation_of_Name",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Antagonist's appellation of Name"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Antagonist's appellation of Name"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_002",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Richard III"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_002"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Shakespare Dramas & Plays"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Richard III"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_002"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Richard III"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Collector",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Collector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Collector"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_016",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_016"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Commander"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Fred"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_016"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Black suit"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Exhibitionist"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Brazenness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Hoarding_instinct"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Collector"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Commander"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Exhibitionist"
+      },
+      {
+        "@value": "Brazenness"
+      },
+      {
+        "@value": "Hoarding instinct"
+      },
+      {
+        "@value": "Collector"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Exhibitionist; Brazenness; Hoarding instinct; Collector"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Fred"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Fred"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Commander"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_008",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "The Silence of The Lambs"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_008"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Psychological Fiction"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Silence of The Lambs"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_008"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "The Silence of The Lambs"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_001",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Othello"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_001"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Shakespare Dramas & Plays"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Othello"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_001"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Othello"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_013",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Dracula"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_013"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Horror Fiction Classics"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dracula"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_013"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Dracula"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_017",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Paradise Lost"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_017"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Ancient, Classical & Medieval Poetry"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Paradise Lost"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_017"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Paradise Lost"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_010",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Strange Case of Dr. Jekyll and Mr. Hyde"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_010"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Horror Literature & Fiction"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Strange Case of Dr. Jekyll and Mr. Hyde"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_010"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Strange Case of Dr. Jekyll and Mr. Hyde"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Dark_magic",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Dark magic"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Extroverted",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Extroverted"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Extroverted"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Arrogance",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/PsychologicalTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Arrogance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Arrogance"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Ruthlessness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/BehavioralTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Ruthlessness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ruthlessness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Lonely_teenager",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Lonely teenager"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lonely teenager"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_012",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 16
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Malevolence: Abuses Cinderella without reason. | Deceiver: Promises to take Cinderella to the ball after she finishes her work but doesn't."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Female"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Cinderella_1865_%286%29.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_012"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ugly sisters"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q30085627"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q30085621"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_012"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Malevolence"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cowardice"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Deceiver"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Malevolence: Abuses Cinderella without reason. | Deceiver: Promises to take Cinderella to the ball after she finishes her work but doesn't."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Malevolence"
+      },
+      {
+        "@value": "Cowardice"
+      },
+      {
+        "@value": "Deceiver"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Malevolence; Cowardice; Deceiver"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "character from the classical fairy tale Cinderella, younger step-sister"
+      },
+      {
+        "@language": "en",
+        "@value": "character from the classical fairy tale Cinderella, elder step-sister"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q30085627"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q30085621"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "younger ugly sister"
+      },
+      {
+        "@language": "en",
+        "@value": "elder ugly sister"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Ugly sisters"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q30085627"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q30085621"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15711870"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 16
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Cinderella_1865_%286%29.png"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Female"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Ugly sisters"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_006",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "The Water Margin"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_006"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Chinese Literature"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Water Margin"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_006"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "The Water Margin"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Betrayal",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Betrayal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Betrayal"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Can_control_animals_like_dogs_horses",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Can control animals like dogs, horses"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Immunity_to_diseases",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Immunity to diseases"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Speech_patterns",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Speech patterns"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Speech patterns"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Malevolence",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Malevolence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Malevolence"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Deceiver",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Deceiver"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Deceiver"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Smoking",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Smoking"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Smoking"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Narcissism",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/PsychologicalTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Narcissism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Narcissism"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Lolicon",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Lolicon"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lolicon"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Antisocial",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Antisocial"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Antisocial"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Dual_personality",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/PsychologicalTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Dual personality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dual personality"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Conceals_a_passionate_heart",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Conceals a passionate heart"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Conceals a passionate heart"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Guilt_over_murder",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Guilt over murder"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Guilt over murder"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Leadership",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/SocialTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Leadership"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Leadership"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_008",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 40
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Cannibalism: Kills and cooks people they dislike, giving them a sense of nesting inside their mother's womb. It's an act of seclusion from the outside world, providing comfort and a sense of internal abundance that revives them. | Cleverness: A genius serial killer, adept at various professions and fluent in multiple languages, earning the title of genius in various fields. | PTSD (Posttraumatic Stress Disorder): PTSD from past trauma. | Psychopath: Lacks empathy and feels no remorse after committing murder. | Emphasizes manners. "
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_008"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Psychiatrist; Gourmet; Artist, Scholar; Surgeon; Forensic Scientist"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "The Master of Poisoncraft"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Hannibal Lecter"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q211013"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "The Master of Poisoncraft"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_008"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Lithuanian noble descent"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/The_Master_of_Poisoncraft"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Cannibalism"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/PTSD_Posttraumatic_Stress_Disorder"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Psychopath"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Emphasizes_manners"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cunning"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Listens_to_Bachs_Symphony_No_7_after_committing_murder"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Psychiatrist; Gourmet; Artist, Scholar; Surgeon; Forensic Scientist"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Cannibalism: Kills and cooks people they dislike, giving them a sense of nesting inside their mother's womb. It's an act of seclusion from the outside world, providing comfort and a sense of internal abundance that revives them. | Cleverness: A genius serial killer, adept at various professions and fluent in multiple languages, earning the title of genius in various fields. | PTSD (Posttraumatic Stress Disorder): PTSD from past trauma. | Psychopath: Lacks empathy and feels no remorse after committing murder. | Emphasizes manners. "
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Cannibalism"
+      },
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "PTSD (Posttraumatic Stress Disorder)"
+      },
+      {
+        "@value": "Psychopath"
+      },
+      {
+        "@value": "Emphasizes manners"
+      },
+      {
+        "@value": "Cunning"
+      },
+      {
+        "@value": "Listens to Bach's Symphony No. 7 after committing murder."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Cannibalism; Cleverness; PTSD (Posttraumatic Stress Disorder); Psychopath; Emphasizes manners; Cunning; Listens to Bach's Symphony No. 7 after committing murder."
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character created by Thomas Harris"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q211013"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Hannibal Lecter"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Hannibal Lecter"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q211013"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773347"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773317"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 40
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Hannibal Lecter"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Psychiatrist; Gourmet; Artist, Scholar; Surgeon; Forensic Scientist"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Tragedian_in_real_life_-_William_Hazlitt",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Tragedian in real life - William Hazlitt"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tragedian in real life - William Hazlitt"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Charisma",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/SocialTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Charisma"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Charisma"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Malfunction_machines",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Malfunction machines"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Sexism",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Sexism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sexism"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Psychopath",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/PsychologicalTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Psychopath"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Psychopath"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_016",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "The Handmaid's Tale"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_016"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Dystopian Science Fiction"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Handmaid's Tale"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_016"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "The Handmaid's Tale"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cruelty",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cruelty"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cruelty"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_015",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Lolita"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_015"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Censorship & Politics"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Lolita"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_015"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Lolita"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Shapeshifting",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Shapeshifting"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Brazenness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Brazenness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Brazenness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Maternal_love",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Maternal love"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Maternal love"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Substance_abuse",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Substance abuse"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Substance abuse"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Commits_wrongdoing_without_dirtying_their_own_hands",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Commits wrongdoing without dirtying their own hands."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Commits wrongdoing without dirtying their own hands."
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_013",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Vampire: Feeds only on women's blood. | Aristocratic Megalomania: Possessing an immense pride in his boyar heritage and viewing himself as a rightful ruler of life and death, treating humans as mere cattle. | Patient: Demonstrating high intelligence and meticulous planning by learning foreign languages and laws to expand his domain from Transylvania to London."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Bela_Lugosi_as_Dracula%2C_anonymous_photograph_from_1931%2C_Universal_Studios.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_013"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Count"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Dark magic; Shapeshifting"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Count Dracula"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3266236"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Dark magic; Shapeshifting"
+      }
+    ],
+    "http://villainscope.org/villain/ageDescription": [
+      {
+        "@value": "Imperishability"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_013"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Fangs; Black cloak; hairy palms"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Noble"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Pale; Hawk-like nose; Long mustache; Arched eyebrows; White teeth that protrude over the lip"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "White hair"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Dark_magic"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Shapeshifting"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Vampire"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Vulnerable_to_sunlight"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Aristocratic_Megalomania"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Patient"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Narcissism"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Count"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Vampire: Feeds only on women's blood. | Aristocratic Megalomania: Possessing an immense pride in his boyar heritage and viewing himself as a rightful ruler of life and death, treating humans as mere cattle. | Patient: Demonstrating high intelligence and meticulous planning by learning foreign languages and laws to expand his domain from Transylvania to London."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Vampire"
+      },
+      {
+        "@value": "Vulnerable to sunlight"
+      },
+      {
+        "@value": "Aristocratic Megalomania"
+      },
+      {
+        "@value": "Patient"
+      },
+      {
+        "@value": "Narcissism"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Vampire; Vulnerable to sunlight; Aristocratic Megalomania; Patient; Narcissism"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "title character of Bram Stoker's 1897 gothic horror novel Dracula"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3266236"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Count Dracula"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Count Dracula"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3266236"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q30061417"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q30174902"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773347"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773317"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15711870"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1569167"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q4271324"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Bela_Lugosi_as_Dracula%2C_anonymous_photograph_from_1931%2C_Universal_Studios.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Count Dracula"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Count"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Evil",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/MoralTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Evil"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Evil"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Violent",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Violent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Violent"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Vegetarian",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Vegetarian"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vegetarian"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Zombielike_resilience",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Zombielike resilience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Zombielike resilience"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Lack_of_morality",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Lack of morality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lack of morality"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Dark_backstory",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Dark backstory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dark backstory"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Patient",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Patient"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Patient"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Mistreatment",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Mistreatment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mistreatment"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Deceitfulness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Deceitfulness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Deceitfulness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_010",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 50
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Dark backstory: The serum (created to suppress his impulses) causes his evil side to manifest | Malevolence: Dr. Jekyll (his alter ego) inherently tainted by evil | Callous Sadism: Cruelty for Sport — Deriving a terrifying sense of liberation from acts of senseless violence, such as trampling a child or the brutal murder of Sir Danvers Carew, which he views with \"hellish\" glee."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Jekyll.and.Hyde.Ch1.Drawing3.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_010"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Scientist"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Edward Hyde"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q43650835"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_010"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Large build; Hat"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Dual_personality"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Dark_backstory"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Malevolence"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Instinctual"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Antisocial"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Dislikes_children"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Callous_Sadism"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Scientist"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Dark backstory: The serum (created to suppress his impulses) causes his evil side to manifest | Malevolence: Dr. Jekyll (his alter ego) inherently tainted by evil | Callous Sadism: Cruelty for Sport — Deriving a terrifying sense of liberation from acts of senseless violence, such as trampling a child or the brutal murder of Sir Danvers Carew, which he views with \"hellish\" glee."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Dual personality"
+      },
+      {
+        "@value": "Dark backstory"
+      },
+      {
+        "@value": "Malevolence"
+      },
+      {
+        "@value": "Instinctual"
+      },
+      {
+        "@value": "Antisocial"
+      },
+      {
+        "@value": "Dislikes children"
+      },
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Callous Sadism"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Dual personality; Dark backstory; Malevolence; Instinctual; Antisocial; Dislikes children; Cleverness; Callous Sadism"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character from Robert Louis Stevenson's Strange Case of Dr Jekyll and Mr Hyde"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q43650835"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Mr. Hyde"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Edward Hyde"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q43650835"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773347"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q64825337"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 50
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Jekyll.and.Hyde.Ch1.Drawing3.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Edward Hyde"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Scientist"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_002",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 32
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Extravagance: Excessive spending and wastefulness. | Difficult temper: Quick to anger, prone to outbursts. | Ignorance: Lacks awareness of the limits of their power, believes themselves invincible, disregards advice, becomes enraged at rightful criticism. | Irresponsible: Acts without regard for consequences or duties. | Self-indulgent: Overly lenient towards oneself, indulges in personal desires."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Hogarth_-_David_Garrick_as_Richard_III_-_Google_Art_Project.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_002"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "King"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Richard III"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q652011"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_002"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Hunch; Limp; Withered arm"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Yorkists"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "White; Blue eyes;"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "fair-haired hair"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Extravagance"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Difficult_temper"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Ignorance"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Irresponsible"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Self-indulgent"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Commits_wrongdoing_without_dirtying_their_own_hands"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "King"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Extravagance: Excessive spending and wastefulness. | Difficult temper: Quick to anger, prone to outbursts. | Ignorance: Lacks awareness of the limits of their power, believes themselves invincible, disregards advice, becomes enraged at rightful criticism. | Irresponsible: Acts without regard for consequences or duties. | Self-indulgent: Overly lenient towards oneself, indulges in personal desires."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Extravagance"
+      },
+      {
+        "@value": "Difficult temper"
+      },
+      {
+        "@value": "Ignorance"
+      },
+      {
+        "@value": "Irresponsible"
+      },
+      {
+        "@value": "Self-indulgent"
+      },
+      {
+        "@value": "Commits wrongdoing without dirtying their own hands."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Extravagance; Difficult temper; Ignorance; Irresponsible; Self-indulgent; Commits wrongdoing without dirtying their own hands."
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "Shakespearean history play"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q652011"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Richard III"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Richard III"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q652011"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q116476516"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 32
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Hogarth_-_David_Garrick_as_Richard_III_-_Google_Art_Project.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Richard III"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "King"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Proficient_in_swordsmanship",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Proficient in swordsmanship"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Self-indulgent",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Self-indulgent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Self-indulgent"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_009",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Red Queen"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_009"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Teen & Young Adult Science Fiction & Dystopian Romance"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Red Queen"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_009"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Red Queen"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/The_Master_of_Poisoncraft",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "The Master of Poisoncraft"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_020",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Arrogance: Perceives oneself as the ruler of the jungle. | Ferocious when angry: Normally affectionate, kind."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Shere_Khan_illustration.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_020"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Boss"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Speed; Strength"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Shere Khan"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2305638"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Speed; Strength"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_020"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Claws"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Tiger"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Speed"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Strength"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Arrogance"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Ferocious_when_angry"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Fears_fire_guns"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Mocks_others"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Boss"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Arrogance: Perceives oneself as the ruler of the jungle. | Ferocious when angry: Normally affectionate, kind."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Arrogance"
+      },
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Ferocious when angry"
+      },
+      {
+        "@value": "Fears fire, guns"
+      },
+      {
+        "@value": "Mocks others"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Arrogance; Cleverness; Ferocious when angry; Fears fire, guns; Mocks others"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character from Rudyard Kipling's \"The Jungle Book\""
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2305638"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Shere Khan"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Shere Khan"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2305638"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q27229763"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Shere_Khan_illustration.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Shere Khan"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Boss"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Nigh-limitless_divine_powers",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Nigh-limitless divine powers"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_020",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "The Jungle Book"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_020"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Folklore"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Jungle Book"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_020"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "The Jungle Book"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/PTSD_Posttraumatic_Stress_Disorder",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "PTSD (Posttraumatic Stress Disorder)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "PTSD (Posttraumatic Stress Disorder)"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Ignorance",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Ignorance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ignorance"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Mocks_others",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Mocks others"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mocks others"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Persistence",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Persistence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Persistence"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Lust_for_power",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Lust for power"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lust for power"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Manipulate_fire_and_flames",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Manipulate fire and flames"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Frustration",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Frustration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Frustration"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Supervillain",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Supervillain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Supervillain"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Ferocious_when_angry",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Ferocious when angry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ferocious when angry"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_003",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Titus Andronicus"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_003"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Shakespare Dramas & Plays"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Titus Andronicus"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_003"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Titus Andronicus"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_022",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 168
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Cleverness: Genius killer. necromantic traditions."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr_Fu_Manchu_I_W_Publishing.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_022"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Mad Scientist"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Masquerade; Impersonation; Infiltration"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dr. Fu-Manchu"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1357701"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Masquerade; Impersonation; Infiltration"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_022"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Tall; Lean; High shouldered"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Chinese; Manchu"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Mustache; Feline; Brow like Shakespeare; Face like Satan; Cat-green eyes"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Close-shaven skull"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Masquerade"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Impersonation"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Infiltration"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Occultism"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Disgust_towards_guns_bombs"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Deceitfulness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Criminal"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Mysterious"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Supervillain"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Zombielike_resilience"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Mad Scientist"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Cleverness: Genius killer. necromantic traditions."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Occultism"
+      },
+      {
+        "@value": "Disgust towards guns, bombs"
+      },
+      {
+        "@value": "Deceitfulness"
+      },
+      {
+        "@value": "Criminal"
+      },
+      {
+        "@value": "Mysterious"
+      },
+      {
+        "@value": "Supervillain"
+      },
+      {
+        "@value": "Zombielike resilience"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Cleverness; Occultism; Disgust towards guns, bombs; Deceitfulness; Criminal; mysterious; supervillain; zombielike resilience"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "supervillain in a series of novels by the English author Sax Rohmer during the first half of the 20th century, based off ethnic stereotypes"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1357701"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Fu Manchu"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Dr. Fu-Manchu"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1357701"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773347"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 168
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr_Fu_Manchu_I_W_Publishing.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Dr. Fu-Manchu"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Mad Scientist"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_017",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Evil: Entity associated with evil. Fallen from the sky. | Liar: John's Gospel - Jesus Christ says of Satan, \"He was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies.\" | Arrogance, Ignorance: Strives to become like the Creator, Jesus | Antagonist's appellation of name: (When used with the definite article) The Accuser, The Slanderer"
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/GustaveDoreParadiseLostSatanProfile.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_017"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Ruler of Hell"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Nigh-limitless divine powers; Shapeshifting"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Satan"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q35230"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Nigh-limitless divine powers; Shapeshifting"
+      }
+    ],
+    "http://villainscope.org/villain/ageDescription": [
+      {
+        "@value": "Imperishability"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_017"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Wings attached while walking; Enemy of God"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "God's creation"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Nigh-limitless_divine_powers"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Shapeshifting"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Evil"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Liar"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Arrogance"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Ignorance"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Antagonists_appellation_of_name"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Charisma"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Fallen_angel"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Treason"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Persistence"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Ruler of Hell"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Evil: Entity associated with evil. Fallen from the sky. | Liar: John's Gospel - Jesus Christ says of Satan, \"He was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies.\" | Arrogance, Ignorance: Strives to become like the Creator, Jesus | Antagonist's appellation of name: (When used with the definite article) The Accuser, The Slanderer"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Evil"
+      },
+      {
+        "@value": "Liar"
+      },
+      {
+        "@value": "Arrogance"
+      },
+      {
+        "@value": "Ignorance"
+      },
+      {
+        "@value": "Antagonist's appellation of name"
+      },
+      {
+        "@value": "Charisma"
+      },
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Fallen angel"
+      },
+      {
+        "@value": "Treason"
+      },
+      {
+        "@value": "Persistence"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Evil; Liar; Arrogance; Ignorance; Antagonist's appellation of name;  Charisma; Cleverness; fallen angel; treason; persistence; Arrogance"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "entity in the Abrahamic religions that tells others to do sinful actions"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q35230"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Satan"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Satan"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q35230"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q581450"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q28855038"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q6674"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3465"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/GustaveDoreParadiseLostSatanProfile.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Satan"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Ruler of Hell"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cynicism",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cynicism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cynicism"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Deception",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Deception"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Deception"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_003",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Mistreatment: Rape, murder, feels no remorse for those in mental distress, even finding joy in it. Delighted by others' misfortunes. | Maternal love: Overprotective of her son till the end. (Obsessive towards her son due to past miscarriage)"
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_003"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Slave"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Aaron the Moor"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q73007104"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_003"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Moor"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Black skin"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Woolly hair"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Racism"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Mistreatment"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Treacherous"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Maternal_love"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Criminal"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Incarnate_devil"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Slave"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Mistreatment: Rape, murder, feels no remorse for those in mental distress, even finding joy in it. Delighted by others' misfortunes. | Maternal love: Overprotective of her son till the end. (Obsessive towards her son due to past miscarriage)"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Racism"
+      },
+      {
+        "@value": "Mistreatment"
+      },
+      {
+        "@value": "Treacherous"
+      },
+      {
+        "@value": "Maternal love"
+      },
+      {
+        "@value": "Criminal"
+      },
+      {
+        "@value": "Incarnate devil"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Racism; Mistreatment; Treacherous; Maternal love; Criminal; incarnate devil"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q73007104"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Aaron"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Aaron the Moor"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q73007104"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q95074"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Aaron the Moor"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Slave"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Instinctual",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Instinctual"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Instinctual"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Kindness",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Kindness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kindness"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Fears_fire_guns",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Fears fire, guns"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fears fire, guns"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_021",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "The Omen"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_021"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Occult Horror"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Omen"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_021"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "The Omen"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_018",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Avenge: her sister's death."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Female"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Wicked_Witch_of_the_West.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_018"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Witch"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@value": "Magic; Teleportation"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Wicked Witch of The West"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3822980"
+      }
+    ],
+    "http://villainscope.org/villain/abilities": [
+      {
+        "@value": "Magic; Teleportation"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_018"
+      }
+    ],
+    "http://villainscope.org/villain/distinctiveFeatures": [
+      {
+        "@value": "Witch hat"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Green skin"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Two-pronged"
+      }
+    ],
+    "http://villainscope.org/villain/hasAbility": [
+      {
+        "@id": "http://villainscope.org/ability/Magic"
+      },
+      {
+        "@id": "http://villainscope.org/ability/Teleportation"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Cruelty"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Lust_for_power"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Avenge"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Witch"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Avenge: her sister's death."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Cruelty"
+      },
+      {
+        "@value": "Lust for power"
+      },
+      {
+        "@value": "Avenge"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "cruelty; lust for power; Avenge"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character and the most significant antagonist in L. Frank Baum's children's book The Wonderful Wizard of Oz"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3822980"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Wicked Witch of the West"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Wicked Witch of The West"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3822980"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15912738"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Wicked_Witch_of_the_West.png"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Female"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Wicked Witch of The West"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Witch"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Criminal",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/BehavioralTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Criminal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Criminal"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Vampire",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Vampire"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vampire"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_011",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Macbeth"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_011"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Shakespare Dramas & Plays"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Macbeth"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_011"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Macbeth"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Induces_hallucinations",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Induces hallucinations"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Immaturity",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Immaturity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Immaturity"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_014",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Yehuda%2C_son_of_Jacob.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_014"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Treasurer"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Judah"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q282220"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_014"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Jew"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Betrayal"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Treasurer"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Betrayal"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Betrayal"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "biblical figure; fourth son of Jacob and Leah; brother of Joseph"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q282220"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Judah"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Judah"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q282220"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q20643955"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Yehuda%2C_son_of_Jacob.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Judah"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Treasurer"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cunning_tyrant",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/IntellectualTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cunning tyrant"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cunning tyrant"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cowardice",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cowardice"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cowardice"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Impersonation",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Impersonation"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Machinations",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Machinations"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Machinations"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ontology",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Ontology"
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@value": "Gayeon Kim"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "en",
+        "@value": "Knowledge graph for villain character analysis supporting distant reading and Graph RAG applications."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "VillainScope Knowledge Graph"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "2.0"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Treacherous",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Treacherous"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Treacherous"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Mysterious",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Mysterious"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mysterious"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Piracy",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/BehavioralTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Piracy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Piracy"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_022",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "The Mystery of Dr. Fu-Manchu"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_022"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "International Mystery & Crime"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Mystery of Dr. Fu-Manchu"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_022"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "The Mystery of Dr. Fu-Manchu"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Speed",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Speed"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Desire_for_power",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Desire for power"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Desire for power"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_004",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Frankenstein’s Monster"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_004"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Censorship & Politics"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Frankenstein’s Monster"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_004"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Frankenstein’s Monster"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Corrupted_officials",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Corrupted officials"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Corrupted officials"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Occultism",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Occultism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Occultism"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_011",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 30
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Murderous manipulation: Manipulates her husband to kill Duncan. | Guilt over murder: Suffers from delusions and commits suicide."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Female"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Macbeth_by_Alfred_Stevens.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_011"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Queen"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Lady Macbeth"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2454065"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_011"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Murderous_manipulation"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Guilt_over_murder"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Desire_for_power"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Regicide"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Charisma"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Queen"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Murderous manipulation: Manipulates her husband to kill Duncan. | Guilt over murder: Suffers from delusions and commits suicide."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Murderous manipulation"
+      },
+      {
+        "@value": "Guilt over murder"
+      },
+      {
+        "@value": "Desire for power"
+      },
+      {
+        "@value": "Regicide"
+      },
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Charisma"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Murderous manipulation; Guilt over murder; Desire for power; Regicide; Cleverness; Charisma"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "character from Shakespeare's play"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2454065"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Lady Macbeth"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Lady Macbeth"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2454065"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15698333"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 30
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Macbeth_by_Alfred_Stevens.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Female"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Lady Macbeth"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Queen"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_015",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 41
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Antagonist's appellation of Name: Declare guilty or Clear guilty "
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_015"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Playwright"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Clare Quilty"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q47482727"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_015"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Substance_abuse"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Pedophilia"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Lolicon"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Antagonists_appellation_of_Name"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Smoking"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Playwright"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Antagonist's appellation of Name: Declare guilty or Clear guilty "
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Substance abuse"
+      },
+      {
+        "@value": "Pedophilia"
+      },
+      {
+        "@value": "Lolicon"
+      },
+      {
+        "@value": "Antagonist's appellation of Name"
+      },
+      {
+        "@value": "Smoking"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Substance abuse; Pedophilia; Lolicon; Antagonist's appellation of Name; Smoking"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "character from Vladimir Nabokov's Lolita"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q47482727"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Clare Quilty"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Clare Quilty"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q47482727"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 41
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Clare Quilty"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Playwright"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Emphasizes_manners",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Emphasizes manners"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Emphasizes manners"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_007",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Peter Pan"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_007"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Children's Fantasy & Magic Books"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Peter Pan"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_007"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Peter Pan"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Avenge",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Avenge"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Avenge"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cunning",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/IntellectualTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cunning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cunning"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Superhuman_feature_Power_and_speed_surpassing_that_of_humans_Immunity_to_aging_and_disease_faster_recovery_than_humans",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Superhuman feature: Power and speed surpassing that of humans Immunity to aging and disease faster recovery than humans"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_014",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Luke"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_014"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Biography"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Luke"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_014"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Luke"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Teleportation",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Teleportation"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_018",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "The Wonderful Wizard of Oz"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_018"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Eastern European Literary Criticism"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Wonderful Wizard of Oz"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_018"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "The Wonderful Wizard of Oz"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Dislikes_children",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Dislikes children"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dislikes children"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Masquerade",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Masquerade"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_005",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Romance of The Three Kingdoms"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_005"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Historical Fiction"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Romance of The Three Kingdoms"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_005"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Romance of The Three Kingdoms"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Pedophilia",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Pedophilia"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pedophilia"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Exhibitionist",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Exhibitionist"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Exhibitionist"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Magic",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Magic"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Fallen_angel",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Fallen angel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fallen angel"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_019",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 20
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Criminal: Murderer. Animal abuse. Robbery. | Unfortunate childhood: Lost parents at a young age"
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill-sikes.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_019"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "Gang Leader"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Bill Sikes"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3639999"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_019"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "British"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Violent"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Criminal"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Unfortunate_childhood"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Charisma"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cruel"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Vicious"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "Gang Leader"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Criminal: Murderer. Animal abuse. Robbery. | Unfortunate childhood: Lost parents at a young age"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Violent"
+      },
+      {
+        "@value": "Criminal"
+      },
+      {
+        "@value": "Unfortunate childhood"
+      },
+      {
+        "@value": "Charisma"
+      },
+      {
+        "@value": "Cruel"
+      },
+      {
+        "@value": "Vicious"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Violent; Criminal; Unfortunate childhood; Charisma; cruel; vicious"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character in the novel Oliver Twist by Charles Dickens"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3639999"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Bill Sikes"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Bill Sikes"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q3639999"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3658341"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3375722"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q15773347"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 20
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill-sikes.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Bill Sikes"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "Gang Leader"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Vulnerable_to_sunlight",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Vulnerable to sunlight"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vulnerable to sunlight"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Insights",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Insights"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Insights"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cannibalism",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cannibalism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cannibalism"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Extravagance",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Extravagance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Extravagance"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/villain/villain_001",
+    "@type": [
+      "http://villainscope.org/villain/Villain",
+      "http://villainscope.org/villain/Character",
+      "http://schema.org/Person",
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://schema.org/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 28
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Cleverness: Manipulative, highly intellectual, quick-witted. | Narcissism: Considers oneself smarter than others, excessive pride and self-esteem. | Motiveless malignity: Executes evil deeds perfectly without apparent reason. | Tragedian in real life - William Hazlitt: Practicing tragedy in reality with originality. | Lack of morality: Indifferent to moral good and evil, sees everything crookedly, views all humans equally. | Speech patterns: Hesitant speech, starts and stops, echoes the end of others' sentences, skillfully combines similar vocabulary to induce outbursts of accumulated emotions. | Dual nature: Ruthless, selfish, yet empathetic, popular among friends, instills trust in others. | Insights: Penetrates thoughts, feelings, desires emerging from human inner self, exploits doubts, hatred, and solidifies the urge to kill."
+      }
+    ],
+    "http://schema.org/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Edwin_Booth_as_Iago_crop.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://villainscope.org/work/work_001"
+      }
+    ],
+    "http://schema.org/jobTitle": [
+      {
+        "@value": "advisor"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "lago"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1655364"
+      }
+    ],
+    "http://villainscope.org/villain/appearsIn": [
+      {
+        "@id": "http://villainscope.org/work/work_001"
+      }
+    ],
+    "http://villainscope.org/villain/ethnicity": [
+      {
+        "@value": "Venetian"
+      }
+    ],
+    "http://villainscope.org/villain/facialFeatures": [
+      {
+        "@value": "Pale; White; Mustache"
+      }
+    ],
+    "http://villainscope.org/villain/hairDescription": [
+      {
+        "@value": "Brown, Black hair"
+      }
+    ],
+    "http://villainscope.org/villain/hasPersonalityTrait": [
+      {
+        "@id": "http://villainscope.org/trait/Cleverness"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Narcissism"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Motiveless_malignity"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Tragedian_in_real_life_-_William_Hazlitt"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Lack_of_morality"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Speech_patterns"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Dual_nature"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Insights"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Machinations"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Sexism"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Racism"
+      },
+      {
+        "@id": "http://villainscope.org/trait/Cynicism"
+      }
+    ],
+    "http://villainscope.org/villain/occupation": [
+      {
+        "@value": "advisor"
+      }
+    ],
+    "http://villainscope.org/villain/personalityDetails": [
+      {
+        "@value": "Cleverness: Manipulative, highly intellectual, quick-witted. | Narcissism: Considers oneself smarter than others, excessive pride and self-esteem. | Motiveless malignity: Executes evil deeds perfectly without apparent reason. | Tragedian in real life - William Hazlitt: Practicing tragedy in reality with originality. | Lack of morality: Indifferent to moral good and evil, sees everything crookedly, views all humans equally. | Speech patterns: Hesitant speech, starts and stops, echoes the end of others' sentences, skillfully combines similar vocabulary to induce outbursts of accumulated emotions. | Dual nature: Ruthless, selfish, yet empathetic, popular among friends, instills trust in others. | Insights: Penetrates thoughts, feelings, desires emerging from human inner self, exploits doubts, hatred, and solidifies the urge to kill."
+      }
+    ],
+    "http://villainscope.org/villain/personalityTrait": [
+      {
+        "@value": "Cleverness"
+      },
+      {
+        "@value": "Narcissism"
+      },
+      {
+        "@value": "Motiveless malignity"
+      },
+      {
+        "@value": "Tragedian in real life - William Hazlitt"
+      },
+      {
+        "@value": "Lack of morality"
+      },
+      {
+        "@value": "Speech patterns"
+      },
+      {
+        "@value": "Dual nature"
+      },
+      {
+        "@value": "Insights"
+      },
+      {
+        "@value": "Machinations"
+      },
+      {
+        "@value": "Sexism"
+      },
+      {
+        "@value": "Racism"
+      },
+      {
+        "@value": "Cynicism"
+      }
+    ],
+    "http://villainscope.org/villain/personalityTraits": [
+      {
+        "@value": "Cleverness; Narcissism; Motiveless malignity; Tragedian in real life - William Hazlitt; Lack of morality; Speech patterns; Dual nature; Insights; Machinations; Sexism; Racism; Cynicism"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataDescription": [
+      {
+        "@language": "en",
+        "@value": "fictional character in William Shakespeare's Othello"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataEntity": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1655364"
+      }
+    ],
+    "http://villainscope.org/villain/wikidataLabel": [
+      {
+        "@language": "en",
+        "@value": "Iago"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "lago"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q1655364"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P31": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q3375722"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/age": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 28
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+      {
+        "@id": "https://commons.wikimedia.org/wiki/Special:FilePath/Edwin_Booth_as_Iago_crop.jpg"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/gender": [
+      {
+        "@value": "Male"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "lago"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/title": [
+      {
+        "@value": "advisor"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Can_twist_the_human_heart",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Can twist the human heart"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Aristocratic_Megalomania",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Aristocratic Megalomania"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Aristocratic Megalomania"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Difficult_temper",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Difficult temper"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Difficult temper"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/ability/Infiltration",
+    "@type": [
+      "http://villainscope.org/villain/Ability"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Infiltration"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/work/work_012",
+    "@type": [
+      "http://villainscope.org/villain/CreativeWork",
+      "http://schema.org/CreativeWork",
+      "http://villainscope.org/villain/Book",
+      "http://schema.org/Book"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "Cinderella(by Charles Perrault)"
+      }
+    ],
+    "http://schema.org/character": [
+      {
+        "@id": "http://villainscope.org/villain/villain_012"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@value": "Fairy tale"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Cinderella(by Charles Perrault)"
+      }
+    ],
+    "http://villainscope.org/villain/hasCharacter": [
+      {
+        "@id": "http://villainscope.org/villain/villain_012"
+      }
+    ],
+    "http://villainscope.org/villain/mediaType": [
+      {
+        "@value": "book"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cinderella(by Charles Perrault)"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Regicide",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Regicide"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Regicide"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Vicious",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Vicious"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vicious"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Racism",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Racism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Racism"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Liar",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://villainscope.org/villain/belongsToCategory": [
+      {
+        "@id": "http://villainscope.org/trait/MoralTraits"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Liar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Liar"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Cruel",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cruel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cruel"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Callous_Sadism",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Callous Sadism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Callous Sadism"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Anger",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Anger"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Anger"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Hoarding_instinct",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Hoarding instinct"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hoarding instinct"
+      }
+    ]
+  },
+  {
+    "@id": "http://villainscope.org/trait/Murderous_manipulation",
+    "@type": [
+      "http://villainscope.org/villain/PersonalityTrait",
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Murderous manipulation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Murderous manipulation"
+      }
+    ]
+  }
+]

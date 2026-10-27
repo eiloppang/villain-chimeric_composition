@@ -1,0 +1,284 @@
+{
+  "lago": {
+    "job": "advisor",
+    "work": [
+      "Othello"
+    ],
+    "traits": [
+      "Lack of morality",
+      "Dual nature",
+      "Narcissism",
+      "Cynicism",
+      "Insights",
+      "Cleverness",
+      "Motiveless malignity",
+      "Racism",
+      "Sexism",
+      "Tragedian in real life - William Hazlitt",
+      "Machinations",
+      "Speech patterns"
+    ],
+    "segs": [
+      "Cleverness: Manipulative, highly intellectual, quick-witted.",
+      "Narcissism: Considers oneself smarter than others, excessive pride and self-esteem.",
+      "Motiveless malignity: Executes evil deeds perfectly without apparent reason.",
+      "Tragedian in real life - William Hazlitt: Practicing tragedy in reality with originality.",
+      "Lack of morality: Indifferent to moral good and evil, sees everything crookedly, views all humans equally.",
+      "Speech patterns: Hesitant speech, starts and stops, echoes the end of others' sentences, skillfully combines similar vocabulary to induce outbursts of accumulated emotions.",
+      "Dual nature: Ruthless, selfish, yet empathetic, popular among friends, instills trust in others.",
+      "Insights: Penetrates thoughts, feelings, desires emerging from human inner self, exploits doubts, hatred, and solidifies the urge to kill."
+    ]
+  },
+  "Vidal": {
+    "job": "Officer",
+    "work": [
+      "Pan's Labyrinth"
+    ],
+    "traits": [
+      "Sadistic Ruthlessness",
+      "Narcissistic Fragility",
+      "Seeks to control others",
+      "Misogynistic Objectification",
+      "Leadership",
+      "Authoritarian Discipline",
+      "Lacks empathy for others",
+      "Authoritarian",
+      "Obsessive Legacy"
+    ],
+    "segs": [
+      "Obsessive Legacy: Maintaining a pathological fixation on paternal history and the preservation of lineage through a symbolic pocket watch.",
+      "Sadistic Ruthlessness: Executing extreme violence with surgical precision and chilling indifference to confirm absolute power over the weak.",
+      "Misogynistic Objectification: Viewing women solely as biological vessels for male heirs while dismissing their individual humanity and autonomy.",
+      "Authoritarian Discipline: Enforcing a rigid military hierarchy and meticulous order to suppress any form of dissent or perceived chaos.",
+      "Narcissistic Fragility: Concealing deep-seated insecurity and fear of failure behind a facade of stoic perfectionism and terrifying aggression."
+    ]
+  },
+  "Child Catcher": {
+    "job": "Enforcer",
+    "work": [
+      "Chitty chitty bang bang"
+    ],
+    "traits": [
+      "Sadistic",
+      "Deception",
+      "Obsession",
+      "Loyalty"
+    ],
+    "segs": [
+      "Deception: Utilizing a high-pitched, sing-song voice and the promise of free sweets (lollipops, treacle tart) to exploit children’s innocence and desires.",
+      "Sadistic: Deriving overt pleasure from the terror of his victims, viewing the capture of children not just as a job for the Baroness, but as a deeply gratifying personal sport.",
+      "Obsession: Possessing a pathological focus on the \"scent\" of children, which he uses to dehumanize them into mere prey to be scented and bagged.",
+      "Loyalty: Operating as the official enforcement arm of the Vulgarian regime's anti-child laws, showing total compliance with authority while exercising his own brand of cruelty."
+    ]
+  },
+  "Erfinder C.A. Rotwang": {
+    "job": "Mad scientist",
+    "work": [
+      "Metropolis"
+    ],
+    "traits": [
+      "Obsession",
+      "Sexual perversion",
+      "Vengefulness",
+      "Delusion",
+      "Egotism",
+      "Manipulation"
+    ],
+    "segs": [
+      "Obsession: Pursuing a fanatical obsession with a deceased lover to recreate or replace her through technological means.",
+      "Vengefulness: Executing calculated revenge driven by deep-seated hatred to destroy a rival and their legacy.",
+      "Delusion: Losing the grip on reality due to emotional instability and confusing living individuals with a lost past.",
+      "Manipulation: Feigning cooperation with authority while orchestrating chaos to fulfill a private agenda.",
+      "Egotism: Perceiving oneself as a god-like creator while disregarding moral boundaries for technical achievement."
+    ]
+  },
+  "Jason Dixon": {
+    "job": "Police officer",
+    "work": [
+      "Three Billboards Outside Ebbing, Missouri"
+    ],
+    "traits": [
+      "Emotional Immaturity",
+      "Corrupt Incompetence",
+      "Volatile Aggression",
+      "Laziness",
+      "No effort",
+      "Institutional Bigotry"
+    ],
+    "segs": [
+      "Institutional Bigotry: Utilizing police authority to systematically harass and oppress marginalized groups based on racial and homophobic prejudices.",
+      "Volatile Aggression: Exhibiting explosive, uncontrolled outbursts of violence and physical assault as a primary response to emotional stress or perceived disrespect.",
+      "Emotional Immaturity: Demonstrating stunted psychological growth and a pathological, codependent relationship with an overbearing maternal figure.",
+      "Corrupt Incompetence: Neglecting professional law enforcement duties and ethical standards in favor of personal biases and alcoholic escapism."
+    ]
+  },
+  "Dudley Liam Smith": {
+    "job": "Police captain",
+    "work": [
+      "L.A. Confidential"
+    ],
+    "traits": [
+      "External Mask",
+      "Machiavellian Ruthlessness",
+      "Manipulation",
+      "Hypocritical Justice",
+      "High intelligence",
+      "Charismatic Authority",
+      "Bribery"
+    ],
+    "segs": [
+      "External Mask: Fatherly Mentorship — Presenting as a wise, paternal authority figure to groom subordinates and mask cold-blooded corruption.",
+      "Machiavellian Ruthlessness: Employing extreme violence and systemic corruption to maintain absolute control over both the criminal underworld and the police force.",
+      "Manipulation: Exploiting the ambitions and weaknesses of subordinates to transform them into compliant tools for personal gain.",
+      "Hypocritical Justice: Upholding a facade of strict law enforcement while orchestrating large-scale criminal activities behind the scenes.",
+      "Charismatic Authority: Commanding unwavering respect through a formidable presence and sophisticated rhetoric to conceal a predatory nature."
+    ]
+  },
+  "El Indio": {
+    "job": "Leader",
+    "work": [
+      "For a Few Dollars More"
+    ],
+    "traits": [
+      "Tactical Brilliance",
+      "Traumatized Madness",
+      "Ruthlessness",
+      "Sadistic Ritualism",
+      "Cold Cynicism",
+      "Amoral Ruthlessness",
+      "Regardless of means and methods"
+    ],
+    "segs": [
+      "Ruthlessness: Will do anything to obtain money",
+      "Traumatized Madness: Numbing haunting memories of past trauma through substance abuse and manifesting internal pain as external violence.",
+      "Sadistic Ritualism: Transforming murder into a psychological torture and choreographed ritual by using a musical pocket watch as a countdown.",
+      "Amoral Ruthlessness: Betraying allies and sacrificing human lives without hesitation to ensure personal survival or achieve vengeance.",
+      "Tactical Brilliance: Planning complex heists with meticulous precision while maintaining absolute command over a volatile gang of outlaws.",
+      "Cold Cynicism: Viewing human loyalty and life as disposable commodities, driven by a profound lack of empathy."
+    ]
+  },
+  "Little Bill Daggett": {
+    "job": "Sheriff",
+    "work": [
+      "Unforgiven"
+    ],
+    "traits": [
+      "Moral Hypocrisy",
+      "Sadistic Dominance",
+      "Violent",
+      "Authoritarian Self-Righteousness",
+      "Cynical Pragmatism",
+      "Symbolic Incompetence"
+    ],
+    "segs": [
+      "Authoritarian Self-Righteousness: Enforcing a personal version of justice through a rigid interpretation of the law to validate the use of excessive and systemic violence.",
+      "Sadistic Dominance: Deriving psychological satisfaction from physically brutalizing others to maintain an unchallenged position of absolute power within a social hierarchy.",
+      "Moral Hypocrisy: Condemning the violent nature of outlaws and gunslingers while simultaneously employing ruthless tactics and disregarding the inherent dignity of victims.",
+      "Cynical Pragmatism: Rejecting idealized notions of heroism or fairness in favor of a cold belief that only those with the unyielding will to exert violence can maintain order.",
+      "Symbolic Incompetence: Manifesting internal moral flaws and a lack of true structural integrity through the obsessive yet failed construction of a personal domain, exemplified by a leaking house."
+    ]
+  },
+  "Dmitri": {
+    "job": "Owner",
+    "work": [
+      "The Grand Budapest Hotel"
+    ],
+    "traits": [
+      "Cruelty",
+      "Wealthy",
+      "Persistence",
+      "High intelligence",
+      "Authoritative Dominance",
+      "Emotional Callousness"
+    ],
+    "segs": [
+      "Cruelty: Engaging in cold-blooded violence and legal manipulation to secure familial wealth and maintain class-based dominance.",
+      "Authoritative Dominance: Exercising absolute control over subordinates, notably the assassin J.G. Jopling, to execute a systematic elimination of any perceived obstacles",
+      "Emotional Callousness: Demonstrating zero remorse for matricide or the suffering of others while focusing exclusively on personal gain and status.",
+      "Persistence: Maintaining a relentless pursuit of targets through both formal legal channels and illicit violence without regard for moral consequences."
+    ]
+  },
+  "Randall Boggs": {
+    "job": "Student",
+    "work": [
+      "Monsters, Inc."
+    ],
+    "traits": [
+      "Deceitfulness",
+      "Sadistic",
+      "Selfishness",
+      "Ruthlessness Ambition",
+      "Cunning Manipulation",
+      "Vengefulness"
+    ],
+    "segs": [
+      "Ruthlessness Ambition: Willing to kidnap and harm innocent children using experimental technology to secure personal power and corporate fame.",
+      "Cunning Manipulation: Utilizing high intelligence and camouflaging abilities to orchestrate secret plots while feigning cooperation with superiors.",
+      "Vengefulness: Maintaining a long-term grudge over past academic humiliations and seeking to destroy rivals through disproportionate retaliation.",
+      "Sadistic: Exhibiting a total lack of empathy and deriving satisfaction from the psychological terror of victims during the forced extraction of screams."
+    ]
+  },
+  "Christof": {
+    "job": "Director",
+    "work": [
+      "The Truman Show"
+    ],
+    "traits": [
+      "Cleverness",
+      "Artistic Detachment",
+      "Even attempts to kill Truman",
+      "Manipulative Rationalization",
+      "High intelligence",
+      "God Complex",
+      "Paternalistic Authority",
+      "Ethical Indifference"
+    ],
+    "segs": [
+      "God Complex: Exercising total control over a fabricated world and viewing oneself as the divine architect of another human's reality.",
+      "Manipulative Rationalization: Justifying the systemic exploitation and imprisonment of an individual under the guise of providing a safer, idyllic life.",
+      "Artistic Detachment: Prioritizing the perfection of a creative vision and commercial success over basic human rights and individual autonomy.",
+      "Paternalistic Authority: Maintaining a facade of fatherly care to manipulate emotions and ensure compliance within a controlled environment.",
+      "Ethical Indifference: Disregarding moral boundaries and the psychological consequences of non-consensual surveillance for the sake of global entertainment."
+    ]
+  },
+  "Romano": {
+    "job": "Judicial officer",
+    "work": [
+      "The Secret in Their Eyes"
+    ],
+    "traits": [
+      "Political Opportunism",
+      "Cleverness",
+      "Vengeful Pettiness",
+      "Elite Pretentiousness",
+      "Bureaucratic Arrogance",
+      "Moral Bankruptcy"
+    ],
+    "segs": [
+      "Bureaucratic Arrogance: Masking professional incompetence with an elitist and condescending attitude toward colleagues and subordinates.",
+      "Vengeful Pettiness: Prioritizing personal grudges and professional jealousy over the integrity of judicial investigations and the pursuit of truth.",
+      "Moral Bankruptcy: Abandoning justice and shielding violent criminals to secure institutional power and political favors.",
+      "Political Opportunism: Exploiting state-sponsored violence and political turmoil to eliminate rivals and solidify personal authority.",
+      "Elite Pretentiousness: Maintaining a facade of intellectual superiority to evade accountability for moral failures and professional negligence."
+    ]
+  },
+  "Rory Breaker": {
+    "job": "Drug dealer; Crime lord",
+    "work": [
+      "Lock, Stock and Two Smoking Barrels"
+    ],
+    "traits": [
+      "Hypersensitive Pride",
+      "Eccentric Professionalism",
+      "Ruthless Pragmatism",
+      "Explosive Volatility",
+      "Charismatic"
+    ],
+    "segs": [
+      "Explosive Volatility: Possessing a hair-trigger temper that transitions from calm conversation to lethal violence within seconds over minor provocations.",
+      "Eccentric Professionalism: Maintaining a flamboyant and stylish public persona while operating a highly efficient and ruthless criminal enterprise.",
+      "Hypersensitive Pride: Viewing perceived slights or lack of respect as existential threats that demand immediate and disproportionate retaliation.",
+      "Ruthless Pragmatism: Eliminating threats or obstacles with chilling efficiency, prioritizing the reputation and survival of the criminal domain above all."
+    ]
+  }
+}

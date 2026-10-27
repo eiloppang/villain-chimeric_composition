@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema1="http://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:villain="http://villainscope.org/villain/"
+   xmlns:wdt="http://www.wikidata.org/prop/direct/"
+>
+  <rdf:Description rdf:about="http://villainscope.org/villain/villain_ani_007">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Villain"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Character"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <schema1:name>Utsuro</schema1:name>
+    <foaf:name>Utsuro</foaf:name>
+    <rdfs:label>Utsuro</rdfs:label>
+    <villain:appearsIn rdf:resource="http://villainscope.org/work/work_ani_004"/>
+    <schema1:isPartOf rdf:resource="http://villainscope.org/work/work_ani_004"/>
+    <schema1:gender>Male</schema1:gender>
+    <foaf:gender>Male</foaf:gender>
+    <schema1:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">500</schema1:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">500</foaf:age>
+    <villain:ethnicity>Human Mutate</villain:ethnicity>
+    <villain:hairDescription>Brown long hair</villain:hairDescription>
+    <villain:distinctiveFeatures>Wears a mask covering below the nose.</villain:distinctiveFeatures>
+    <villain:personalityTraits>Cunning; Cold-blooded; Ruthlessness; Inscrutable; Criminal</villain:personalityTraits>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Cunning"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Cold-blooded"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Ruthlessness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Inscrutable"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Criminal"/>
+    <villain:personalityTrait>Cunning</villain:personalityTrait>
+    <villain:personalityTrait>Cold-blooded</villain:personalityTrait>
+    <villain:personalityTrait>Ruthlessness</villain:personalityTrait>
+    <villain:personalityTrait>Inscrutable</villain:personalityTrait>
+    <villain:personalityTrait>Criminal</villain:personalityTrait>
+    <villain:personalityDetails>Ruthlessness: No hesitation in committing murder | Criminal: Murderer</villain:personalityDetails>
+    <schema1:description>Ruthlessness: No hesitation in committing murder | Criminal: Murderer</schema1:description>
+    <villain:abilities>Exceptional swordsmanship; Immortality; Regenerative abilities</villain:abilities>
+    <schema1:knowsAbout>Exceptional swordsmanship; Immortality; Regenerative abilities</schema1:knowsAbout>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Exceptional_swordsmanship"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Immortality"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Regenerative_abilities"/>
+    <villain:occupation>Leader</villain:occupation>
+    <schema1:jobTitle>Leader</schema1:jobTitle>
+    <foaf:title>Leader</foaf:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Leadership">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Leadership</rdfs:label>
+    <skos:prefLabel xml:lang="en">Leadership</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/SocialTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Arrogance">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Arrogance</rdfs:label>
+    <skos:prefLabel xml:lang="en">Arrogance</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/PsychologicalTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/villain/villain_ani_001">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Villain"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Character"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <schema1:name>Bradley King</schema1:name>
+    <foaf:name>Bradley King</foaf:name>
+    <rdfs:label>Bradley King</rdfs:label>
+    <villain:appearsIn rdf:resource="http://villainscope.org/work/work_ani_001"/>
+    <schema1:isPartOf rdf:resource="http://villainscope.org/work/work_ani_001"/>
+    <schema1:gender>Male</schema1:gender>
+    <foaf:gender>Male</foaf:gender>
+    <schema1:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</schema1:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</foaf:age>
+    <villain:ethnicity>Homunculus</villain:ethnicity>
+    <villain:facialFeatures>Mustache</villain:facialFeatures>
+    <villain:hairDescription>White hair with black streaks.</villain:hairDescription>
+    <villain:distinctiveFeatures>Wears an eyepatch covering the right eye.</villain:distinctiveFeatures>
+    <villain:personalityTraits>Duplicitous nature; Ruthlessness; Strategic; Cheerful</villain:personalityTraits>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Duplicitous_nature"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Ruthlessness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Strategic"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Cheerful"/>
+    <villain:personalityTrait>Duplicitous nature</villain:personalityTrait>
+    <villain:personalityTrait>Ruthlessness</villain:personalityTrait>
+    <villain:personalityTrait>Strategic</villain:personalityTrait>
+    <villain:personalityTrait>Cheerful</villain:personalityTrait>
+    <villain:personalityDetails>Duplicitous nature: Serenity. Affectionate. Violence. | Ruthlessness: Willing to sacrifice even his own son for the attainment of his goal (Philosopher's Stone). | Strategic: Planning criminal activities. | Cheerful: Cracks jokes to amuse his subordinates.</villain:personalityDetails>
+    <schema1:description>Duplicitous nature: Serenity. Affectionate. Violence. | Ruthlessness: Willing to sacrifice even his own son for the attainment of his goal (Philosopher's Stone). | Strategic: Planning criminal activities. | Cheerful: Cracks jokes to amuse his subordinates.</schema1:description>
+    <villain:abilities>Reads opponent's movements; Utilizes concealed eyes under blindfold to anticipate even the swiftest actions; Exceptional swordsmanship; Proficient in close combat</villain:abilities>
+    <schema1:knowsAbout>Reads opponent's movements; Utilizes concealed eyes under blindfold to anticipate even the swiftest actions; Exceptional swordsmanship; Proficient in close combat</schema1:knowsAbout>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Reads_opponents_movements"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Utilizes_concealed_eyes_under_blindfold_to_anticipate_even_the_swiftest_actions"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Exceptional_swordsmanship"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Proficient_in_close_combat"/>
+    <villain:occupation>Military; Grand Marshal</villain:occupation>
+    <schema1:jobTitle>Military; Grand Marshal</schema1:jobTitle>
+    <foaf:title>Military; Grand Marshal</foaf:title>
+    <schema1:sameAs rdf:resource="http://www.wikidata.org/entity/Q3196996"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3196996"/>
+    <villain:wikidataEntity rdf:resource="http://www.wikidata.org/entity/Q3196996"/>
+    <villain:wikidataLabel xml:lang="en">King Bradley</villain:wikidataLabel>
+    <villain:wikidataDescription xml:lang="en">fictional character from Fullmetal Alchemist</villain:wikidataDescription>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q87576284"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q80447738"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q725249"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q15632617"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/villain/villain_ani_005">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Villain"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Character"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <schema1:name>Kai Chisaki</schema1:name>
+    <foaf:name>Kai Chisaki</foaf:name>
+    <rdfs:label>Kai Chisaki</rdfs:label>
+    <villain:appearsIn rdf:resource="http://villainscope.org/work/work_ani_002"/>
+    <schema1:isPartOf rdf:resource="http://villainscope.org/work/work_ani_002"/>
+    <schema1:gender>Male</schema1:gender>
+    <foaf:gender>Male</foaf:gender>
+    <schema1:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</schema1:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</foaf:age>
+    <villain:facialFeatures>thin eyes with small gold irises</villain:facialFeatures>
+    <villain:hairDescription>reddish-brown sporting hair</villain:hairDescription>
+    <villain:distinctiveFeatures>signature red old-style magenta; gold plague mask </villain:distinctiveFeatures>
+    <villain:personalityTraits>Obsessive-compulsive disorder; Ruthlessness; Narcissism; Selective affection; Former Yakuza member; Loyalty; Obsession; Criminal</villain:personalityTraits>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Obsessive-compulsive_disorder"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Ruthlessness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Narcissism"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Selective_affection"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Former_Yakuza_member"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Loyalty"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Obsession"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Criminal"/>
+    <villain:personalityTrait>Obsessive-compulsive disorder</villain:personalityTrait>
+    <villain:personalityTrait>Ruthlessness</villain:personalityTrait>
+    <villain:personalityTrait>Narcissism</villain:personalityTrait>
+    <villain:personalityTrait>Selective affection</villain:personalityTrait>
+    <villain:personalityTrait>Former Yakuza member</villain:personalityTrait>
+    <villain:personalityTrait>Loyalty</villain:personalityTrait>
+    <villain:personalityTrait>Obsession</villain:personalityTrait>
+    <villain:personalityTrait>Criminal</villain:personalityTrait>
+    <villain:personalityDetails>Ruthlessness: Commits child abuse for personal gain | Narcissism | Selective affection: Acts kind and affectionate when necessary. | Former Yakuza member | Loyalty: Loyal to the boss who took him in, seeks to repay the favor. | Obsession: Obsessed with a specific individual (former boss of the previous organization) | Criminal: Mass murder, child abuse.</villain:personalityDetails>
+    <schema1:description>Ruthlessness: Commits child abuse for personal gain | Narcissism | Selective affection: Acts kind and affectionate when necessary. | Former Yakuza member | Loyalty: Loyal to the boss who took him in, seeks to repay the favor. | Obsession: Obsessed with a specific individual (former boss of the previous organization) | Criminal: Mass murder, child abuse.</schema1:description>
+    <villain:abilities>Overhaul: Capable of disassembly, healing, and reassembly; Birdman</villain:abilities>
+    <schema1:knowsAbout>Overhaul: Capable of disassembly, healing, and reassembly; Birdman</schema1:knowsAbout>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Overhaul_Capable_of_disassembly_healing_and_reassembly"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Birdman"/>
+    <villain:occupation>Leader of the Four Virtues Reunion</villain:occupation>
+    <schema1:jobTitle>Leader of the Four Virtues Reunion</schema1:jobTitle>
+    <foaf:title>Leader of the Four Virtues Reunion</foaf:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/villain/villain_ani_003">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Villain"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Character"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <schema1:name>Tomura Shigaraki</schema1:name>
+    <foaf:name>Tomura Shigaraki</foaf:name>
+    <rdfs:label>Tomura Shigaraki</rdfs:label>
+    <villain:appearsIn rdf:resource="http://villainscope.org/work/work_ani_002"/>
+    <schema1:isPartOf rdf:resource="http://villainscope.org/work/work_ani_002"/>
+    <schema1:gender>Male</schema1:gender>
+    <foaf:gender>Male</foaf:gender>
+    <schema1:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</schema1:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
+    <villain:facialFeatures>Initially had a large hand-shaped object on the face; Currently squiggly eye area.</villain:facialFeatures>
+    <villain:hairDescription>Initially blue hair; Currently white</villain:hairDescription>
+    <villain:distinctiveFeatures>Entire body is surrounded by large hand-shaped objects.</villain:distinctiveFeatures>
+    <villain:personalityTraits>Unfortunate childhood; Habit; Sensitivity; Stubbornness; Obsession; Madness; Mistreatment; Criminal; Name - Antagonist's appellation; Birthday</villain:personalityTraits>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Unfortunate_childhood"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Habit"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Sensitivity"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Stubbornness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Obsession"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Madness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Mistreatment"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Criminal"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Name_-_Antagonists_appellation"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Birthday"/>
+    <villain:personalityTrait>Unfortunate childhood</villain:personalityTrait>
+    <villain:personalityTrait>Habit</villain:personalityTrait>
+    <villain:personalityTrait>Sensitivity</villain:personalityTrait>
+    <villain:personalityTrait>Stubbornness</villain:personalityTrait>
+    <villain:personalityTrait>Obsession</villain:personalityTrait>
+    <villain:personalityTrait>Madness</villain:personalityTrait>
+    <villain:personalityTrait>Mistreatment</villain:personalityTrait>
+    <villain:personalityTrait>Criminal</villain:personalityTrait>
+    <villain:personalityTrait>Name - Antagonist's appellation</villain:personalityTrait>
+    <villain:personalityTrait>Birthday</villain:personalityTrait>
+    <villain:personalityDetails>Unfortunate childhood: Strained relationship with father (desires to become a hero influenced by a heroic grandmother, but strained relationship due to father's opposition). | Habit: Scratches face when irritated or stressed. | Stubbornness: Resists having his soul consumed by the boss. | Obsession: Obsessed with murder. | Madness | Mistreatment: Lacks morality, feels joy rather than remorse after killing household members. | Criminal: Mass murder | Name - Antagonist's appellation: '死柄木弔 (Shibarakimotsurugi)' - Incorporating two characters related to death. | Birthday: April 4th. Symbolizes death.</villain:personalityDetails>
+    <schema1:description>Unfortunate childhood: Strained relationship with father (desires to become a hero influenced by a heroic grandmother, but strained relationship due to father's opposition). | Habit: Scratches face when irritated or stressed. | Stubbornness: Resists having his soul consumed by the boss. | Obsession: Obsessed with murder. | Madness | Mistreatment: Lacks morality, feels joy rather than remorse after killing household members. | Criminal: Mass murder | Name - Antagonist's appellation: '死柄木弔 (Shibarakimotsurugi)' - Incorporating two characters related to death. | Birthday: April 4th. Symbolizes death.</schema1:description>
+    <villain:abilities>Collapse; Initially; Anything touched perfectly with five fingers collapses; The range of the effect has widened; collapses even if touched with just one finger or foot, not necessarily the whole hand or foot.</villain:abilities>
+    <schema1:knowsAbout>Collapse; Initially; Anything touched perfectly with five fingers collapses; The range of the effect has widened; collapses even if touched with just one finger or foot, not necessarily the whole hand or foot.</schema1:knowsAbout>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Collapse"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Initially"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Anything_touched_perfectly_with_five_fingers_collapses"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/The_range_of_the_effect_has_widened"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/collapses_even_if_touched_with_just_one_finger_or_foot_not_necessarily_the_whole_hand_or_foot"/>
+    <villain:occupation>Leader of the Surrealist Liberation Front</villain:occupation>
+    <schema1:jobTitle>Leader of the Surrealist Liberation Front</schema1:jobTitle>
+    <foaf:title>Leader of the Surrealist Liberation Front</foaf:title>
+    <schema1:sameAs rdf:resource="http://www.wikidata.org/entity/Q133538012"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133538012"/>
+    <villain:wikidataEntity rdf:resource="http://www.wikidata.org/entity/Q133538012"/>
+    <villain:wikidataLabel xml:lang="en">Tomura Shigaraki</villain:wikidataLabel>
+    <villain:wikidataDescription xml:lang="en">fictional character in My Hero Academia</villain:wikidataDescription>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q80447738"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q15632617"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q87576284"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/villain/villain_ani_008">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Villain"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Character"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <schema1:name>Piccolo</schema1:name>
+    <foaf:name>Piccolo</foaf:name>
+    <rdfs:label>Piccolo</rdfs:label>
+    <villain:appearsIn rdf:resource="http://villainscope.org/work/work_ani_005"/>
+    <schema1:isPartOf rdf:resource="http://villainscope.org/work/work_ani_005"/>
+    <schema1:gender>hermaphrodite</schema1:gender>
+    <foaf:gender>hermaphrodite</foaf:gender>
+    <schema1:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</schema1:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</foaf:age>
+    <villain:ethnicity>Namekian</villain:ethnicity>
+    <villain:facialFeatures>Green of skin; Pointy ears</villain:facialFeatures>
+    <villain:hairDescription>baldhead</villain:hairDescription>
+    <villain:distinctiveFeatures>Two antennae on the forehead. Muscular physique; Tall stature.</villain:distinctiveFeatures>
+    <villain:personalityTraits>Tyrant; Mistreatment</villain:personalityTraits>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Tyrant"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Mistreatment"/>
+    <villain:personalityTrait>Tyrant</villain:personalityTrait>
+    <villain:personalityTrait>Mistreatment</villain:personalityTrait>
+    <villain:personalityDetails>Mistreatment: Takes pleasure in cruelty and brutality.</villain:personalityDetails>
+    <schema1:description>Mistreatment: Takes pleasure in cruelty and brutality.</schema1:description>
+    <villain:abilities>Superhuman feature: Supernatural speed, strength; Regenerative abilities; Mass destruction with energy beams; Gigantification; Flight</villain:abilities>
+    <schema1:knowsAbout>Superhuman feature: Supernatural speed, strength; Regenerative abilities; Mass destruction with energy beams; Gigantification; Flight</schema1:knowsAbout>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Superhuman_feature_Supernatural_speed_strength"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Regenerative_abilities"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Mass_destruction_with_energy_beams"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Gigantification"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Flight"/>
+    <villain:occupation>Leader</villain:occupation>
+    <schema1:jobTitle>Leader</schema1:jobTitle>
+    <foaf:title>Leader</foaf:title>
+    <schema1:sameAs rdf:resource="http://www.wikidata.org/entity/Q151659"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q151659"/>
+    <villain:wikidataEntity rdf:resource="http://www.wikidata.org/entity/Q151659"/>
+    <villain:wikidataLabel xml:lang="en">Piccolo</villain:wikidataLabel>
+    <villain:wikidataDescription xml:lang="en">character from the Dragon Ball manga</villain:wikidataDescription>
+    <schema1:image rdf:resource="https://commons.wikimedia.org/wiki/Special:FilePath/Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%285%29.jpg"/>
+    <foaf:depiction rdf:resource="https://commons.wikimedia.org/wiki/Special:FilePath/Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%285%29.jpg"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q80447738"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q87576284"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q28020127"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/villain/villain_ani_006">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Villain"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Character"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <schema1:name>Gendo Ikari </schema1:name>
+    <foaf:name>Gendo Ikari </foaf:name>
+    <rdfs:label>Gendo Ikari </rdfs:label>
+    <villain:appearsIn rdf:resource="http://villainscope.org/work/work_ani_003"/>
+    <schema1:isPartOf rdf:resource="http://villainscope.org/work/work_ani_003"/>
+    <schema1:gender>Male</schema1:gender>
+    <foaf:gender>Male</foaf:gender>
+    <schema1:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</schema1:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</foaf:age>
+    <villain:facialFeatures>Beard</villain:facialFeatures>
+    <villain:hairDescription>sporting hair</villain:hairDescription>
+    <villain:distinctiveFeatures>Brown glasses; Large burn mark on the right hand; White gloves</villain:distinctiveFeatures>
+    <villain:personalityTraits>Cleverness; Psychopathy; Ruthlessness; Lack of morality; Cunning; Strategic; Maliciousness; Violence; cold-bloodedness</villain:personalityTraits>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Cleverness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Psychopathy"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Ruthlessness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Lack_of_morality"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Cunning"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Strategic"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Maliciousness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Violence"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Cold-bloodedness"/>
+    <villain:personalityTrait>Cleverness</villain:personalityTrait>
+    <villain:personalityTrait>Psychopathy</villain:personalityTrait>
+    <villain:personalityTrait>Ruthlessness</villain:personalityTrait>
+    <villain:personalityTrait>Lack of morality</villain:personalityTrait>
+    <villain:personalityTrait>Cunning</villain:personalityTrait>
+    <villain:personalityTrait>Strategic</villain:personalityTrait>
+    <villain:personalityTrait>Maliciousness</villain:personalityTrait>
+    <villain:personalityTrait>Violence</villain:personalityTrait>
+    <villain:personalityTrait>Cold-bloodedness</villain:personalityTrait>
+    <villain:personalityDetails>Ruthlessness, Lack of morality: Despite the imminent risk to his son's life, he insisted on pushing forward with the dangerous mission to achieve his goal (the eradication of heretics). | Strategic: Plans meticulously to fulfill missions. | Violence: Has a history of drunken assaults, leading to being brought to the police station. | cold-bloodedness: extremely cold and distant father towards his son.</villain:personalityDetails>
+    <schema1:description>Ruthlessness, Lack of morality: Despite the imminent risk to his son's life, he insisted on pushing forward with the dangerous mission to achieve his goal (the eradication of heretics). | Strategic: Plans meticulously to fulfill missions. | Violence: Has a history of drunken assaults, leading to being brought to the police station. | cold-bloodedness: extremely cold and distant father towards his son.</schema1:description>
+    <villain:occupation>Nerf Commander</villain:occupation>
+    <schema1:jobTitle>Nerf Commander</schema1:jobTitle>
+    <foaf:title>Nerf Commander</foaf:title>
+    <schema1:sameAs rdf:resource="http://www.wikidata.org/entity/Q2721109"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2721109"/>
+    <villain:wikidataEntity rdf:resource="http://www.wikidata.org/entity/Q2721109"/>
+    <villain:wikidataLabel xml:lang="en">Gendo Ikari</villain:wikidataLabel>
+    <villain:wikidataDescription xml:lang="en">fictional character from Neon Genesis Evangelion</villain:wikidataDescription>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q15632617"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q80447738"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q87576284"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/work/work_ani_005">
+    <rdf:type rdf:resource="http://villainscope.org/villain/CreativeWork"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Animation"/>
+    <schema1:name>Dragon Ball</schema1:name>
+    <dcterms:title>Dragon Ball</dcterms:title>
+    <rdfs:label>Dragon Ball</rdfs:label>
+    <schema1:genre>Animation</schema1:genre>
+    <villain:mediaType>animation</villain:mediaType>
+    <villain:hasCharacter rdf:resource="http://villainscope.org/villain/villain_ani_008"/>
+    <schema1:character rdf:resource="http://villainscope.org/villain/villain_ani_008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/villain/villain_ani_004">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Villain"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Character"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <schema1:name>Himiko Toga</schema1:name>
+    <foaf:name>Himiko Toga</foaf:name>
+    <rdfs:label>Himiko Toga</rdfs:label>
+    <villain:appearsIn rdf:resource="http://villainscope.org/work/work_ani_002"/>
+    <schema1:isPartOf rdf:resource="http://villainscope.org/work/work_ani_002"/>
+    <schema1:gender>Female</schema1:gender>
+    <foaf:gender>Female</foaf:gender>
+    <schema1:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</schema1:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <villain:facialFeatures>Sharp canines.</villain:facialFeatures>
+    <villain:hairDescription>Blonde; Twintails.</villain:hairDescription>
+    <villain:distinctiveFeatures>School uniform</villain:distinctiveFeatures>
+    <villain:personalityTraits>Obsession; Lack of affection; Mistreatment; Affectionate; Fondness for blood; Agility; Criminal;  yandere-type girl </villain:personalityTraits>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Obsession"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Lack_of_affection"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Mistreatment"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Affectionate"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Fondness_for_blood"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Agility"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Criminal"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Yandere-type_girl"/>
+    <villain:personalityTrait>Obsession</villain:personalityTrait>
+    <villain:personalityTrait>Lack of affection</villain:personalityTrait>
+    <villain:personalityTrait>Mistreatment</villain:personalityTrait>
+    <villain:personalityTrait>Affectionate</villain:personalityTrait>
+    <villain:personalityTrait>Fondness for blood</villain:personalityTrait>
+    <villain:personalityTrait>Agility</villain:personalityTrait>
+    <villain:personalityTrait>Criminal</villain:personalityTrait>
+    <villain:personalityTrait>Yandere-type girl</villain:personalityTrait>
+    <villain:personalityDetails>Obsession: Obsession with love. Obsession with a specific individual (Midoriya Izuku). | Lack of affection | Mistreatment: Sadistic. Becomes excited after killing people. | Affectionate: Becomes explosive if loved ones are harmed. Takes good care of loved ones. | Fondness for blood | Agility | Criminal: Mass murder</villain:personalityDetails>
+    <schema1:description>Obsession: Obsession with love. Obsession with a specific individual (Midoriya Izuku). | Lack of affection | Mistreatment: Sadistic. Becomes excited after killing people. | Affectionate: Becomes explosive if loved ones are harmed. Takes good care of loved ones. | Fondness for blood | Agility | Criminal: Mass murder</schema1:description>
+    <villain:abilities>Shapeshifting; Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms.</villain:abilities>
+    <schema1:knowsAbout>Shapeshifting; Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms.</schema1:knowsAbout>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Shapeshifting"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Consumes_the_blood_of_the_target_he_wants_to_transform_into_memorizes_their_body_dimensions_and_features_accurately_then_transforms"/>
+    <villain:occupation>Subordinate of the Surrealist Liberation Front</villain:occupation>
+    <schema1:jobTitle>Subordinate of the Surrealist Liberation Front</schema1:jobTitle>
+    <foaf:title>Subordinate of the Surrealist Liberation Front</foaf:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Ruthlessness">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Ruthlessness</rdfs:label>
+    <skos:prefLabel xml:lang="en">Ruthlessness</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/BehavioralTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ontology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+    <rdfs:label xml:lang="en">VillainScope Knowledge Graph</rdfs:label>
+    <rdfs:comment xml:lang="en">Knowledge graph for villain character analysis supporting distant reading and Graph RAG applications.</rdfs:comment>
+    <owl:versionInfo>2.0</owl:versionInfo>
+    <dcterms:creator>Gayeon Kim</dcterms:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Unfortunate_childhood">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Unfortunate childhood</rdfs:label>
+    <skos:prefLabel xml:lang="en">Unfortunate childhood</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Violence">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Violence</rdfs:label>
+    <skos:prefLabel xml:lang="en">Violence</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/BehavioralTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/villain/villain_ani_009">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Villain"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Character"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <schema1:name>Muzan Kibutsuji </schema1:name>
+    <foaf:name>Muzan Kibutsuji </foaf:name>
+    <rdfs:label>Muzan Kibutsuji </rdfs:label>
+    <villain:appearsIn rdf:resource="http://villainscope.org/work/work_ani_006"/>
+    <schema1:isPartOf rdf:resource="http://villainscope.org/work/work_ani_006"/>
+    <schema1:gender>Male</schema1:gender>
+    <foaf:gender>Male</foaf:gender>
+    <schema1:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1000</schema1:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1000</foaf:age>
+    <villain:ethnicity>Goblin</villain:ethnicity>
+    <villain:facialFeatures>Pale of skin</villain:facialFeatures>
+    <villain:hairDescription>Curly hair</villain:hairDescription>
+    <villain:distinctiveFeatures>Kind demeanor</villain:distinctiveFeatures>
+    <villain:personalityTraits>Obsession; Leadership; Tyrant; Strong determination; Psychopath; Narcissism; Strategic; Verbal abuser; Ruthlessness; Cleverness</villain:personalityTraits>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Obsession"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Leadership"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Tyrant"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Strong_determination"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Psychopath"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Narcissism"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Strategic"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Verbal_abuser"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Ruthlessness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Cleverness"/>
+    <villain:personalityTrait>Obsession</villain:personalityTrait>
+    <villain:personalityTrait>Leadership</villain:personalityTrait>
+    <villain:personalityTrait>Tyrant</villain:personalityTrait>
+    <villain:personalityTrait>Strong determination</villain:personalityTrait>
+    <villain:personalityTrait>Psychopath</villain:personalityTrait>
+    <villain:personalityTrait>Narcissism</villain:personalityTrait>
+    <villain:personalityTrait>Strategic</villain:personalityTrait>
+    <villain:personalityTrait>Verbal abuser</villain:personalityTrait>
+    <villain:personalityTrait>Ruthlessness</villain:personalityTrait>
+    <villain:personalityTrait>Cleverness</villain:personalityTrait>
+    <villain:personalityDetails>Obsession: Obsessed with immortality (was very frail in childhood). | Leadership: Leads the Twelve Moon Phases. | Psychopath: Lacks understanding of emotions. | Narcissism: Self-centered, views others as inferior (refers to them as 'bugs'). | Strategic: Plans and executes everything meticulously. | Verbal abuser: Kills women with his words. | Ruthlessness: Executes immediately if tasks assigned are not fulfilled.</villain:personalityDetails>
+    <schema1:description>Obsession: Obsessed with immortality (was very frail in childhood). | Leadership: Leads the Twelve Moon Phases. | Psychopath: Lacks understanding of emotions. | Narcissism: Self-centered, views others as inferior (refers to them as 'bugs'). | Strategic: Plans and executes everything meticulously. | Verbal abuser: Kills women with his words. | Ruthlessness: Executes immediately if tasks assigned are not fulfilled.</schema1:description>
+    <villain:abilities>Shapeshifting</villain:abilities>
+    <schema1:knowsAbout>Shapeshifting</schema1:knowsAbout>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Shapeshifting"/>
+    <villain:occupation>Leader</villain:occupation>
+    <schema1:jobTitle>Leader</schema1:jobTitle>
+    <foaf:title>Leader</foaf:title>
+    <schema1:sameAs rdf:resource="http://www.wikidata.org/entity/Q116252649"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q116252649"/>
+    <villain:wikidataEntity rdf:resource="http://www.wikidata.org/entity/Q116252649"/>
+    <villain:wikidataLabel xml:lang="en">Muzan Kibutsuji</villain:wikidataLabel>
+    <villain:wikidataDescription xml:lang="en">Fictional character from Demon Slayer: Kimetsu no Yaiba</villain:wikidataDescription>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q80447738"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q87576284"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q34315358"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/work/work_ani_007">
+    <rdf:type rdf:resource="http://villainscope.org/villain/CreativeWork"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Animation"/>
+    <schema1:name>HUNTER×HUNTER</schema1:name>
+    <dcterms:title>HUNTER×HUNTER</dcterms:title>
+    <rdfs:label>HUNTER×HUNTER</rdfs:label>
+    <schema1:genre>Animation</schema1:genre>
+    <villain:mediaType>animation</villain:mediaType>
+    <villain:hasCharacter rdf:resource="http://villainscope.org/villain/villain_ani_010"/>
+    <schema1:character rdf:resource="http://villainscope.org/villain/villain_ani_010"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/villain/villain_ani_010">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Villain"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Character"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <schema1:name>Hisoka Morow </schema1:name>
+    <foaf:name>Hisoka Morow </foaf:name>
+    <rdfs:label>Hisoka Morow </rdfs:label>
+    <villain:appearsIn rdf:resource="http://villainscope.org/work/work_ani_007"/>
+    <schema1:isPartOf rdf:resource="http://villainscope.org/work/work_ani_007"/>
+    <schema1:gender>Male</schema1:gender>
+    <foaf:gender>Male</foaf:gender>
+    <schema1:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</schema1:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</foaf:age>
+    <villain:facialFeatures>Pale of sklin; Star under the left eye; Teardrop under the right eye</villain:facialFeatures>
+    <villain:hairDescription>Red hair (pulled up)</villain:hairDescription>
+    <villain:distinctiveFeatures>Clown makeup</villain:distinctiveFeatures>
+    <villain:personalityTraits>Cleverness; Criminal; Mistreatment; Liar; Sadistic; Arrogance</villain:personalityTraits>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Cleverness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Criminal"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Mistreatment"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Liar"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Sadistic"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Arrogance"/>
+    <villain:personalityTrait>Cleverness</villain:personalityTrait>
+    <villain:personalityTrait>Criminal</villain:personalityTrait>
+    <villain:personalityTrait>Mistreatment</villain:personalityTrait>
+    <villain:personalityTrait>Liar</villain:personalityTrait>
+    <villain:personalityTrait>Sadistic</villain:personalityTrait>
+    <villain:personalityTrait>Arrogance</villain:personalityTrait>
+    <villain:personalityDetails>Criminal: Murderer | Mistreatment: Takes pleasure in murder | Sadistic: Takes pleasure in murdering the weak.</villain:personalityDetails>
+    <schema1:description>Criminal: Murderer | Mistreatment: Takes pleasure in murder | Sadistic: Takes pleasure in murdering the weak.</schema1:description>
+    <villain:abilities>Superhuman feature: strength, speed, reflexes, durability</villain:abilities>
+    <schema1:knowsAbout>Superhuman feature: strength, speed, reflexes, durability</schema1:knowsAbout>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Superhuman_feature_strength_speed_reflexes_durability"/>
+    <villain:occupation>Hunter; Thief</villain:occupation>
+    <schema1:jobTitle>Hunter; Thief</schema1:jobTitle>
+    <foaf:title>Hunter; Thief</foaf:title>
+    <schema1:sameAs rdf:resource="http://www.wikidata.org/entity/Q2280812"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2280812"/>
+    <villain:wikidataEntity rdf:resource="http://www.wikidata.org/entity/Q2280812"/>
+    <villain:wikidataLabel xml:lang="en">Hisoka</villain:wikidataLabel>
+    <villain:wikidataDescription xml:lang="en">fictional character from Hunter × Hunter</villain:wikidataDescription>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q15632617"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q87576284"/>
+    <wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q80447738"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Madness">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Madness</rdfs:label>
+    <skos:prefLabel xml:lang="en">Madness</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Maliciousness">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Maliciousness</rdfs:label>
+    <skos:prefLabel xml:lang="en">Maliciousness</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Psychopathy">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Psychopathy</rdfs:label>
+    <skos:prefLabel xml:lang="en">Psychopathy</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/PsychologicalTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Narcissism">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Narcissism</rdfs:label>
+    <skos:prefLabel xml:lang="en">Narcissism</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/PsychologicalTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/villain/villain_ani_002">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Villain"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Character"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <schema1:name>Dante</schema1:name>
+    <foaf:name>Dante</foaf:name>
+    <rdfs:label>Dante</rdfs:label>
+    <villain:appearsIn rdf:resource="http://villainscope.org/work/work_ani_001"/>
+    <schema1:isPartOf rdf:resource="http://villainscope.org/work/work_ani_001"/>
+    <schema1:gender>Female</schema1:gender>
+    <foaf:gender>Female</foaf:gender>
+    <schema1:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</schema1:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</foaf:age>
+    <villain:ethnicity>Homunculus</villain:ethnicity>
+    <villain:facialFeatures>Protean</villain:facialFeatures>
+    <villain:hairDescription>Protean</villain:hairDescription>
+    <villain:distinctiveFeatures>Leaves a strong scent of perfume.</villain:distinctiveFeatures>
+    <villain:personalityTraits>Strategic; Ruthlessness; Obsession; Criminal; Lack of morality; Leadership</villain:personalityTraits>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Strategic"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Ruthlessness"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Obsession"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Criminal"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Lack_of_morality"/>
+    <villain:hasPersonalityTrait rdf:resource="http://villainscope.org/trait/Leadership"/>
+    <villain:personalityTrait>Strategic</villain:personalityTrait>
+    <villain:personalityTrait>Ruthlessness</villain:personalityTrait>
+    <villain:personalityTrait>Obsession</villain:personalityTrait>
+    <villain:personalityTrait>Criminal</villain:personalityTrait>
+    <villain:personalityTrait>Lack of morality</villain:personalityTrait>
+    <villain:personalityTrait>Leadership</villain:personalityTrait>
+    <villain:personalityDetails>Strategic: Plans criminal activities | Ruthlessness: Forces many people into sacrifice for his goals. Subordinates in the organization are used solely for his objectives (Eternal life), devoid of affection. | Obsession: Eternal life. Obsession with a specific individual (Hohenheim of Light). | Criminal: Mass murder | Lack of morality: No remorse towards targets he kills. | Leadership: Leads the Homunculi.</villain:personalityDetails>
+    <schema1:description>Strategic: Plans criminal activities | Ruthlessness: Forces many people into sacrifice for his goals. Subordinates in the organization are used solely for his objectives (Eternal life), devoid of affection. | Obsession: Eternal life. Obsession with a specific individual (Hohenheim of Light). | Criminal: Mass murder | Lack of morality: No remorse towards targets he kills. | Leadership: Leads the Homunculi.</schema1:description>
+    <villain:abilities>Immortality; Ability to transfer soul into another person's body for transformation; Alchemy; Capable of large-scale alchemy; Regenerative abilities</villain:abilities>
+    <schema1:knowsAbout>Immortality; Ability to transfer soul into another person's body for transformation; Alchemy; Capable of large-scale alchemy; Regenerative abilities</schema1:knowsAbout>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Immortality"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Ability_to_transfer_soul_into_another_persons_body_for_transformation"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Alchemy"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Capable_of_large-scale_alchemy"/>
+    <villain:hasAbility rdf:resource="http://villainscope.org/ability/Regenerative_abilities"/>
+    <villain:occupation>Alchemist</villain:occupation>
+    <schema1:jobTitle>Alchemist</schema1:jobTitle>
+    <foaf:title>Alchemist</foaf:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Initially">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Initially</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Cleverness">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Cleverness</rdfs:label>
+    <skos:prefLabel xml:lang="en">Cleverness</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/IntellectualTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Proficient_in_close_combat">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Proficient in close combat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Gigantification">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Gigantification</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Sensitivity">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Sensitivity</rdfs:label>
+    <skos:prefLabel xml:lang="en">Sensitivity</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Anything_touched_perfectly_with_five_fingers_collapses">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Anything touched perfectly with five fingers collapses</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Affectionate">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Affectionate</rdfs:label>
+    <skos:prefLabel xml:lang="en">Affectionate</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Loyalty">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Loyalty</rdfs:label>
+    <skos:prefLabel xml:lang="en">Loyalty</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Psychopath">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Psychopath</rdfs:label>
+    <skos:prefLabel xml:lang="en">Psychopath</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/PsychologicalTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Yandere-type_girl">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Yandere-type girl</rdfs:label>
+    <skos:prefLabel xml:lang="en">Yandere-type girl</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Tyrant">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Tyrant</rdfs:label>
+    <skos:prefLabel xml:lang="en">Tyrant</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Cold-bloodedness">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Cold-bloodedness</rdfs:label>
+    <skos:prefLabel xml:lang="en">Cold-bloodedness</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Verbal_abuser">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Verbal abuser</rdfs:label>
+    <skos:prefLabel xml:lang="en">Verbal abuser</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/work/work_ani_003">
+    <rdf:type rdf:resource="http://villainscope.org/villain/CreativeWork"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Animation"/>
+    <schema1:name>Neon Genesis EVANGELION</schema1:name>
+    <dcterms:title>Neon Genesis EVANGELION</dcterms:title>
+    <rdfs:label>Neon Genesis EVANGELION</rdfs:label>
+    <schema1:genre>Animation</schema1:genre>
+    <villain:mediaType>animation</villain:mediaType>
+    <villain:hasCharacter rdf:resource="http://villainscope.org/villain/villain_ani_006"/>
+    <schema1:character rdf:resource="http://villainscope.org/villain/villain_ani_006"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/work/work_ani_004">
+    <rdf:type rdf:resource="http://villainscope.org/villain/CreativeWork"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Animation"/>
+    <schema1:name>Gintama</schema1:name>
+    <dcterms:title>Gintama</dcterms:title>
+    <rdfs:label>Gintama</rdfs:label>
+    <schema1:genre>Animation</schema1:genre>
+    <villain:mediaType>animation</villain:mediaType>
+    <villain:hasCharacter rdf:resource="http://villainscope.org/villain/villain_ani_007"/>
+    <schema1:character rdf:resource="http://villainscope.org/villain/villain_ani_007"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Regenerative_abilities">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Regenerative abilities</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Obsession">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Obsession</rdfs:label>
+    <skos:prefLabel xml:lang="en">Obsession</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/PsychologicalTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Criminal">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Criminal</rdfs:label>
+    <skos:prefLabel xml:lang="en">Criminal</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/BehavioralTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Name_-_Antagonists_appellation">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Name - Antagonist's appellation</rdfs:label>
+    <skos:prefLabel xml:lang="en">Name - Antagonist's appellation</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/work/work_ani_001">
+    <rdf:type rdf:resource="http://villainscope.org/villain/CreativeWork"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Animation"/>
+    <schema1:name>Fullmetal Alchemist</schema1:name>
+    <dcterms:title>Fullmetal Alchemist</dcterms:title>
+    <rdfs:label>Fullmetal Alchemist</rdfs:label>
+    <schema1:genre>Animation</schema1:genre>
+    <villain:mediaType>animation</villain:mediaType>
+    <villain:hasCharacter rdf:resource="http://villainscope.org/villain/villain_ani_001"/>
+    <villain:hasCharacter rdf:resource="http://villainscope.org/villain/villain_ani_002"/>
+    <schema1:character rdf:resource="http://villainscope.org/villain/villain_ani_001"/>
+    <schema1:character rdf:resource="http://villainscope.org/villain/villain_ani_002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Selective_affection">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Selective affection</rdfs:label>
+    <skos:prefLabel xml:lang="en">Selective affection</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Flight">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Flight</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Cunning">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Cunning</rdfs:label>
+    <skos:prefLabel xml:lang="en">Cunning</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/IntellectualTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Utilizes_concealed_eyes_under_blindfold_to_anticipate_even_the_swiftest_actions">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Utilizes concealed eyes under blindfold to anticipate even the swiftest actions</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Reads_opponents_movements">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Reads opponent's movements</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Fondness_for_blood">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Fondness for blood</rdfs:label>
+    <skos:prefLabel xml:lang="en">Fondness for blood</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Habit">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Habit</rdfs:label>
+    <skos:prefLabel xml:lang="en">Habit</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/work/work_ani_006">
+    <rdf:type rdf:resource="http://villainscope.org/villain/CreativeWork"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Animation"/>
+    <schema1:name>Demon Slayer: Kimetsu no Yaiba</schema1:name>
+    <dcterms:title>Demon Slayer: Kimetsu no Yaiba</dcterms:title>
+    <rdfs:label>Demon Slayer: Kimetsu no Yaiba</rdfs:label>
+    <schema1:genre>Animation</schema1:genre>
+    <villain:mediaType>animation</villain:mediaType>
+    <villain:hasCharacter rdf:resource="http://villainscope.org/villain/villain_ani_009"/>
+    <schema1:character rdf:resource="http://villainscope.org/villain/villain_ani_009"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Liar">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Liar</rdfs:label>
+    <skos:prefLabel xml:lang="en">Liar</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/MoralTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Inscrutable">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Inscrutable</rdfs:label>
+    <skos:prefLabel xml:lang="en">Inscrutable</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Superhuman_feature_strength_speed_reflexes_durability">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Superhuman feature: strength, speed, reflexes, durability</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Agility">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Agility</rdfs:label>
+    <skos:prefLabel xml:lang="en">Agility</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Strong_determination">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Strong determination</rdfs:label>
+    <skos:prefLabel xml:lang="en">Strong determination</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Lack_of_morality">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Lack of morality</rdfs:label>
+    <skos:prefLabel xml:lang="en">Lack of morality</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Obsessive-compulsive_disorder">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Obsessive-compulsive disorder</rdfs:label>
+    <skos:prefLabel xml:lang="en">Obsessive-compulsive disorder</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Collapse">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Collapse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Stubbornness">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Stubbornness</rdfs:label>
+    <skos:prefLabel xml:lang="en">Stubbornness</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Lack_of_affection">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Lack of affection</rdfs:label>
+    <skos:prefLabel xml:lang="en">Lack of affection</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/work/work_ani_002">
+    <rdf:type rdf:resource="http://villainscope.org/villain/CreativeWork"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://villainscope.org/villain/Animation"/>
+    <schema1:name>My Hero Academia</schema1:name>
+    <dcterms:title>My Hero Academia</dcterms:title>
+    <rdfs:label>My Hero Academia</rdfs:label>
+    <schema1:genre>Animation</schema1:genre>
+    <villain:mediaType>animation</villain:mediaType>
+    <villain:hasCharacter rdf:resource="http://villainscope.org/villain/villain_ani_003"/>
+    <villain:hasCharacter rdf:resource="http://villainscope.org/villain/villain_ani_004"/>
+    <villain:hasCharacter rdf:resource="http://villainscope.org/villain/villain_ani_005"/>
+    <schema1:character rdf:resource="http://villainscope.org/villain/villain_ani_003"/>
+    <schema1:character rdf:resource="http://villainscope.org/villain/villain_ani_004"/>
+    <schema1:character rdf:resource="http://villainscope.org/villain/villain_ani_005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Superhuman_feature_Supernatural_speed_strength">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Superhuman feature: Supernatural speed, strength</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/The_range_of_the_effect_has_widened">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>The range of the effect has widened</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Cheerful">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Cheerful</rdfs:label>
+    <skos:prefLabel xml:lang="en">Cheerful</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Mistreatment">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Mistreatment</rdfs:label>
+    <skos:prefLabel xml:lang="en">Mistreatment</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Strategic">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Strategic</rdfs:label>
+    <skos:prefLabel xml:lang="en">Strategic</skos:prefLabel>
+    <villain:belongsToCategory rdf:resource="http://villainscope.org/trait/IntellectualTraits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Former_Yakuza_member">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Former Yakuza member</rdfs:label>
+    <skos:prefLabel xml:lang="en">Former Yakuza member</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Sadistic">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Sadistic</rdfs:label>
+    <skos:prefLabel xml:lang="en">Sadistic</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Ability_to_transfer_soul_into_another_persons_body_for_transformation">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Ability to transfer soul into another person's body for transformation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Birthday">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Birthday</rdfs:label>
+    <skos:prefLabel xml:lang="en">Birthday</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/collapses_even_if_touched_with_just_one_finger_or_foot_not_necessarily_the_whole_hand_or_foot">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>collapses even if touched with just one finger or foot, not necessarily the whole hand or foot.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Shapeshifting">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Shapeshifting</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Consumes_the_blood_of_the_target_he_wants_to_transform_into_memorizes_their_body_dimensions_and_features_accurately_then_transforms">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Cold-blooded">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Cold-blooded</rdfs:label>
+    <skos:prefLabel xml:lang="en">Cold-blooded</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Exceptional_swordsmanship">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Exceptional swordsmanship</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Capable_of_large-scale_alchemy">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Capable of large-scale alchemy</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/trait/Duplicitous_nature">
+    <rdf:type rdf:resource="http://villainscope.org/villain/PersonalityTrait"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>Duplicitous nature</rdfs:label>
+    <skos:prefLabel xml:lang="en">Duplicitous nature</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Alchemy">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Alchemy</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Mass_destruction_with_energy_beams">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Mass destruction with energy beams</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Birdman">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Birdman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Overhaul_Capable_of_disassembly_healing_and_reassembly">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Overhaul: Capable of disassembly, healing, and reassembly</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://villainscope.org/ability/Immortality">
+    <rdf:type rdf:resource="http://villainscope.org/villain/Ability"/>
+    <rdfs:label>Immortality</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

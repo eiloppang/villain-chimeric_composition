@@ -1,0 +1,857 @@
+@prefix ability: <http://villainscope.org/ability/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix trait: <http://villainscope.org/trait/> .
+@prefix villain: <http://villainscope.org/villain/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix work: <http://villainscope.org/work/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://villainscope.org/ontology> a owl:Ontology ;
+    rdfs:label "VillainScope Knowledge Graph"@en ;
+    dcterms:creator "Gayeon Kim" ;
+    rdfs:comment "Knowledge graph for villain character analysis supporting distant reading and Graph RAG applications."@en ;
+    owl:versionInfo "2.0" .
+
+ability:Ability_to_transfer_soul_into_another_persons_body_for_transformation a villain:Ability ;
+    rdfs:label "Ability to transfer soul into another person's body for transformation" .
+
+ability:Alchemy a villain:Ability ;
+    rdfs:label "Alchemy" .
+
+ability:Anything_touched_perfectly_with_five_fingers_collapses a villain:Ability ;
+    rdfs:label "Anything touched perfectly with five fingers collapses" .
+
+ability:Birdman a villain:Ability ;
+    rdfs:label "Birdman" .
+
+ability:Capable_of_large-scale_alchemy a villain:Ability ;
+    rdfs:label "Capable of large-scale alchemy" .
+
+ability:Collapse a villain:Ability ;
+    rdfs:label "Collapse" .
+
+ability:Consumes_the_blood_of_the_target_he_wants_to_transform_into_memorizes_their_body_dimensions_and_features_accurately_then_transforms a villain:Ability ;
+    rdfs:label "Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms." .
+
+ability:Flight a villain:Ability ;
+    rdfs:label "Flight" .
+
+ability:Gigantification a villain:Ability ;
+    rdfs:label "Gigantification" .
+
+ability:Initially a villain:Ability ;
+    rdfs:label "Initially" .
+
+ability:Mass_destruction_with_energy_beams a villain:Ability ;
+    rdfs:label "Mass destruction with energy beams" .
+
+ability:Overhaul_Capable_of_disassembly_healing_and_reassembly a villain:Ability ;
+    rdfs:label "Overhaul: Capable of disassembly, healing, and reassembly" .
+
+ability:Proficient_in_close_combat a villain:Ability ;
+    rdfs:label "Proficient in close combat" .
+
+ability:Reads_opponents_movements a villain:Ability ;
+    rdfs:label "Reads opponent's movements" .
+
+ability:Superhuman_feature_Supernatural_speed_strength a villain:Ability ;
+    rdfs:label "Superhuman feature: Supernatural speed, strength" .
+
+ability:Superhuman_feature_strength_speed_reflexes_durability a villain:Ability ;
+    rdfs:label "Superhuman feature: strength, speed, reflexes, durability" .
+
+ability:The_range_of_the_effect_has_widened a villain:Ability ;
+    rdfs:label "The range of the effect has widened" .
+
+ability:Utilizes_concealed_eyes_under_blindfold_to_anticipate_even_the_swiftest_actions a villain:Ability ;
+    rdfs:label "Utilizes concealed eyes under blindfold to anticipate even the swiftest actions" .
+
+ability:collapses_even_if_touched_with_just_one_finger_or_foot_not_necessarily_the_whole_hand_or_foot a villain:Ability ;
+    rdfs:label "collapses even if touched with just one finger or foot, not necessarily the whole hand or foot." .
+
+trait:Affectionate a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Affectionate" ;
+    skos:prefLabel "Affectionate"@en .
+
+trait:Agility a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Agility" ;
+    skos:prefLabel "Agility"@en .
+
+trait:Arrogance a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Arrogance" ;
+    villain:belongsToCategory trait:PsychologicalTraits ;
+    skos:prefLabel "Arrogance"@en .
+
+trait:Birthday a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Birthday" ;
+    skos:prefLabel "Birthday"@en .
+
+trait:Cheerful a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cheerful" ;
+    skos:prefLabel "Cheerful"@en .
+
+trait:Cold-blooded a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cold-blooded" ;
+    skos:prefLabel "Cold-blooded"@en .
+
+trait:Cold-bloodedness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cold-bloodedness" ;
+    skos:prefLabel "Cold-bloodedness"@en .
+
+trait:Duplicitous_nature a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Duplicitous nature" ;
+    skos:prefLabel "Duplicitous nature"@en .
+
+trait:Fondness_for_blood a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Fondness for blood" ;
+    skos:prefLabel "Fondness for blood"@en .
+
+trait:Former_Yakuza_member a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Former Yakuza member" ;
+    skos:prefLabel "Former Yakuza member"@en .
+
+trait:Habit a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Habit" ;
+    skos:prefLabel "Habit"@en .
+
+trait:Inscrutable a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Inscrutable" ;
+    skos:prefLabel "Inscrutable"@en .
+
+trait:Lack_of_affection a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Lack of affection" ;
+    skos:prefLabel "Lack of affection"@en .
+
+trait:Liar a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Liar" ;
+    villain:belongsToCategory trait:MoralTraits ;
+    skos:prefLabel "Liar"@en .
+
+trait:Loyalty a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Loyalty" ;
+    skos:prefLabel "Loyalty"@en .
+
+trait:Madness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Madness" ;
+    skos:prefLabel "Madness"@en .
+
+trait:Maliciousness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Maliciousness" ;
+    skos:prefLabel "Maliciousness"@en .
+
+trait:Name_-_Antagonists_appellation a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Name - Antagonist's appellation" ;
+    skos:prefLabel "Name - Antagonist's appellation"@en .
+
+trait:Obsessive-compulsive_disorder a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Obsessive-compulsive disorder" ;
+    skos:prefLabel "Obsessive-compulsive disorder"@en .
+
+trait:Psychopath a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Psychopath" ;
+    villain:belongsToCategory trait:PsychologicalTraits ;
+    skos:prefLabel "Psychopath"@en .
+
+trait:Psychopathy a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Psychopathy" ;
+    villain:belongsToCategory trait:PsychologicalTraits ;
+    skos:prefLabel "Psychopathy"@en .
+
+trait:Sadistic a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Sadistic" ;
+    skos:prefLabel "Sadistic"@en .
+
+trait:Selective_affection a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Selective affection" ;
+    skos:prefLabel "Selective affection"@en .
+
+trait:Sensitivity a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Sensitivity" ;
+    skos:prefLabel "Sensitivity"@en .
+
+trait:Strong_determination a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Strong determination" ;
+    skos:prefLabel "Strong determination"@en .
+
+trait:Stubbornness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Stubbornness" ;
+    skos:prefLabel "Stubbornness"@en .
+
+trait:Unfortunate_childhood a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Unfortunate childhood" ;
+    skos:prefLabel "Unfortunate childhood"@en .
+
+trait:Verbal_abuser a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Verbal abuser" ;
+    skos:prefLabel "Verbal abuser"@en .
+
+trait:Violence a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Violence" ;
+    villain:belongsToCategory trait:BehavioralTraits ;
+    skos:prefLabel "Violence"@en .
+
+trait:Yandere-type_girl a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Yandere-type girl" ;
+    skos:prefLabel "Yandere-type girl"@en .
+
+ability:Exceptional_swordsmanship a villain:Ability ;
+    rdfs:label "Exceptional swordsmanship" .
+
+ability:Immortality a villain:Ability ;
+    rdfs:label "Immortality" .
+
+ability:Shapeshifting a villain:Ability ;
+    rdfs:label "Shapeshifting" .
+
+trait:Cunning a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cunning" ;
+    villain:belongsToCategory trait:IntellectualTraits ;
+    skos:prefLabel "Cunning"@en .
+
+trait:Lack_of_morality a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Lack of morality" ;
+    skos:prefLabel "Lack of morality"@en .
+
+trait:Leadership a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Leadership" ;
+    villain:belongsToCategory trait:SocialTraits ;
+    skos:prefLabel "Leadership"@en .
+
+trait:Narcissism a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Narcissism" ;
+    villain:belongsToCategory trait:PsychologicalTraits ;
+    skos:prefLabel "Narcissism"@en .
+
+trait:Tyrant a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Tyrant" ;
+    skos:prefLabel "Tyrant"@en .
+
+villain:villain_ani_001 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Bradley King" ;
+    schema1:age 60 ;
+    schema1:description "Duplicitous nature: Serenity. Affectionate. Violence. | Ruthlessness: Willing to sacrifice even his own son for the attainment of his goal (Philosopher's Stone). | Strategic: Planning criminal activities. | Cheerful: Cracks jokes to amuse his subordinates." ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_ani_001 ;
+    schema1:jobTitle "Military; Grand Marshal" ;
+    schema1:knowsAbout "Reads opponent's movements; Utilizes concealed eyes under blindfold to anticipate even the swiftest actions; Exceptional swordsmanship; Proficient in close combat" ;
+    schema1:name "Bradley King" ;
+    schema1:sameAs wd:Q3196996 ;
+    villain:abilities "Reads opponent's movements; Utilizes concealed eyes under blindfold to anticipate even the swiftest actions; Exceptional swordsmanship; Proficient in close combat" ;
+    villain:appearsIn work:work_ani_001 ;
+    villain:distinctiveFeatures "Wears an eyepatch covering the right eye." ;
+    villain:ethnicity "Homunculus" ;
+    villain:facialFeatures "Mustache" ;
+    villain:hairDescription "White hair with black streaks." ;
+    villain:hasAbility ability:Exceptional_swordsmanship,
+        ability:Proficient_in_close_combat,
+        ability:Reads_opponents_movements,
+        ability:Utilizes_concealed_eyes_under_blindfold_to_anticipate_even_the_swiftest_actions ;
+    villain:hasPersonalityTrait trait:Cheerful,
+        trait:Duplicitous_nature,
+        trait:Ruthlessness,
+        trait:Strategic ;
+    villain:occupation "Military; Grand Marshal" ;
+    villain:personalityDetails "Duplicitous nature: Serenity. Affectionate. Violence. | Ruthlessness: Willing to sacrifice even his own son for the attainment of his goal (Philosopher's Stone). | Strategic: Planning criminal activities. | Cheerful: Cracks jokes to amuse his subordinates." ;
+    villain:personalityTrait "Cheerful",
+        "Duplicitous nature",
+        "Ruthlessness",
+        "Strategic" ;
+    villain:personalityTraits "Duplicitous nature; Ruthlessness; Strategic; Cheerful" ;
+    villain:wikidataDescription "fictional character from Fullmetal Alchemist"@en ;
+    villain:wikidataEntity wd:Q3196996 ;
+    villain:wikidataLabel "King Bradley"@en ;
+    owl:sameAs wd:Q3196996 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q725249,
+        wd:Q80447738,
+        wd:Q87576284 ;
+    foaf:age 60 ;
+    foaf:gender "Male" ;
+    foaf:name "Bradley King" ;
+    foaf:title "Military; Grand Marshal" .
+
+villain:villain_ani_002 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Dante" ;
+    schema1:age 400 ;
+    schema1:description "Strategic: Plans criminal activities | Ruthlessness: Forces many people into sacrifice for his goals. Subordinates in the organization are used solely for his objectives (Eternal life), devoid of affection. | Obsession: Eternal life. Obsession with a specific individual (Hohenheim of Light). | Criminal: Mass murder | Lack of morality: No remorse towards targets he kills. | Leadership: Leads the Homunculi." ;
+    schema1:gender "Female" ;
+    schema1:isPartOf work:work_ani_001 ;
+    schema1:jobTitle "Alchemist" ;
+    schema1:knowsAbout "Immortality; Ability to transfer soul into another person's body for transformation; Alchemy; Capable of large-scale alchemy; Regenerative abilities" ;
+    schema1:name "Dante" ;
+    villain:abilities "Immortality; Ability to transfer soul into another person's body for transformation; Alchemy; Capable of large-scale alchemy; Regenerative abilities" ;
+    villain:appearsIn work:work_ani_001 ;
+    villain:distinctiveFeatures "Leaves a strong scent of perfume." ;
+    villain:ethnicity "Homunculus" ;
+    villain:facialFeatures "Protean" ;
+    villain:hairDescription "Protean" ;
+    villain:hasAbility ability:Ability_to_transfer_soul_into_another_persons_body_for_transformation,
+        ability:Alchemy,
+        ability:Capable_of_large-scale_alchemy,
+        ability:Immortality,
+        ability:Regenerative_abilities ;
+    villain:hasPersonalityTrait trait:Criminal,
+        trait:Lack_of_morality,
+        trait:Leadership,
+        trait:Obsession,
+        trait:Ruthlessness,
+        trait:Strategic ;
+    villain:occupation "Alchemist" ;
+    villain:personalityDetails "Strategic: Plans criminal activities | Ruthlessness: Forces many people into sacrifice for his goals. Subordinates in the organization are used solely for his objectives (Eternal life), devoid of affection. | Obsession: Eternal life. Obsession with a specific individual (Hohenheim of Light). | Criminal: Mass murder | Lack of morality: No remorse towards targets he kills. | Leadership: Leads the Homunculi." ;
+    villain:personalityTrait "Criminal",
+        "Lack of morality",
+        "Leadership",
+        "Obsession",
+        "Ruthlessness",
+        "Strategic" ;
+    villain:personalityTraits "Strategic; Ruthlessness; Obsession; Criminal; Lack of morality; Leadership" ;
+    foaf:age 400 ;
+    foaf:gender "Female" ;
+    foaf:name "Dante" ;
+    foaf:title "Alchemist" .
+
+villain:villain_ani_003 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Tomura Shigaraki" ;
+    schema1:age 20 ;
+    schema1:description "Unfortunate childhood: Strained relationship with father (desires to become a hero influenced by a heroic grandmother, but strained relationship due to father's opposition). | Habit: Scratches face when irritated or stressed. | Stubbornness: Resists having his soul consumed by the boss. | Obsession: Obsessed with murder. | Madness | Mistreatment: Lacks morality, feels joy rather than remorse after killing household members. | Criminal: Mass murder | Name - Antagonist's appellation: '死柄木弔 (Shibarakimotsurugi)' - Incorporating two characters related to death. | Birthday: April 4th. Symbolizes death." ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_ani_002 ;
+    schema1:jobTitle "Leader of the Surrealist Liberation Front" ;
+    schema1:knowsAbout "Collapse; Initially; Anything touched perfectly with five fingers collapses; The range of the effect has widened; collapses even if touched with just one finger or foot, not necessarily the whole hand or foot." ;
+    schema1:name "Tomura Shigaraki" ;
+    schema1:sameAs wd:Q133538012 ;
+    villain:abilities "Collapse; Initially; Anything touched perfectly with five fingers collapses; The range of the effect has widened; collapses even if touched with just one finger or foot, not necessarily the whole hand or foot." ;
+    villain:appearsIn work:work_ani_002 ;
+    villain:distinctiveFeatures "Entire body is surrounded by large hand-shaped objects." ;
+    villain:facialFeatures "Initially had a large hand-shaped object on the face; Currently squiggly eye area." ;
+    villain:hairDescription "Initially blue hair; Currently white" ;
+    villain:hasAbility ability:Anything_touched_perfectly_with_five_fingers_collapses,
+        ability:Collapse,
+        ability:Initially,
+        ability:The_range_of_the_effect_has_widened,
+        ability:collapses_even_if_touched_with_just_one_finger_or_foot_not_necessarily_the_whole_hand_or_foot ;
+    villain:hasPersonalityTrait trait:Birthday,
+        trait:Criminal,
+        trait:Habit,
+        trait:Madness,
+        trait:Mistreatment,
+        trait:Name_-_Antagonists_appellation,
+        trait:Obsession,
+        trait:Sensitivity,
+        trait:Stubbornness,
+        trait:Unfortunate_childhood ;
+    villain:occupation "Leader of the Surrealist Liberation Front" ;
+    villain:personalityDetails "Unfortunate childhood: Strained relationship with father (desires to become a hero influenced by a heroic grandmother, but strained relationship due to father's opposition). | Habit: Scratches face when irritated or stressed. | Stubbornness: Resists having his soul consumed by the boss. | Obsession: Obsessed with murder. | Madness | Mistreatment: Lacks morality, feels joy rather than remorse after killing household members. | Criminal: Mass murder | Name - Antagonist's appellation: '死柄木弔 (Shibarakimotsurugi)' - Incorporating two characters related to death. | Birthday: April 4th. Symbolizes death." ;
+    villain:personalityTrait "Birthday",
+        "Criminal",
+        "Habit",
+        "Madness",
+        "Mistreatment",
+        "Name - Antagonist's appellation",
+        "Obsession",
+        "Sensitivity",
+        "Stubbornness",
+        "Unfortunate childhood" ;
+    villain:personalityTraits "Unfortunate childhood; Habit; Sensitivity; Stubbornness; Obsession; Madness; Mistreatment; Criminal; Name - Antagonist's appellation; Birthday" ;
+    villain:wikidataDescription "fictional character in My Hero Academia"@en ;
+    villain:wikidataEntity wd:Q133538012 ;
+    villain:wikidataLabel "Tomura Shigaraki"@en ;
+    owl:sameAs wd:Q133538012 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q80447738,
+        wd:Q87576284 ;
+    foaf:age 20 ;
+    foaf:gender "Male" ;
+    foaf:name "Tomura Shigaraki" ;
+    foaf:title "Leader of the Surrealist Liberation Front" .
+
+villain:villain_ani_004 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Himiko Toga" ;
+    schema1:age 17 ;
+    schema1:description "Obsession: Obsession with love. Obsession with a specific individual (Midoriya Izuku). | Lack of affection | Mistreatment: Sadistic. Becomes excited after killing people. | Affectionate: Becomes explosive if loved ones are harmed. Takes good care of loved ones. | Fondness for blood | Agility | Criminal: Mass murder" ;
+    schema1:gender "Female" ;
+    schema1:isPartOf work:work_ani_002 ;
+    schema1:jobTitle "Subordinate of the Surrealist Liberation Front" ;
+    schema1:knowsAbout "Shapeshifting; Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms." ;
+    schema1:name "Himiko Toga" ;
+    villain:abilities "Shapeshifting; Consumes the blood of the target he wants to transform into, memorizes their body dimensions and features accurately, then transforms." ;
+    villain:appearsIn work:work_ani_002 ;
+    villain:distinctiveFeatures "School uniform" ;
+    villain:facialFeatures "Sharp canines." ;
+    villain:hairDescription "Blonde; Twintails." ;
+    villain:hasAbility ability:Consumes_the_blood_of_the_target_he_wants_to_transform_into_memorizes_their_body_dimensions_and_features_accurately_then_transforms,
+        ability:Shapeshifting ;
+    villain:hasPersonalityTrait trait:Affectionate,
+        trait:Agility,
+        trait:Criminal,
+        trait:Fondness_for_blood,
+        trait:Lack_of_affection,
+        trait:Mistreatment,
+        trait:Obsession,
+        trait:Yandere-type_girl ;
+    villain:occupation "Subordinate of the Surrealist Liberation Front" ;
+    villain:personalityDetails "Obsession: Obsession with love. Obsession with a specific individual (Midoriya Izuku). | Lack of affection | Mistreatment: Sadistic. Becomes excited after killing people. | Affectionate: Becomes explosive if loved ones are harmed. Takes good care of loved ones. | Fondness for blood | Agility | Criminal: Mass murder" ;
+    villain:personalityTrait "Affectionate",
+        "Agility",
+        "Criminal",
+        "Fondness for blood",
+        "Lack of affection",
+        "Mistreatment",
+        "Obsession",
+        "Yandere-type girl" ;
+    villain:personalityTraits "Obsession; Lack of affection; Mistreatment; Affectionate; Fondness for blood; Agility; Criminal;  yandere-type girl " ;
+    foaf:age 17 ;
+    foaf:gender "Female" ;
+    foaf:name "Himiko Toga" ;
+    foaf:title "Subordinate of the Surrealist Liberation Front" .
+
+villain:villain_ani_005 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Kai Chisaki" ;
+    schema1:age 27 ;
+    schema1:description "Ruthlessness: Commits child abuse for personal gain | Narcissism | Selective affection: Acts kind and affectionate when necessary. | Former Yakuza member | Loyalty: Loyal to the boss who took him in, seeks to repay the favor. | Obsession: Obsessed with a specific individual (former boss of the previous organization) | Criminal: Mass murder, child abuse." ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_ani_002 ;
+    schema1:jobTitle "Leader of the Four Virtues Reunion" ;
+    schema1:knowsAbout "Overhaul: Capable of disassembly, healing, and reassembly; Birdman" ;
+    schema1:name "Kai Chisaki" ;
+    villain:abilities "Overhaul: Capable of disassembly, healing, and reassembly; Birdman" ;
+    villain:appearsIn work:work_ani_002 ;
+    villain:distinctiveFeatures "signature red old-style magenta; gold plague mask " ;
+    villain:facialFeatures "thin eyes with small gold irises" ;
+    villain:hairDescription "reddish-brown sporting hair" ;
+    villain:hasAbility ability:Birdman,
+        ability:Overhaul_Capable_of_disassembly_healing_and_reassembly ;
+    villain:hasPersonalityTrait trait:Criminal,
+        trait:Former_Yakuza_member,
+        trait:Loyalty,
+        trait:Narcissism,
+        trait:Obsession,
+        trait:Obsessive-compulsive_disorder,
+        trait:Ruthlessness,
+        trait:Selective_affection ;
+    villain:occupation "Leader of the Four Virtues Reunion" ;
+    villain:personalityDetails "Ruthlessness: Commits child abuse for personal gain | Narcissism | Selective affection: Acts kind and affectionate when necessary. | Former Yakuza member | Loyalty: Loyal to the boss who took him in, seeks to repay the favor. | Obsession: Obsessed with a specific individual (former boss of the previous organization) | Criminal: Mass murder, child abuse." ;
+    villain:personalityTrait "Criminal",
+        "Former Yakuza member",
+        "Loyalty",
+        "Narcissism",
+        "Obsession",
+        "Obsessive-compulsive disorder",
+        "Ruthlessness",
+        "Selective affection" ;
+    villain:personalityTraits "Obsessive-compulsive disorder; Ruthlessness; Narcissism; Selective affection; Former Yakuza member; Loyalty; Obsession; Criminal" ;
+    foaf:age 27 ;
+    foaf:gender "Male" ;
+    foaf:name "Kai Chisaki" ;
+    foaf:title "Leader of the Four Virtues Reunion" .
+
+villain:villain_ani_006 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Gendo Ikari " ;
+    schema1:age 48 ;
+    schema1:description "Ruthlessness, Lack of morality: Despite the imminent risk to his son's life, he insisted on pushing forward with the dangerous mission to achieve his goal (the eradication of heretics). | Strategic: Plans meticulously to fulfill missions. | Violence: Has a history of drunken assaults, leading to being brought to the police station. | cold-bloodedness: extremely cold and distant father towards his son." ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_ani_003 ;
+    schema1:jobTitle "Nerf Commander" ;
+    schema1:name "Gendo Ikari " ;
+    schema1:sameAs wd:Q2721109 ;
+    villain:appearsIn work:work_ani_003 ;
+    villain:distinctiveFeatures "Brown glasses; Large burn mark on the right hand; White gloves" ;
+    villain:facialFeatures "Beard" ;
+    villain:hairDescription "sporting hair" ;
+    villain:hasPersonalityTrait trait:Cleverness,
+        trait:Cold-bloodedness,
+        trait:Cunning,
+        trait:Lack_of_morality,
+        trait:Maliciousness,
+        trait:Psychopathy,
+        trait:Ruthlessness,
+        trait:Strategic,
+        trait:Violence ;
+    villain:occupation "Nerf Commander" ;
+    villain:personalityDetails "Ruthlessness, Lack of morality: Despite the imminent risk to his son's life, he insisted on pushing forward with the dangerous mission to achieve his goal (the eradication of heretics). | Strategic: Plans meticulously to fulfill missions. | Violence: Has a history of drunken assaults, leading to being brought to the police station. | cold-bloodedness: extremely cold and distant father towards his son." ;
+    villain:personalityTrait "Cleverness",
+        "Cold-bloodedness",
+        "Cunning",
+        "Lack of morality",
+        "Maliciousness",
+        "Psychopathy",
+        "Ruthlessness",
+        "Strategic",
+        "Violence" ;
+    villain:personalityTraits "Cleverness; Psychopathy; Ruthlessness; Lack of morality; Cunning; Strategic; Maliciousness; Violence; cold-bloodedness" ;
+    villain:wikidataDescription "fictional character from Neon Genesis Evangelion"@en ;
+    villain:wikidataEntity wd:Q2721109 ;
+    villain:wikidataLabel "Gendo Ikari"@en ;
+    owl:sameAs wd:Q2721109 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q80447738,
+        wd:Q87576284 ;
+    foaf:age 48 ;
+    foaf:gender "Male" ;
+    foaf:name "Gendo Ikari " ;
+    foaf:title "Nerf Commander" .
+
+villain:villain_ani_007 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Utsuro" ;
+    schema1:age 500 ;
+    schema1:description "Ruthlessness: No hesitation in committing murder | Criminal: Murderer" ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_ani_004 ;
+    schema1:jobTitle "Leader" ;
+    schema1:knowsAbout "Exceptional swordsmanship; Immortality; Regenerative abilities" ;
+    schema1:name "Utsuro" ;
+    villain:abilities "Exceptional swordsmanship; Immortality; Regenerative abilities" ;
+    villain:appearsIn work:work_ani_004 ;
+    villain:distinctiveFeatures "Wears a mask covering below the nose." ;
+    villain:ethnicity "Human Mutate" ;
+    villain:hairDescription "Brown long hair" ;
+    villain:hasAbility ability:Exceptional_swordsmanship,
+        ability:Immortality,
+        ability:Regenerative_abilities ;
+    villain:hasPersonalityTrait trait:Cold-blooded,
+        trait:Criminal,
+        trait:Cunning,
+        trait:Inscrutable,
+        trait:Ruthlessness ;
+    villain:occupation "Leader" ;
+    villain:personalityDetails "Ruthlessness: No hesitation in committing murder | Criminal: Murderer" ;
+    villain:personalityTrait "Cold-blooded",
+        "Criminal",
+        "Cunning",
+        "Inscrutable",
+        "Ruthlessness" ;
+    villain:personalityTraits "Cunning; Cold-blooded; Ruthlessness; Inscrutable; Criminal" ;
+    foaf:age 500 ;
+    foaf:gender "Male" ;
+    foaf:name "Utsuro" ;
+    foaf:title "Leader" .
+
+villain:villain_ani_008 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Piccolo" ;
+    schema1:age 753 ;
+    schema1:description "Mistreatment: Takes pleasure in cruelty and brutality." ;
+    schema1:gender "hermaphrodite" ;
+    schema1:image <https://commons.wikimedia.org/wiki/Special:FilePath/Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%285%29.jpg> ;
+    schema1:isPartOf work:work_ani_005 ;
+    schema1:jobTitle "Leader" ;
+    schema1:knowsAbout "Superhuman feature: Supernatural speed, strength; Regenerative abilities; Mass destruction with energy beams; Gigantification; Flight" ;
+    schema1:name "Piccolo" ;
+    schema1:sameAs wd:Q151659 ;
+    villain:abilities "Superhuman feature: Supernatural speed, strength; Regenerative abilities; Mass destruction with energy beams; Gigantification; Flight" ;
+    villain:appearsIn work:work_ani_005 ;
+    villain:distinctiveFeatures "Two antennae on the forehead. Muscular physique; Tall stature." ;
+    villain:ethnicity "Namekian" ;
+    villain:facialFeatures "Green of skin; Pointy ears" ;
+    villain:hairDescription "baldhead" ;
+    villain:hasAbility ability:Flight,
+        ability:Gigantification,
+        ability:Mass_destruction_with_energy_beams,
+        ability:Regenerative_abilities,
+        ability:Superhuman_feature_Supernatural_speed_strength ;
+    villain:hasPersonalityTrait trait:Mistreatment,
+        trait:Tyrant ;
+    villain:occupation "Leader" ;
+    villain:personalityDetails "Mistreatment: Takes pleasure in cruelty and brutality." ;
+    villain:personalityTrait "Mistreatment",
+        "Tyrant" ;
+    villain:personalityTraits "Tyrant; Mistreatment" ;
+    villain:wikidataDescription "character from the Dragon Ball manga"@en ;
+    villain:wikidataEntity wd:Q151659 ;
+    villain:wikidataLabel "Piccolo"@en ;
+    owl:sameAs wd:Q151659 ;
+    wdt:P31 wd:Q28020127,
+        wd:Q80447738,
+        wd:Q87576284 ;
+    foaf:age 753 ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:FilePath/Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%285%29.jpg> ;
+    foaf:gender "hermaphrodite" ;
+    foaf:name "Piccolo" ;
+    foaf:title "Leader" .
+
+villain:villain_ani_009 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Muzan Kibutsuji " ;
+    schema1:age 1000 ;
+    schema1:description "Obsession: Obsessed with immortality (was very frail in childhood). | Leadership: Leads the Twelve Moon Phases. | Psychopath: Lacks understanding of emotions. | Narcissism: Self-centered, views others as inferior (refers to them as 'bugs'). | Strategic: Plans and executes everything meticulously. | Verbal abuser: Kills women with his words. | Ruthlessness: Executes immediately if tasks assigned are not fulfilled." ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_ani_006 ;
+    schema1:jobTitle "Leader" ;
+    schema1:knowsAbout "Shapeshifting" ;
+    schema1:name "Muzan Kibutsuji " ;
+    schema1:sameAs wd:Q116252649 ;
+    villain:abilities "Shapeshifting" ;
+    villain:appearsIn work:work_ani_006 ;
+    villain:distinctiveFeatures "Kind demeanor" ;
+    villain:ethnicity "Goblin" ;
+    villain:facialFeatures "Pale of skin" ;
+    villain:hairDescription "Curly hair" ;
+    villain:hasAbility ability:Shapeshifting ;
+    villain:hasPersonalityTrait trait:Cleverness,
+        trait:Leadership,
+        trait:Narcissism,
+        trait:Obsession,
+        trait:Psychopath,
+        trait:Ruthlessness,
+        trait:Strategic,
+        trait:Strong_determination,
+        trait:Tyrant,
+        trait:Verbal_abuser ;
+    villain:occupation "Leader" ;
+    villain:personalityDetails "Obsession: Obsessed with immortality (was very frail in childhood). | Leadership: Leads the Twelve Moon Phases. | Psychopath: Lacks understanding of emotions. | Narcissism: Self-centered, views others as inferior (refers to them as 'bugs'). | Strategic: Plans and executes everything meticulously. | Verbal abuser: Kills women with his words. | Ruthlessness: Executes immediately if tasks assigned are not fulfilled." ;
+    villain:personalityTrait "Cleverness",
+        "Leadership",
+        "Narcissism",
+        "Obsession",
+        "Psychopath",
+        "Ruthlessness",
+        "Strategic",
+        "Strong determination",
+        "Tyrant",
+        "Verbal abuser" ;
+    villain:personalityTraits "Obsession; Leadership; Tyrant; Strong determination; Psychopath; Narcissism; Strategic; Verbal abuser; Ruthlessness; Cleverness" ;
+    villain:wikidataDescription "Fictional character from Demon Slayer: Kimetsu no Yaiba"@en ;
+    villain:wikidataEntity wd:Q116252649 ;
+    villain:wikidataLabel "Muzan Kibutsuji"@en ;
+    owl:sameAs wd:Q116252649 ;
+    wdt:P31 wd:Q34315358,
+        wd:Q80447738,
+        wd:Q87576284 ;
+    foaf:age 1000 ;
+    foaf:gender "Male" ;
+    foaf:name "Muzan Kibutsuji " ;
+    foaf:title "Leader" .
+
+villain:villain_ani_010 a schema1:Person,
+        villain:Character,
+        villain:Villain,
+        foaf:Person ;
+    rdfs:label "Hisoka Morow " ;
+    schema1:age 28 ;
+    schema1:description "Criminal: Murderer | Mistreatment: Takes pleasure in murder | Sadistic: Takes pleasure in murdering the weak." ;
+    schema1:gender "Male" ;
+    schema1:isPartOf work:work_ani_007 ;
+    schema1:jobTitle "Hunter; Thief" ;
+    schema1:knowsAbout "Superhuman feature: strength, speed, reflexes, durability" ;
+    schema1:name "Hisoka Morow " ;
+    schema1:sameAs wd:Q2280812 ;
+    villain:abilities "Superhuman feature: strength, speed, reflexes, durability" ;
+    villain:appearsIn work:work_ani_007 ;
+    villain:distinctiveFeatures "Clown makeup" ;
+    villain:facialFeatures "Pale of sklin; Star under the left eye; Teardrop under the right eye" ;
+    villain:hairDescription "Red hair (pulled up)" ;
+    villain:hasAbility ability:Superhuman_feature_strength_speed_reflexes_durability ;
+    villain:hasPersonalityTrait trait:Arrogance,
+        trait:Cleverness,
+        trait:Criminal,
+        trait:Liar,
+        trait:Mistreatment,
+        trait:Sadistic ;
+    villain:occupation "Hunter; Thief" ;
+    villain:personalityDetails "Criminal: Murderer | Mistreatment: Takes pleasure in murder | Sadistic: Takes pleasure in murdering the weak." ;
+    villain:personalityTrait "Arrogance",
+        "Cleverness",
+        "Criminal",
+        "Liar",
+        "Mistreatment",
+        "Sadistic" ;
+    villain:personalityTraits "Cleverness; Criminal; Mistreatment; Liar; Sadistic; Arrogance" ;
+    villain:wikidataDescription "fictional character from Hunter × Hunter"@en ;
+    villain:wikidataEntity wd:Q2280812 ;
+    villain:wikidataLabel "Hisoka"@en ;
+    owl:sameAs wd:Q2280812 ;
+    wdt:P31 wd:Q15632617,
+        wd:Q80447738,
+        wd:Q87576284 ;
+    foaf:age 28 ;
+    foaf:gender "Male" ;
+    foaf:name "Hisoka Morow " ;
+    foaf:title "Hunter; Thief" .
+
+work:work_ani_003 a schema1:CreativeWork,
+        villain:Animation,
+        villain:CreativeWork ;
+    rdfs:label "Neon Genesis EVANGELION" ;
+    dcterms:title "Neon Genesis EVANGELION" ;
+    schema1:character villain:villain_ani_006 ;
+    schema1:genre "Animation" ;
+    schema1:name "Neon Genesis EVANGELION" ;
+    villain:hasCharacter villain:villain_ani_006 ;
+    villain:mediaType "animation" .
+
+work:work_ani_004 a schema1:CreativeWork,
+        villain:Animation,
+        villain:CreativeWork ;
+    rdfs:label "Gintama" ;
+    dcterms:title "Gintama" ;
+    schema1:character villain:villain_ani_007 ;
+    schema1:genre "Animation" ;
+    schema1:name "Gintama" ;
+    villain:hasCharacter villain:villain_ani_007 ;
+    villain:mediaType "animation" .
+
+work:work_ani_005 a schema1:CreativeWork,
+        villain:Animation,
+        villain:CreativeWork ;
+    rdfs:label "Dragon Ball" ;
+    dcterms:title "Dragon Ball" ;
+    schema1:character villain:villain_ani_008 ;
+    schema1:genre "Animation" ;
+    schema1:name "Dragon Ball" ;
+    villain:hasCharacter villain:villain_ani_008 ;
+    villain:mediaType "animation" .
+
+work:work_ani_006 a schema1:CreativeWork,
+        villain:Animation,
+        villain:CreativeWork ;
+    rdfs:label "Demon Slayer: Kimetsu no Yaiba" ;
+    dcterms:title "Demon Slayer: Kimetsu no Yaiba" ;
+    schema1:character villain:villain_ani_009 ;
+    schema1:genre "Animation" ;
+    schema1:name "Demon Slayer: Kimetsu no Yaiba" ;
+    villain:hasCharacter villain:villain_ani_009 ;
+    villain:mediaType "animation" .
+
+work:work_ani_007 a schema1:CreativeWork,
+        villain:Animation,
+        villain:CreativeWork ;
+    rdfs:label "HUNTER×HUNTER" ;
+    dcterms:title "HUNTER×HUNTER" ;
+    schema1:character villain:villain_ani_010 ;
+    schema1:genre "Animation" ;
+    schema1:name "HUNTER×HUNTER" ;
+    villain:hasCharacter villain:villain_ani_010 ;
+    villain:mediaType "animation" .
+
+ability:Regenerative_abilities a villain:Ability ;
+    rdfs:label "Regenerative abilities" .
+
+trait:Cleverness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Cleverness" ;
+    villain:belongsToCategory trait:IntellectualTraits ;
+    skos:prefLabel "Cleverness"@en .
+
+trait:Mistreatment a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Mistreatment" ;
+    skos:prefLabel "Mistreatment"@en .
+
+trait:Strategic a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Strategic" ;
+    villain:belongsToCategory trait:IntellectualTraits ;
+    skos:prefLabel "Strategic"@en .
+
+work:work_ani_001 a schema1:CreativeWork,
+        villain:Animation,
+        villain:CreativeWork ;
+    rdfs:label "Fullmetal Alchemist" ;
+    dcterms:title "Fullmetal Alchemist" ;
+    schema1:character villain:villain_ani_001,
+        villain:villain_ani_002 ;
+    schema1:genre "Animation" ;
+    schema1:name "Fullmetal Alchemist" ;
+    villain:hasCharacter villain:villain_ani_001,
+        villain:villain_ani_002 ;
+    villain:mediaType "animation" .
+
+trait:Obsession a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Obsession" ;
+    villain:belongsToCategory trait:PsychologicalTraits ;
+    skos:prefLabel "Obsession"@en .
+
+trait:Criminal a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Criminal" ;
+    villain:belongsToCategory trait:BehavioralTraits ;
+    skos:prefLabel "Criminal"@en .
+
+trait:Ruthlessness a villain:PersonalityTrait,
+        skos:Concept ;
+    rdfs:label "Ruthlessness" ;
+    villain:belongsToCategory trait:BehavioralTraits ;
+    skos:prefLabel "Ruthlessness"@en .
+
+work:work_ani_002 a schema1:CreativeWork,
+        villain:Animation,
+        villain:CreativeWork ;
+    rdfs:label "My Hero Academia" ;
+    dcterms:title "My Hero Academia" ;
+    schema1:character villain:villain_ani_003,
+        villain:villain_ani_004,
+        villain:villain_ani_005 ;
+    schema1:genre "Animation" ;
+    schema1:name "My Hero Academia" ;
+    villain:hasCharacter villain:villain_ani_003,
+        villain:villain_ani_004,
+        villain:villain_ani_005 ;
+    villain:mediaType "animation" .
+

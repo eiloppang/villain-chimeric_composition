@@ -1,0 +1,256 @@
+{
+  "Q1655364": {
+    "label": "Iago",
+    "description": "fictional character in William Shakespeare's Othello",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edwin_Booth_as_Iago_crop.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q3375722"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q652011": {
+    "label": "Richard III",
+    "description": "Shakespearean history play",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Hogarth_-_David_Garrick_as_Richard_III_-_Google_Art_Project.jpg",
+    "instance_of": [
+      "Q116476516"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q73007104": {
+    "label": "Aaron",
+    "description": "fictional character",
+    "image_url": null,
+    "instance_of": [
+      "Q95074"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2021531": {
+    "label": "Frankenstein's monster",
+    "description": "1818 fictional character by Mary Shelley",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankenstein%2C_or_the_Modern_Prometheus_%28Revised_Edition%2C_1831%29_Creature.jpg",
+    "instance_of": [
+      "Q28020127",
+      "Q30017383",
+      "Q3658341",
+      "Q30061600",
+      "Q276453",
+      "Q15773347",
+      "Q15773317"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q123582478": {
+    "label": "Cao Cao",
+    "description": "Romance of the Three Kingdoms character",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q110943983": {
+    "label": "Gao Qiu",
+    "description": "fictional character in Water Margin",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1035128": {
+    "label": "Captain Hook",
+    "description": "fictional pirate",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Captain_Hook.PNG",
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347",
+      "Q15773317",
+      "Q130287298"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q211013": {
+    "label": "Hannibal Lecter",
+    "description": "fictional character created by Thomas Harris",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347",
+      "Q15773317"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q43650835": {
+    "label": "Mr. Hyde",
+    "description": "fictional character from Robert Louis Stevenson's Strange Case of Dr Jekyll and Mr Hyde",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jekyll.and.Hyde.Ch1.Drawing3.jpg",
+    "instance_of": [
+      "Q3658341",
+      "Q15632617",
+      "Q15773347",
+      "Q64825337"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2454065": {
+    "label": "Lady Macbeth",
+    "description": "character from Shakespeare's play",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Macbeth_by_Alfred_Stevens.jpg",
+    "instance_of": [
+      "Q15698333",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q30085627": {
+    "label": "younger ugly sister",
+    "description": "character from the classical fairy tale Cinderella, younger step-sister",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cinderella_1865_%286%29.png",
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15711870"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q30085621": {
+    "label": "elder ugly sister",
+    "description": "character from the classical fairy tale Cinderella, elder step-sister",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15711870"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3266236": {
+    "label": "Count Dracula",
+    "description": "title character of Bram Stoker's 1897 gothic horror novel Dracula",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bela_Lugosi_as_Dracula%2C_anonymous_photograph_from_1931%2C_Universal_Studios.jpg",
+    "instance_of": [
+      "Q30061417",
+      "Q3658341",
+      "Q30174902",
+      "Q15773347",
+      "Q15773317",
+      "Q15711870",
+      "Q1569167",
+      "Q4271324"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q282220": {
+    "label": "Judah",
+    "description": "biblical figure; fourth son of Jacob and Leah; brother of Joseph",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yehuda%2C_son_of_Jacob.jpg",
+    "instance_of": [
+      "Q20643955"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q47482727": {
+    "label": "Clare Quilty",
+    "description": "character from Vladimir Nabokov's Lolita",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q35230": {
+    "label": "Satan",
+    "description": "entity in the Abrahamic religions that tells others to do sinful actions",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/GustaveDoreParadiseLostSatanProfile.jpg",
+    "instance_of": [
+      "Q581450",
+      "Q28855038",
+      "Q6674",
+      "Q3465"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3822980": {
+    "label": "Wicked Witch of the West",
+    "description": "fictional character and the most significant antagonist in L. Frank Baum's children's book The Wonderful Wizard of Oz",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wicked_Witch_of_the_West.png",
+    "instance_of": [
+      "Q15912738"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q3639999": {
+    "label": "Bill Sikes",
+    "description": "fictional character in the novel Oliver Twist by Charles Dickens",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill-sikes.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q3375722",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2305638": {
+    "label": "Shere Khan",
+    "description": "fictional character from Rudyard Kipling's \"The Jungle Book\"",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shere_Khan_illustration.jpg",
+    "instance_of": [
+      "Q27229763",
+      "Q3658341"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q166150": {
+    "label": "Damien Thorn",
+    "description": "antagonist of The Omen series",
+    "image_url": null,
+    "instance_of": [
+      "Q19324463",
+      "Q15773347",
+      "Q174546",
+      "Q15773317"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q1357701": {
+    "label": "Fu Manchu",
+    "description": "supervillain in a series of novels by the English author Sax Rohmer during the first half of the 20th century, based off ethnic stereotypes",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr_Fu_Manchu_I_W_Publishing.jpg",
+    "instance_of": [
+      "Q15632617",
+      "Q3658341",
+      "Q15773347"
+    ],
+    "part_of_series": null,
+    "creator": null
+  }
+}

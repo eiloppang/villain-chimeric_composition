@@ -1,0 +1,21 @@
+﻿비교,축,앞조건 승(30쌍),뒤조건 승(30쌍),순서의존,p(30쌍),앞조건 우세 캐릭터,뒤조건 우세 캐릭터,동률 캐릭터,p(캐릭터 n=10)
+A vs C,consistency,8,10,12,0.815,5,5,0,1.0
+A vs C,complexity,5,13,12,0.096,1,5,4,0.219
+A vs C,persuasiveness,8,11,11,0.648,4,5,1,1.0
+A vs C,violations,합계 36 / 적은쌍 10,합계 37 / 적은쌍 11,,1.0,5,4,1,1.0
+D vs B,consistency,6,11,13,0.332,1,5,4,0.219
+D vs B,complexity,5,10,15,0.302,3,7,0,0.344
+D vs B,persuasiveness,7,12,11,0.359,2,5,3,0.453
+D vs B,violations,합계 52 / 적은쌍 6,합계 41 / 적은쌍 15,,0.078,2,8,0,0.109
+A vs D,consistency,21,5,4,0.002,8,2,0,0.109
+A vs D,complexity,8,13,9,0.383,3,6,1,0.508
+A vs D,persuasiveness,9,12,9,0.664,2,5,3,0.453
+A vs D,violations,합계 22 / 적은쌍 21,합계 55 / 적은쌍 3,,0.0,9,1,0,0.021
+B vs C,consistency,5,16,9,0.027,0,6,4,0.031
+B vs C,complexity,10,14,6,0.541,3,4,3,1.0
+B vs C,persuasiveness,12,12,6,1.0,4,5,1,1.0
+B vs C,violations,합계 45 / 적은쌍 5,합계 17 / 적은쌍 18,,0.011,1,9,0,0.021
+A vs B,consistency,11,6,13,0.332,5,1,4,0.219
+A vs B,complexity,7,11,12,0.481,3,5,2,0.727
+A vs B,persuasiveness,7,14,9,0.189,3,6,1,0.508
+A vs B,violations,합계 29 / 적은쌍 16,합계 48 / 적은쌍 6,,0.052,8,2,0,0.109

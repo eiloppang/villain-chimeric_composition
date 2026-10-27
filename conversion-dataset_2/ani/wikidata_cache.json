@@ -1,0 +1,75 @@
+{
+  "Q3196996": {
+    "label": "King Bradley",
+    "description": "fictional character from Fullmetal Alchemist",
+    "image_url": null,
+    "instance_of": [
+      "Q87576284",
+      "Q80447738",
+      "Q725249",
+      "Q15632617"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q133538012": {
+    "label": "Tomura Shigaraki",
+    "description": "fictional character in My Hero Academia",
+    "image_url": null,
+    "instance_of": [
+      "Q80447738",
+      "Q15632617",
+      "Q87576284"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2721109": {
+    "label": "Gendo Ikari",
+    "description": "fictional character from Neon Genesis Evangelion",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q80447738",
+      "Q87576284"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q151659": {
+    "label": "Piccolo",
+    "description": "character from the Dragon Ball manga",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%285%29.jpg",
+    "instance_of": [
+      "Q80447738",
+      "Q87576284",
+      "Q28020127"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q116252649": {
+    "label": "Muzan Kibutsuji",
+    "description": "Fictional character from Demon Slayer: Kimetsu no Yaiba",
+    "image_url": null,
+    "instance_of": [
+      "Q80447738",
+      "Q87576284",
+      "Q34315358"
+    ],
+    "part_of_series": null,
+    "creator": null
+  },
+  "Q2280812": {
+    "label": "Hisoka",
+    "description": "fictional character from Hunter × Hunter",
+    "image_url": null,
+    "instance_of": [
+      "Q15632617",
+      "Q87576284",
+      "Q80447738"
+    ],
+    "part_of_series": null,
+    "creator": null
+  }
+}
