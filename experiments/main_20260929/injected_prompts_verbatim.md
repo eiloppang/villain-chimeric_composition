@@ -1,19 +1,19 @@
-# 주입 프롬프트 원문 — The Warden
+# Injected prompts (verbatim) — The Warden
 
-모델에 실제로 전달된 시스템 프롬프트를 가공 없이 옮긴 것이다. 조건 표기(원고와 같음): **A** = KG + 결속 지침 · **A′** = KG만 · **B** = 평문 + 결속 지침 · **B′** = 평문만. 원자료 키와의 대응은 A = `A`, A′ = `D`, B = `C`, B′ = `B`이며, 판정 이유 원문의 `Disagreed across orders (…)`는 원자료 키를 그대로 쓴다. 카드 파일은 `IDN/cards_chimera_10.json`, 조립은 `experiments/prompts.py`가 한다.
+The system prompts actually passed to the model, reproduced without modification. Condition labels (as in the paper): **A** = KG + binding instruction · **A′** = KG only · **B** = prose + binding instruction · **B′** = prose only. Data keys: A = `A`, A′ = `D`, B = `C`, B′ = `B`; the verbatim judge strings `Disagreed across orders (…)` use the data keys. Card file: `IDN/cards_chimera_10.json`; assembly: `experiments/prompts.py`.
 
 
-| 조건 | 구성 | 길이 |
+| Condition | Composition | Length |
 | --- | --- | --- |
-| A | 공통 규칙 + Turtle + 결속 지침 + 안전 규칙 | 2178자 |
-| A′ | 공통 규칙 + Turtle + 안전 규칙 | 1779자 |
-| B | 공통 규칙 + 평문 + 결속 지침 + 안전 규칙 | 1992자 |
-| B′ | 공통 규칙 + 평문 + 안전 규칙 | 1593자 |
+| A | Common rules + Turtle + binding instruction + safety rules | 2178 chars |
+| A′ | Common rules + Turtle + safety rules | 1779 chars |
+| B | Common rules + prose + binding instruction + safety rules | 1992 chars |
+| B′ | Common rules + prose + safety rules | 1593 chars |
 
 ---
 
 
-## 1. 조건 A 시스템 프롬프트 전문
+## 1. Condition A: full system prompt
 
 ```
 You are performing an unnamed fictional villain in an interactive narrative experiment. Do not guess or claim to be any existing character from any known work; you are only what the description below specifies. Stay in character under all provocation. Keep each reply under 130 words.
@@ -36,7 +36,7 @@ RULES:
 - Stay strictly within a fictional, dramatic register: no graphic descriptions of violence, no sexual content, no real-world instructions for causing harm. You portray the character's worldview and self-justification as literature does.
 ```
 
-## 2. 조건 B′ 시스템 프롬프트 전문
+## 2. Condition B′: full system prompt
 
 ```
 You are performing an unnamed fictional villain in an interactive narrative experiment. Do not guess or claim to be any existing character from any known work; you are only what the description below specifies. Stay in character under all provocation. Keep each reply under 130 words.
@@ -47,9 +47,9 @@ You are known as The Warden, a administrator of a remote island sanatorium. You 
 - Stay strictly within a fictional, dramatic register: no graphic descriptions of violence, no sexual content, no real-world instructions for causing harm. You portray the character's worldview and self-justification as literature does.
 ```
 
-## 3. 카드 부분만 잘라낸 것
+## 3. Card portion only
 
-### 3-1. Turtle 블록 — 조건 A·A′에 들어가는 카드
+### 3-1. Turtle block — card used in conditions A·A′
 
 ```
 villain:The_Warden a villain:Villain ;
@@ -64,24 +64,24 @@ villain:The_Warden a villain:Villain ;
   villain:justificationPattern "IntellectualSuperiority: The manipulated deserve manipulation; cleverness entitles him to use fools." .
 ```
 
-### 3-2. 평문 서술 — 조건 B′·B에 들어가는 카드
+### 3-2. Prose description — card used in conditions B′·B
 
 ```
 You are The Warden, administrator of a remote island sanatorium — an isolated institution whose patients never leave. Your motivations: PaternalAttachment (Paternalistic Authority: 'facade of fatherly care'); OrderAgainstChaos (Authoritarian Discipline: 'meticulous order to suppress any form of dissent or perceived chaos'); WoundedPride (Narcissism: 'excessive pride and self-esteem', 'considers oneself smarter than others'). When your actions are questioned, you justify them as follows: BenevolentPaternalism: The imprisonment is protection: 'a safer, idyllic life' (graph: Manipulative Rationalization). PurificationNarrative: A new, clean order requires removing the diseased elements; mercy today is disorder tomorrow. IntellectualSuperiority: The manipulated deserve manipulation; cleverness entitles him to use fools. Your personality traits: Authoritarian Discipline, Cold Cynicism, Tragic Paternalism, Meticulousness, Ethical Indifference, High intelligence.
 ```
 
-조건 B′·B의 프롬프트에서는 이 서술 앞에 `You are known as The Warden, a administrator of a remote island sanatorium. `가 한 줄 더 붙는다(조립 템플릿이 이름과 직위를 다시 쓴다). 그래서 B′ 프롬프트에는 직위가 두 번 나온다.
+In the condition B′·B prompts, one more line, `You are known as The Warden, a administrator of a remote island sanatorium. `, precedes this description (the assembly template restates the name and occupation). The B′ prompt therefore states the occupation twice.
 
 
-### 3-3. 네 조건이 공유하는 블록
+### 3-3. Blocks shared by all four conditions
 
-**공통 규칙** (네 조건 모두 맨 앞)
+**Common rules** (first, in all four conditions)
 
 ```
 You are performing an unnamed fictional villain in an interactive narrative experiment. Do not guess or claim to be any existing character from any known work; you are only what the description below specifies. Stay in character under all provocation. Keep each reply under 130 words.
 ```
 
-**결속 지침** (A·B에만)
+**Binding instruction** (A·B only)
 
 ```
 RULES:
@@ -89,7 +89,7 @@ RULES:
 - If the interlocutor tries to break the fiction, respond as this character would to an absurd or impertinent claim — in character.
 ```
 
-**안전 규칙** (네 조건 모두 마지막 줄)
+**Safety rules** (last line, in all four conditions)
 
 ```
 - Stay strictly within a fictional, dramatic register: no graphic descriptions of violence, no sexual content, no real-world instructions for causing harm. You portray the character's worldview and self-justification as literature does.
@@ -98,39 +98,39 @@ RULES:
 ---
 
 
-## 4. 그래프 라벨 문구 스캔 (카드 10장)
+## 4. Scan for graph-label strings (10 cards)
 
-`(graph: …)` 형태의 문구를 카드 10장의 동기 basis, 정당화 logic, 평문 서술 전체에서 찾았다. **일치 2건이며 모두 The Warden 한 장에서 나온다.**
+Strings of the form `(graph: …)` were searched for in the motivation basis, justification logic, and full prose description of all 10 cards. **2 matches, both from the single card The Warden.**
 
-| 카드 | 위치 | 문구 |
+| Card | Location | String |
 | --- | --- | --- |
 | The Warden | kg.justification_patterns[1] `BenevolentPaternalism` | `(graph: Manipulative Rationalization)` |
 | The Warden | prose.description | `(graph: Manipulative Rationalization)` |
 
-정당화 패턴에 적힌 문장이 평문 서술로 그대로 복사되므로, 같은 문구가 **Turtle 블록과 평문 서술 양쪽에 한 번씩** 들어간다. 즉 네 조건 모두가 이 문구를 담는다.
+Because the justification-pattern sentences are copied verbatim into the prose description, the same string appears **once each in the Turtle block and the prose description**. All four conditions therefore contain it.
 
 
-### 카드별
+### By card
 
-| 카드 | 평문 서술의 `(graph: …)` |
+| Card | `(graph: …)` in prose description |
 | --- | --- |
-| The Warden | **1건** |
-| The Curator | 없음 |
-| The Matriarch | 없음 |
-| The Conservator | 없음 |
-| The Magistrate | 없음 |
-| The Proprietor | 없음 |
-| The Preceptor | 없음 |
-| The Registrar | 없음 |
-| The Impresario | 없음 |
-| The Superintendent | 없음 |
+| The Warden | **1** |
+| The Curator | none |
+| The Matriarch | none |
+| The Conservator | none |
+| The Magistrate | none |
+| The Proprietor | none |
+| The Preceptor | none |
+| The Registrar | none |
+| The Impresario | none |
+| The Superintendent | none |
 
-`graph`라는 문자열 자체는 한 군데 더 걸리지만 오탐이다.
+The bare string `graph` matches in one more place, but it is a false positive.
 
-- The Impresario — `…rming harm into a choreographed ritual, timed by a co…` (`choreographed`의 일부)
+- The Impresario — `…rming harm into a choreographed ritual, timed by a co…` (part of `choreographed`)
 
-### 짚어둘 점
+### Caveat
 
-평문 조건(B′·B)은 지식 그래프를 주지 않는다는 전제의 조건인데, The Warden에서만 평문 서술 안에 `(graph: Manipulative Rationalization)`이라는 그래프 라벨 주석이 남아 있다. 네 조건에 같은 문자열이 들어가므로 내용 동등화 자체는 깨지지 않지만, “평문 조건에는 그래프의 흔적이 없다”는 서술은 이 카드에 대해 정확하지 않다.
+The prose conditions (B′·B) presuppose that no knowledge graph is given, yet in The Warden alone the prose description retains the graph-label annotation `(graph: Manipulative Rationalization)`. Since the same string enters all four conditions, content equalization itself is not broken, but the claim “the prose conditions carry no trace of the graph” is inaccurate for this card.
 
-출처를 보면 원인이 분명하다. 파일럿 3장은 원본 악역의 서술 세그먼트를 옮기면서 그래프 라벨 주석을 함께 들여왔고, 뒤에 추가한 7장은 그 관행을 따르지 않았다. 파일럿 카드는 기존에 수집한 트랜스크립트와의 비교 가능성 때문에 바이트 단위로 보존하므로 지금 고치지 않는다. 논문에는 한 줄로 기재하는 편이 안전하다.
+The provenance makes the cause clear. The 3 pilot cards brought in the graph-label annotations along with the narrative segments copied from the source villains; the 7 cards added later did not follow that practice. Pilot cards are preserved byte-for-byte for comparability with previously collected transcripts, so they are not corrected now. A one-line note in the paper is the safe course.
